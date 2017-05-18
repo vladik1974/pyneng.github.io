@@ -1,0 +1,48 @@
+# main links
+main:
+  - title: "Анонсы"
+    url: /blog/
+  - title: "Мои курсы"
+    url: /my-courses/
+  - title: "To Read 2017"
+    url: /to-read-2017/
+  - title: "About"
+    url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  #- title: "Sitemap"
+  #  url: /sitemap/
+docs:
+  - title: Основные ресурсы
+    children:
+      - title: "Программа курса"
+        url: /docs/course/
+      - title: Задания
+        url: /docs/tasks/
+      - title: "Репозиторий"
+        url: "https://github.com/pyneng/pyneng-online-jun-jul-2017"
+      - title: Календарь
+        url: /docs/calendar/
+  - title: Инструменты
+    children:
+      - title: Git
+        url: /docs/git/
+      - title: GitHub
+        url: /docs/github/
+      - title: "Cloud 9"
+        url: /docs/cloud9/
+      - title: Slack
+        url: /docs/slack/
+      - title: Vagrant
+        url: /docs/vagrant/
+      - title: Linux
+        url: /docs/linux/
+  - title: Ссылки на дополнительные ресурсы
+    children:
+      - title: Документация Python
+        url: /docs/python-docs/
+      - title: Книга "Python для сетевых инженеров"
+        url: https://www.gitbook.com/book/natenka/pyneng/details
+

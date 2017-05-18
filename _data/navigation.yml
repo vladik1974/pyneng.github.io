@@ -4,7 +4,7 @@ main:
     url: /blog/
   - title: "Календарь"
     url: /docs/calendar/
-  - title: "About"
+  - title: "Инструктор"
     url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/

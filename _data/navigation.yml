@@ -20,7 +20,7 @@ docs:
       - title: Задания
         url: /docs/tasks/
       - title: "Репозиторий"
-        url: "https://github.com/pyneng/pyneng-online-jun-jul-2017"
+        url: /docs/repo/
       - title: Календарь
         url: /docs/calendar/
   - title: Инструменты
@@ -37,7 +37,7 @@ docs:
         url: /docs/vagrant/
       - title: Linux
         url: /docs/linux/
-  - title: Ссылки на дополнительные ресурсы
+  - title: Дополнительные ресурсы
     children:
       - title: Документация Python
         url: /docs/python-docs/

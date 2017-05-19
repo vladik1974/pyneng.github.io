@@ -26,7 +26,7 @@ docs:
       - title: GitHub
         url: /docs/github/
       - title: "Cloud 9"
-        url: /docs/cloud9/
+        url: /docs/cloud/
       - title: Slack
         url: /docs/slack/
       - title: Vagrant

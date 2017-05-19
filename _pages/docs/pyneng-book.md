@@ -1,6 +1,6 @@
 ---
-title: "Использование Git"
-permalink: /docs/git/
-excerpt: "Git"
+title: Книга "Python для сетевых инженеров"
+permalink: /docs/pyneng-book/
+excerpt: "PyNEng book"
 ---
 

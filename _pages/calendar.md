@@ -1,6 +1,6 @@
 ---
 title: "Календарь"
-permalink: /docs/calendar/
+permalink: /calendar/
 excerpt: "Расписание лекций"
 ---
 

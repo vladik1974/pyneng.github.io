@@ -1,17 +1,11 @@
 # main links
 main:
   - title: "Анонсы курса"
-    url: /blog/
+    url: /
   - title: "Календарь"
-    url: /docs/calendar/
+    url: /calendar/
   - title: "Инструктор"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  #- title: "Sitemap"
-  #  url: /sitemap/
 docs:
   - title: Основные ресурсы
     children:
@@ -19,10 +13,12 @@ docs:
         url: /docs/course/
       - title: Задания
         url: /docs/tasks/
+      - title: Как учиться
+        url: /docs/learning-main/
       - title: "Репозиторий"
         url: /docs/repo/
       - title: Календарь
-        url: /docs/calendar/
+        url: /calendar/
   - title: Инструменты
     children:
       - title: Git
@@ -42,5 +38,5 @@ docs:
       - title: Документация Python
         url: /docs/python-docs/
       - title: Книга "Python для сетевых инженеров"
-        url: https://www.gitbook.com/book/natenka/pyneng/details
+        url: /docs/pyneng-book/
 

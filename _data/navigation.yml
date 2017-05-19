@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Анонсы курса"
+  - title: "Home"
     url: /
+  - title: "Курс"
+    url: /course/
   - title: "Календарь"
     url: /calendar/
   - title: "Преподаватель"

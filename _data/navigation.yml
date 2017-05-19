@@ -35,8 +35,10 @@ docs:
         url: /docs/linux/
   - title: Дополнительные ресурсы
     children:
-      - title: Документация Python
-        url: /docs/python-docs/
       - title: Книга "Python для сетевых инженеров"
         url: /docs/pyneng-book/
+      - title: Cheatsheets
+        url: /docs/cheatsheets/
+      - title: Дополнительные ресурсы по Python
+        url: /docs/python-docs/
 

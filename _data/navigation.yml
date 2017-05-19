@@ -14,9 +14,9 @@ docs:
       - title: Задания
         url: /docs/tasks/
       - title: Как учиться
-        url: /docs/learning-main/
+        url: /docs/learning/
       - title: "Репозиторий"
-        url: /docs/repo/
+        url: /docs/pyneng-github/
       - title: Календарь
         url: /calendar/
   - title: Инструменты

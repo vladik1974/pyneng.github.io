@@ -4,7 +4,7 @@ main:
     url: /
   - title: "Календарь"
     url: /calendar/
-  - title: "Инструктор"
+  - title: "Преподаватель"
     url: /about/
 docs:
   - title: Основные ресурсы

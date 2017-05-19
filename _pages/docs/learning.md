@@ -102,3 +102,4 @@ __Книга "Python для сетевых инженеров"__
 ## Дополнительные ресурсы
 
 * [Потрясающая подборка советов для тех, кто учится онлайн](http://www2.open.ac.uk/students/skillsforstudy/)
+* [Pragmatic Thinking and Learning: Refactor Your Wetware (Pragmatic Programmers)](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050) - отличная книга о том, как учиться

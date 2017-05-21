@@ -104,7 +104,7 @@ __Книга "Python для сетевых инженеров"__
 
 ### How to learn
 
-* [Потрясающая подборка советов для тех, кто учится онлайн](http://www2.open.ac.uk/students/skillsforstudy/)
+* [Отличная подборка советов для тех, кто учится онлайн](http://www2.open.ac.uk/students/skillsforstudy/)
 * [Studying 101: Study Smarter Not Harder](http://learningcenter.unc.edu/handouts/studying-101-study-smarter-not-harder/)
 
 

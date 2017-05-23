@@ -70,9 +70,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : #"google-universal"
+  provider               : "google-universal"
   google:
-    tracking_id          : #"UA-87357288-1"
+    tracking_id          : "UA-87357288-4"
 
 
 # Site Author

@@ -70,7 +70,7 @@ $ ssh-add ~/.ssh/id_rsa
 Для этого надо скопировать ключ.
 Например, таким образом можно отобразить ключ для копирования:
 ```
-cat ~/.ssh/id_rsa.pub
+$ cat ~/.ssh/id_rsa.pub
 ```
 
 После копирования, надо перейти на GitHub.
@@ -106,7 +106,7 @@ Hi natenka! You've successfully authenticated, but GitHub does not provide shell
 Для работы с ним локально, его нужно скопировать.
 Для этого используется команда git clone:
 ```
-git clone ssh://git@github.com/pyneng/online-2-natasha-samoylenko.git
+$ git clone ssh://git@github.com/pyneng/online-2-natasha-samoylenko.git
 Cloning into 'online-2-natasha-samoylenko'...
 remote: Counting objects: 241, done.
 remote: Compressing objects: 100% (191/191), done.
@@ -153,7 +153,7 @@ Checking connectivity... done.
 
 Команда git pull:
 ```
-git pull
+$ git pull
 ```
 
 Если содержимое локального репозитория одинаково с удаленным репозиторием - GitHub, вывод будет таким:
@@ -182,12 +182,12 @@ Fast-forward
 
 Добавление всех новых файлов или изменений в существующих:
 ```
-git add .
+$ git add .
 ```
 
 Если необходимо добавить конкретный файл (в данном случае - README.md):
 ```
-git add README.md
+$ git add README.md
 ```
 
 ### Commit
@@ -196,14 +196,14 @@ git add README.md
 Будет лучше, если сообщение будет со смыслом, а не просто "update" или подобное:
 
 ```
-git commit -m "Сделал задания 4.1-4.3"
+$ git commit -m "Сделал задания 4.1-4.3"
 ```
 
 ### Push на GitHub
 
 Для загрузки всех локальных изменений на GitHub, используется git push:
 ```
-git push origin master
+$ git push origin master
 Counting objects: 5, done.
 Compressing objects: 100% (5/5), done.
 Writing objects: 100% (5/5), 426 bytes | 0 bytes/s, done.

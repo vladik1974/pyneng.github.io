@@ -1,0 +1,60 @@
+---
+title: "Инструменты"
+date: 2017-05-27
+tags:
+ - announcement
+ - tools
+category:
+ - announcements
+---
+
+
+
+[Запись встречи]()
+
+
+Информация об инструментах, которые используются на курсе:
+
+* [Основы Git](https://pyneng.github.io/docs/git-basics/)
+* [Подготовка к работе с Git и GitHub](https://pyneng.github.io/docs/git-github-setup/)
+* [Использование Cloud 9 для выполнения заданий](https://pyneng.github.io/docs/cloud/)
+* [Основы работы в командной строке Linux](https://pyneng.github.io/docs/linux/)
+* [Общение в Slack](https://pyneng.github.io/docs/slack/)
+
+
+### К первой лекции надо
+
+* разобраться с Git и GitHub для выполнения заданий
+* установить Python 2.7 (проверить, что Python и pip установлены)
+* подготовить виртуалку (можно взять подготовленные [Vagrant](https://pyneng.github.io/docs/vagrant/) или [vmware](https://github.com/natenka/PyNEng/blob/master/exercises/vm/vmware.md))
+* выбрать текстовый редактор или IDE
+* начиная с раздела 12, мы будем подключаться к оборудованию. Поэтому лучше заранее подготовить виртуальное или реальное оборудование
+
+### Популярные редакторы
+
+> vim и emacs не указаны
+
+Linux:
+
+* Sublime Text
+* gEdit
+* nano
+* geany
+
+Mac OS
+
+* TextMate
+* TextWrangler
+
+Windows:
+
+* Notepad++
+
+
+Python IDE:
+
+* PyCharm
+* Spyder
+
+### Первая лекция курса 3 июня с 7:00 до 11:00 UTC
+

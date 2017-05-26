@@ -1,7 +1,7 @@
 ---
-title: "Использование Git"
-permalink: /docs/git/
-excerpt: "Git"
+title: "Основы Git"
+permalink: /docs/git-basics/
+excerpt: "Основы Git"
 ---
 
 ### О Git

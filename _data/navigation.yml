@@ -23,10 +23,10 @@ docs:
         url: /calendar/
   - title: Инструменты
     children:
-      - title: Git
-        url: /docs/git/
-      - title: GitHub
-        url: /docs/github/
+      - title: Основы Git
+        url: /docs/git-basics/
+      - title: Настройка Git и GitHub
+        url: /docs/git-github-setup/
       - title: "Cloud 9"
         url: /docs/cloud/
       - title: Slack

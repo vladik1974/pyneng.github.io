@@ -229,7 +229,14 @@ To ssh://git@github.com/pyneng/online-2-natasha-samoylenko.git
 
 Перейдите в ваш репозиторий на GitHub (на главную страницу) и нажмите на последний commit или перейдите на отображение всех commit и там перейдите на последний commmit.
 
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/repo_marked.png)
+
+
 В открывшемся commit вы увидите инфорацию о внесенных изменениях и внизу поле для комментария.
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/commit_comment.png)
+
 В этом поле вам нужно написать комментарий с информацией о том, какие задания сделаны.
 
 > Вам не нужно писать комментарий под каждым commit'ом. Достаточно написать под последним и указать какие задания сделаны.
@@ -242,7 +249,14 @@ To ssh://git@github.com/pyneng/online-2-natasha-samoylenko.git
 
 Для получения оповещений от GitHub, вам нужно следить за репозиторием.
 Чтобы это включить, надо нажать кнопку "Watch" в вашем репозитории и выбрать вариант "Watching".
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/watch_marked.png)
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/watch_watching.png)
+
+
 После этого вам на почту будут приходить оповещения, когда я напишу комментарий.
+
 
 ### 
 

@@ -107,6 +107,13 @@ Hi natenka! You've successfully authenticated, but GitHub does not provide shell
 Для этого используется команда git clone:
 ```
 git clone ssh://git@github.com/pyneng/online-2-natasha-samoylenko.git
+Cloning into 'online-2-natasha-samoylenko'...
+remote: Counting objects: 241, done.
+remote: Compressing objects: 100% (191/191), done.
+remote: Total 241 (delta 43), reused 239 (delta 41), pack-reused 0
+Receiving objects: 100% (241/241), 119.60 KiB | 0 bytes/s, done.
+Resolving deltas: 100% (43/43), done.
+Checking connectivity... done.
 ```
 
 В этой команде вам нужно сменить имя репозитория "online-2-natasha-samoylenko" на свой репозиторий.
@@ -142,9 +149,33 @@ git clone ssh://git@github.com/pyneng/online-2-natasha-samoylenko.git
 
 ### Синхронизация из GitHub в локальный репозиторий
 
+> Все команды выполняются внутри каталога репозитория (в примере выше - online-2-natasha-samoylenko)
+
 Команда git pull:
 ```
 git pull
+```
+
+Если содержимое локального репозитория одинаково с удаленным репозиторием - GitHub, вывод будет таким:
+```
+$ git pull
+Already up-to-date.
+```
+
+Если что-то было изменено, вывод будет примерно таким:
+```
+$ git pull
+remote: Counting objects: 5, done.
+remote: Compressing objects: 100% (1/1), done.
+remote: Total 5 (delta 4), reused 5 (delta 4), pack-reused 0
+Unpacking objects: 100% (5/5), done.
+From ssh://github.com/pyneng/online-2-natasha-samoylenko
+   89c04b6..fc4c721  master     -> origin/master
+Updating 89c04b6..fc4c721
+Fast-forward
+ exercises/03_data_structures/task_3_3.py | 2 ++
+ 1 file changed, 2 insertions(+)
+
 ```
 
 ### Добавление новых файлов или изменений в существующих файлах
@@ -173,6 +204,13 @@ git commit -m "Сделал задания 4.1-4.3"
 Для загрузки всех локальных изменений на GitHub, используется git push:
 ```
 git push origin master
+Counting objects: 5, done.
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 426 bytes | 0 bytes/s, done.
+Total 5 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To ssh://git@github.com/pyneng/online-2-natasha-samoylenko.git
+   fc4c721..edcf417  master -> master
 ```
 
 

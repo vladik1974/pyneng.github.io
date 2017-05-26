@@ -124,14 +124,8 @@ $
 ```
 
 Если же перейти в репозиторий Git:
-```
-[~]
-vagrant@jessie-i386:
-$ cd tools/first_repo/
 
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|✔] 
-```
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/setup_prompt.png)
 
 
 ### Работа с Git

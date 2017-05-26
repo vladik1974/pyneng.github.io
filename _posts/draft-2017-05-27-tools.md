@@ -13,7 +13,7 @@ category:
 [Запись встречи]()
 
 
-Информация об инструментах, которые используются на курсе:
+### Информация об инструментах, которые используются на курсе
 
 * [Основы Git](https://pyneng.github.io/docs/git-basics/)
 * [Подготовка к работе с Git и GitHub](https://pyneng.github.io/docs/git-github-setup/)
@@ -51,7 +51,7 @@ Windows:
 * Notepad++
 
 
-Python IDE:
+### Python IDE
 
 * PyCharm
 * Spyder

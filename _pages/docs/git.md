@@ -153,6 +153,9 @@ nothing to commit (create/copy files and use "git add" to track)
 
 ```
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_status_0.png)
+
+
 Git сообщает, что мы находимся в ветке master (эта ветка создается сама и используется по умолчанию) и что ему нечего добавлять в commit.
 Кроме этого, git предлагает создать или скопировать файлы и после этого воспользоваться командой git add, чтобы git начал за ними следить.
 
@@ -160,9 +163,12 @@ Git сообщает, что мы находимся в ветке master (эт�
 ```
 [~/tools/first_repo]
 vagrant@jessie-i386: [master L|✔] 
-$ echo "First try" > README
+$ vi README
 
 ```
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vi_readme.png)
+
 
 После этого приглашение выглядит таким образом:
 ```
@@ -170,6 +176,9 @@ $ echo "First try" > README
 vagrant@jessie-i386: [master L|…2] 
 
 ```
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bash_prompt.png)
+
 
 Почему-то в приглашении показано, что есть два файла, за которыми git еще не следит.
 Посмотрим в git status откуда взялся второй файл:
@@ -190,6 +199,8 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 ```
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_status_1.png)
 
 Git сообщает, что есть файлы за которыми он не следит, подсказывает какой командой это сделать.
 
@@ -229,6 +240,9 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 ```
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_status_2.png)
+
+
 Обратите внимание, что теперь в выводе нет файла .README.un~.
 Как только в репозитории добавлен файл .gitignore, файлы, которые указаны в нем, игнорируются.
 
@@ -243,6 +257,8 @@ vagrant@jessie-i386: [master L|…2]
 $ git add README
 ```
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_add_readme.png)
+
 Или за всеми файлами:
 ```
 [~/tools/first_repo]
@@ -254,6 +270,8 @@ vagrant@jessie-i386: [master L|●2]
 $ 
 
 ```
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_add_all.png)
 
 
 Проверим как теперь выглядит вывод git status:
@@ -272,6 +290,9 @@ Changes to be committed:
     new file:   README
 
 ```
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_status_3.png)
+
 
 Теперь файлы находятся в секции "Changes to be committed".
 
@@ -292,6 +313,9 @@ $ git commit -m "First commit. Add .gitignore and README files"
 
 ```
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_commit_1.png)
+
+
 После этого, git status отображает:
 ```
 [~/tools/first_repo]
@@ -301,6 +325,8 @@ On branch master
 nothing to commit, working directory clean
 
 ```
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_status_4.png)
+
 
 Фраза "working directory clean" обозначает, что нет изменений, которые нужно добавить в Git или закоммитить.
 
@@ -329,77 +355,24 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 ```
 
-Если дать команду git diff, она покажет внесенные изменения:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|✚ 2] 
-$ git diff
-diff --git a/.gitignore b/.gitignore
-index 8eee101..07aab05 100644
---- a/.gitignore
-+++ b/.gitignore
-@@ -1,2 +1,2 @@
- *.un~ 
--
-+*.pyc
-diff --git a/README b/README
-index 2e7479e..79a508e 100644
---- a/README
-+++ b/README
-@@ -1 +1,3 @@
- First try
-+
-+Additional comment
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_status_5.png)
 
-```
+
+Если дать команду git diff, она покажет внесенные изменения:
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_diff.png)
 
 То есть, команда git diff показывает какие изменения были внесены с последнего коммита.
 
 Если теперь добавить изменения в файлах, и ещё раз выполнить команду git diff, она ничего не покажет:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|✚ 2] 
-$ git add .
 
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|●2] 
-$ git diff
-
-```
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_add_git_diff.png)
 
 Чтобы показать отличия между staging и последним коммитом, надо добавить параметр --staged:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|●2] 
-$ git diff --staged
-diff --git a/.gitignore b/.gitignore
-index 8eee101..07aab05 100644
---- a/.gitignore
-+++ b/.gitignore
-@@ -1,2 +1,2 @@
- *.un~ 
--
-+*.pyc
-diff --git a/README b/README
-index 2e7479e..79a508e 100644
---- a/README
-+++ b/README
-@@ -1 +1,3 @@
- First try
-+
-+Additional comment
 
-```
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_diff_staged.png)
 
 Закоммитим изменения:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|●2] 
-13:59 $ git commit -m "Update .gitignore and README"
-[master 58bb8ce] Update .gitignore and README
- 2 files changed, 3 insertions(+), 1 deletion(-)
-
-```
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_commit_2.png)
 
@@ -420,3 +393,4 @@ __git log__
 Более короткий вариант вывода можно вывести с флагом ```--stat```:
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_log_stat.png)
+

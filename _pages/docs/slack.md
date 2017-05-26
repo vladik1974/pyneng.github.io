@@ -66,7 +66,17 @@ Slack может Вам напоминить о каком-то сообщени
 code to paste
 ```
 </pre>
-Кроме того, можно нажать плюс в строке набора сообщения и выбрать вариант "Code or text snippet". В открывшемся окне можно набирать код.
+Кроме того, можно нажать плюс в строке набора сообщения и выбрать вариант "Code or text snippet".
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/slack_snippet_select.png)
+
+
+В открывшемся окне можно набирать код.
 В snippet есть возможность выбрать язык кода и тогда код будет с подсветкой синтаксиса.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/slack_snippet.png)
+
+В итоге, в чате snippet выглядит так:
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/slack_snippet_done.png)
 

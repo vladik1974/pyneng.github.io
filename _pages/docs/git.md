@@ -141,17 +141,6 @@ vagrant@jessie-i386: [master L|✔]
 __git status__
 
 Для этого в Git есть команда git status:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|✔] 
-$ git status
-On branch master
-
-Initial commit
-
-nothing to commit (create/copy files and use "git add" to track)
-
-```
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_status_0.png)
 
@@ -160,45 +149,17 @@ Git сообщает, что мы находимся в ветке master (эт�
 Кроме этого, git предлагает создать или скопировать файлы и после этого воспользоваться командой git add, чтобы git начал за ними следить.
 
 Создадим первый файл README и добавим в него пару произвольных строк текста:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|✔] 
-$ vi README
-
-```
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vi_readme.png)
 
 
 После этого приглашение выглядит таким образом:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|…2] 
-
-```
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bash_prompt.png)
 
 
 Почему-то в приглашении показано, что есть два файла, за которыми git еще не следит.
 Посмотрим в git status откуда взялся второй файл:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|…2] 
-$ git status
-On branch master
-
-Initial commit
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-    .README.un~
-    README
-
-nothing added to commit but untracked files present (use "git add" to track)
-
-```
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_status_1.png)
 
@@ -222,23 +183,6 @@ __.gitignore__
 Это значит, что Git должен игнорировать все файлы, которые заканчиваются на ```.un~```.
 
 После этого, git status показывает:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|…2] 
-$ git status
-On branch master
-
-Initial commit
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-    .gitignore
-    README
-
-nothing added to commit but untracked files present (use "git add" to track)
-
-```
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_status_2.png)
 
@@ -251,45 +195,15 @@ __git add__
 Для того чтобы Git начал следить за файлами, используется команда git add.
 
 Можно указать, что надо следить за конкретным файлом:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|…2] 
-$ git add README
-```
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_add_readme.png)
 
 Или за всеми файлами:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|●1…1] 
-$ git add .
-
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|●2] 
-$ 
-
-```
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_add_all.png)
 
 
 Проверим как теперь выглядит вывод git status:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|●2] 
-$ git status
-On branch master
-
-Initial commit
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-
-    new file:   .gitignore
-    new file:   README
-
-```
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_status_3.png)
 
@@ -302,29 +216,12 @@ __git commit__
 
 У команды git commit есть только один обязательный параметр - флаг ```-m```.
 Он позволяет указать сообщение для этого коммита:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|●2] 
-$ git commit -m "First commit. Add .gitignore and README files"
-[master (root-commit) ef84733] First commit. Add .gitignore and README files
- 2 files changed, 3 insertions(+)
- create mode 100644 .gitignore
- create mode 100644 README
-
-```
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_commit_1.png)
 
 
 После этого, git status отображает:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|✔] 
-$ git status
-On branch master
-nothing to commit, working directory clean
 
-```
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_status_4.png)
 
 
@@ -339,21 +236,6 @@ __git diff__
 
 Например, внесем изменения в файл README и .gitignore, но не будем добавлять их в репозиторий.
 Команда git status показывает, что оба файла изменены:
-```
-[~/tools/first_repo]
-vagrant@jessie-i386: [master L|✚ 2] 
-$ git status
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-    modified:   .gitignore
-    modified:   README
-
-no changes added to commit (use "git add" and/or "git commit -a")
-
-```
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_status_5.png)
 

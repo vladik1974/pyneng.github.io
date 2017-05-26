@@ -53,7 +53,7 @@ $ sudo apt-get install git
 
 ```
 $ git config --global user.name "pyneng"
-$ git config --global user.email "github_email@gmail.com"
+$ git config --global user.email "pyneng.course@gmail.com"
 ```
 
 Посмотреть настройки можно таким образом:
@@ -277,6 +277,146 @@ Changes to be committed:
 
 __git commit__
 
+После того все нужные файлы были добавлены в staging, можно закоммитить изменения.
+
+У команды git commit есть только один обязательный параметр - флаг ```-m```.
+Он позволяет указать сообщение для этого коммита:
+```
+[~/tools/first_repo]
+vagrant@jessie-i386: [master L|●2] 
+$ git commit -m "First commit. Add .gitignore and README files"
+[master (root-commit) ef84733] First commit. Add .gitignore and README files
+ 2 files changed, 3 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 README
+
+```
+
+После этого, git status отображает:
+```
+[~/tools/first_repo]
+vagrant@jessie-i386: [master L|✔] 
+$ git status
+On branch master
+nothing to commit, working directory clean
+
+```
+
+Фраза "working directory clean" обозначает, что нет изменений, которые нужно добавить в Git или закоммитить.
 
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/checked_task_inline_comment.png)
+### Дополнительные возможности git
+
+__git diff__
+
+Команда git diff позволяет просмотреть разницу между различными состояними.
+
+Например, внесем изменения в файл README и .gitignore, но не будем добавлять их в репозиторий.
+Команда git status показывает, что оба файла изменены:
+```
+[~/tools/first_repo]
+vagrant@jessie-i386: [master L|✚ 2] 
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+    modified:   .gitignore
+    modified:   README
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+```
+
+Если дать команду git diff, она покажет внесенные изменения:
+```
+[~/tools/first_repo]
+vagrant@jessie-i386: [master L|✚ 2] 
+$ git diff
+diff --git a/.gitignore b/.gitignore
+index 8eee101..07aab05 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,2 +1,2 @@
+ *.un~ 
+-
++*.pyc
+diff --git a/README b/README
+index 2e7479e..79a508e 100644
+--- a/README
++++ b/README
+@@ -1 +1,3 @@
+ First try
++
++Additional comment
+
+```
+
+То есть, команда git diff показывает какие изменения были внесены с последнего коммита.
+
+Если теперь добавить изменения в файлах, и ещё раз выполнить команду git diff, она ничего не покажет:
+```
+[~/tools/first_repo]
+vagrant@jessie-i386: [master L|✚ 2] 
+$ git add .
+
+[~/tools/first_repo]
+vagrant@jessie-i386: [master L|●2] 
+$ git diff
+
+```
+
+Чтобы показать отличия между staging и последним коммитом, надо добавить параметр --staged:
+```
+[~/tools/first_repo]
+vagrant@jessie-i386: [master L|●2] 
+$ git diff --staged
+diff --git a/.gitignore b/.gitignore
+index 8eee101..07aab05 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,2 +1,2 @@
+ *.un~ 
+-
++*.pyc
+diff --git a/README b/README
+index 2e7479e..79a508e 100644
+--- a/README
++++ b/README
+@@ -1 +1,3 @@
+ First try
++
++Additional comment
+
+```
+
+Закоммитим изменения:
+```
+[~/tools/first_repo]
+vagrant@jessie-i386: [master L|●2] 
+13:59 $ git commit -m "Update .gitignore and README"
+[master 58bb8ce] Update .gitignore and README
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+```
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_commit_2.png)
+
+__git log__
+
+Иногда нужно посмотреть когда были выполнены последние изменения.
+В этом поможет команда git log:
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_log.png)
+
+По умолчанию команда показывает все коммиты, начиная с самого свежего.
+
+С помощью дополнительных параметров, можно не только посмотреть информацию о коммитах, но и какие изменения были внесены.
+Флаг -p позволяет отобразить отличия, которые были внесены каждым коммитом:
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_log_p.png)
+
+Более короткий вариант вывода можно вывести с флагом ```--stat```:
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/git_log_stat.png)

@@ -60,12 +60,6 @@ Slack может Вам напоминить о каком-то сообщени
 
 ## Код
 
-Выложить код можно напрямую в сообщении, взяв его в тройные обратные кавычки:
-<pre>
-```
-code to paste
-```
-</pre>
 Кроме того, можно нажать плюс в строке набора сообщения и выбрать вариант "Code or text snippet".
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/slack_snippet_select.png)
@@ -80,3 +74,9 @@ code to paste
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/slack_snippet_done.png)
 
+Выложить код можно напрямую в сообщении, взяв его в тройные обратные кавычки:
+<pre>
+```
+code to paste
+```
+</pre>

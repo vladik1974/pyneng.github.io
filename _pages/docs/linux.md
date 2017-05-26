@@ -8,7 +8,7 @@ excerpt: "Linux"
 
 Несколько ссылок, которые позволят освежить знания:
 
-* [основы Linux](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
+* [Основы Linux](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
 * [Listing files and directories](http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html)
 * [Работа с файлами: копирование, перемещение. Утилиты grep, wc](http://www.ee.surrey.ac.uk/Teaching/Unix/unix2.html)
 

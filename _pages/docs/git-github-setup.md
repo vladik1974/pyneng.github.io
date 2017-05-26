@@ -4,6 +4,8 @@ permalink: /docs/git-github-setup/
 excerpt: "Git and GitHub setup"
 ---
 
+> Этот же документ можно [скачать в формате PDF](https://github.com/pyneng/pyneng-online-jun-jul-2017/blob/master/tools/Git_and_GitHub_setup.pdf)
+
 Для работы с заданиями на курсе используются Git и GitHub.
 
 * Git - позволяет хранить историю изменений, кто выполнил изменения и позволяет посмотреть какие именно изменения были внесены.

@@ -20,14 +20,14 @@ permalink: /docs/learning/
 
 У нас есть два чата:
 
-* pyneng-online-2-talk - тут можно говорить о чем угодно. Этот чат для того, чтобы мы могли познакомиться поближе, обсудить что угодно.
-* pyneng-online-2-work - тут будут важные анонсы по курсу и те обсуждения, которые касаются лекций, заданий и других вопросов курса
+* __pyneng-online-2-talk__ - тут можно говорить о чем угодно. Этот чат для того, чтобы мы могли познакомиться поближе, обсудить что угодно.
+* __pyneng-online-2-work__ - тут будут важные анонсы по курсу и те обсуждения, которые касаются лекций, заданий и других вопросов курса
 
 Обязательно задавайте вопросы:
 
 * на лекциях, по заданиям, в целом по теме курса или около того
-* не переживайте, что вопрос "глупый" - таких вопросов не бывает. Любой вопрос - это хорошо, это признак, что вы думаете наж темой, курсом
-* если не хотите задавать в общем чате/на лекции, напишите мне лично
+* не переживайте, что вопрос "глупый" - таких вопросов не бывает. Любой вопрос - это хорошо, это признак, что вы думаете над темой, курсом
+* если не хотите задавать вопросы в общем чате/на лекции, напишите мне лично
 * если что-то непонятно в задании - напишите мне. Возможно это просто неудачная формулировка задания.
 
 Очень важно учиться активно.
@@ -49,7 +49,7 @@ permalink: /docs/learning/
 
 * учиться в том время, которое вы наиболее эффективны
 * не забывать делать перерывы
-* периодически оценивать ваш подход к учебе, может быть стоит что-то изменить
+* периодически оценивать ваш подход к учебе, может быть, стоит что-то изменить
 
 [Подробнее]({{ "/docs/learning-when/" | absolute_url }}) о выборе времени учебы.
 
@@ -105,10 +105,9 @@ __Книга "Python для сетевых инженеров"__
 
 ## Дополнительные ресурсы
 
-
 ### How to learn
 
-* [Studying 101: Study Smarter Not Harder](http://learningcenter.unc.edu/handouts/studying-101-study-smarter-not-harder/) - это более короткая подборка советов, в которой, тем не менее, много полезных идей
+* [Studying 101: Study Smarter Not Harder](http://learningcenter.unc.edu/handouts/studying-101-study-smarter-not-harder/) - короткая подборка советов, в которой, тем не менее, много полезных идей
 * ["Study Less, Study Smart": The Best Ways to Retain More in Less Time](http://lifehacker.com/study-less-study-smart-the-best-ways-to-retain-more-1683362205) - отличное видео о том как учиться, чтобы лучше понять и запомнить
 * [Отличная статья, а также ссылки на руководства университетов по онлайн обучению](https://www.tonybates.ca/2012/02/29/a-student-guide-to-studying-online/)
 * [Отличная подборка советов для тех, кто учится онлайн](http://www2.open.ac.uk/students/skillsforstudy/) - тут описано множество аспектов обучения: планирование обучения, как читать материалы, как делать заметки, как увеличить эффективность обучения в целом и многое другое
@@ -117,7 +116,7 @@ __Книга "Python для сетевых инженеров"__
 
 ### Active learning
 
-* [study_actively.pdf](https://github.com/pyneng/pyneng-online-jun-jul-2017/blob/master/study/study_actively.pdf) - документ в котором описаны несколько советов как учиться активно. Особенно обратите внимание на диаграмму в конце документа ([Источник](www.dartmouth.edu/~acskills/docs/study_actively.doc))
+* [study_actively.pdf](https://github.com/pyneng/pyneng-online-jun-jul-2017/blob/master/study/study_actively.pdf) - документ, в котором описаны несколько советов как учиться активно. Особенно обратите внимание на диаграмму в конце документа ([Источник](www.dartmouth.edu/~acskills/docs/study_actively.doc))
 * [ActiveStudyStrategies.pdf](https://github.com/pyneng/pyneng-online-jun-jul-2017/blob/master/study/ActiveStudyStrategies.pdf) - документ описывает примеры активных и пассивных методов обучения ([Источник](https://spu.edu/depts/cfl/documents/ActiveStudyStrategies.pdf))
 * [Active Learning](http://www.studygs.net/activelearn.htm) - на этом сайте описано не только активное обучение в целом, но и подробнее расписаны его составляющие
 * [Strategies for Active Studying](http://www.uwec.edu/ASC/resources/ActiveStudy.htm)

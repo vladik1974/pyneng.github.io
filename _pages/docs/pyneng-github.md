@@ -37,20 +37,15 @@ Resolving deltas: 100% (116/116), done.
 
 Если обновлений не было, вывод будет таким:
 ```
-[~/Programming]
-natasha@nattaur: $ cd pyneng-online-jun-jul-2017/
+$ cd pyneng-online-jun-jul-2017/
 
-[~/Programming/pyneng-online-jun-jul-2017]
-natasha@nattaur: $  [master L|✔]
-07:41 $ git pull
+$ git pull
 Already up-to-date.
 ```
 
 Если обновления были, вывод будет примерно таким:
 ```
-[~/Programming/pyneng-online-jun-jul-2017]
-natasha@nattaur: $  [master L|✔]
-07:41 $ git pull
+$ git pull
 remote: Counting objects: 3, done.
 remote: Compressing objects: 100% (1/1), done.
 remote: Total 3 (delta 2), reused 3 (delta 2), pack-reused 0
@@ -69,9 +64,7 @@ Fast-forward
 
 Если вы хотите посмотреть какие именно изменения были внесены, можно воспользоваться командой git log:
 ```
-[~/Programming/pyneng-online-jun-jul-2017]
-natasha@nattaur: $  [master L|✔]
-07:48 $ git log -p -1
+$ git log -p -1
 commit 1eb82adb198a316f3d459f434d7e89acf66d1dba
 Author: Python для сетевых инженеров <pyneng.course@gmail.com>
 Date:   Mon May 29 07:42:20 2017 +0300
@@ -100,9 +93,7 @@ index 8435c23..f6c1583 100644
 Для этого используется такая команда:
 
 ```
-[~/Programming/pyneng-online-jun-jul-2017]
-natasha@nattaur: $  [master ↓·1|✔]
-08:12 $ git log -p ..origin/master
+$ git log -p ..origin/master
 commit 4c1821030d20b3682b67caf362fd777d098d9126
 Author: Python для сетевых инженеров <pyneng.course@gmail.com>
 Date:   Mon May 29 07:53:45 2017 +0300

@@ -214,6 +214,7 @@ To ssh://git@github.com/pyneng/online-2-natasha-samoylenko.git
    fc4c721..edcf417  master -> master
 ```
 
+> Перед выполнением git push, можно выполнить команду ```$ git log -p origin/master..``` - она покажет какие изменения вы собираетесь добавлять в свой репозиторий на GitHub.
 
 ## Проверка заданий
 

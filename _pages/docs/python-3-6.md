@@ -8,7 +8,7 @@ excerpt: "Python 3.6"
 
 Установка Python 3.6
 ```
-pip install libsqlite3-dev
+sudo apt-get install libsqlite3-dev
 wget https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz
 tar xvf Python-3.6.0.tgz
 cd Python-3.6.0

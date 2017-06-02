@@ -23,6 +23,8 @@ docs:
         url: /calendar/
   - title: Инструменты
     children:
+      - title: Python 3.6
+        url: /docs/python-3-6
       - title: Основы Git
         url: /docs/git-basics/
       - title: Настройка Git и GitHub

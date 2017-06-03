@@ -1,64 +1,42 @@
 ---
-title: "Day 1. Part 1"
-date: 2017-05-27
+title: "День 1. Часть 1"
+date: 2017-06-03
 tags:
- - announcement
- - tools
+ - lecture
+ - labs
 category:
- - announcements
+ - lectures
 ---
 
-Инструкции по работе с инструментами курса и запись встречи.
+### Задания
 
-### Запись встречи
+После лекции можно выполнить такие задания:
 
-[Запись встречи](https://drive.google.com/open?id=0B0NXr5fFaEWCeEJaNWZrM3RMY3c)
+* 3.1
+* 3.2
+* 3.3
+* 3.6
+* 3.7
+* 3.8
+* 3.9
 
-> В первой части начинайте с 9:00 минуты. Позже вырежу эту часть 
+Лучше попробовать сделать сегодня:
 
-### Информация об инструментах, которые используются на курсе
-
-* [Основы Git](https://pyneng.github.io/docs/git-basics/)
-* [Подготовка к работе с Git и GitHub](https://pyneng.github.io/docs/git-github-setup/)
-* [Использование Cloud 9 для выполнения заданий](https://pyneng.github.io/docs/cloud/)
-* [Основы работы в командной строке Linux](https://pyneng.github.io/docs/linux/)
-* [Общение в Slack](https://pyneng.github.io/docs/slack/)
-
-
-### К первой лекции надо
-
-* разобраться с Git и GitHub для выполнения заданий
-* установить Python 3.6
-* подготовить виртуалку (можно взять подготовленные [Vagrant](https://pyneng.github.io/docs/vagrant/) или [vmware](https://github.com/natenka/PyNEng/blob/master/exercises/vm/vmware.md))
-* выбрать текстовый редактор или IDE
-* начиная с раздела 12, мы будем подключаться к оборудованию. Поэтому лучше заранее подготовить виртуальное или реальное оборудование
-
-### Популярные редакторы
-
-> vim и emacs не указаны
-
-Linux:
-
-* Sublime Text
-* gEdit
-* nano
-* geany
-
-Mac OS
-
-* Sublime Text
-* TextMate
-* TextWrangler
-
-Windows:
-
-* Notepad++
+* 3.2
+* 3.3
+* 3.6
+* 3.7
 
 
-### Python IDE
+### Презентация
 
-* [PyCharm](https://www.jetbrains.com/pycharm/)
-* [Spyder](https://github.com/spyder-ide/spyder)
+* [Презентация по сегодняшней лекции](https://gitpitch.com/natenka/pyneng-slides/python3-basics)
 
-### Первая лекция курса 3 июня с 7:00 до 11:00 UTC
+> Чтобы скачать презентацию, нажмите print
 
+### Python 3.6
+
+Так как курс перешел на Python 3.6, надо соответственно [обновить его виртуалке](https://pyneng.github.io/docs/python-3-6/) или взять новый образ.
+Новы образ, пока что, есть только [для Vagrant](https://pyneng.github.io/docs/vagrant/).
+
+### Завтра продолжаем с 7:00 до 9:00 UTC

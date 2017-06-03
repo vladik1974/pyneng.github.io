@@ -1,0 +1,64 @@
+---
+title: "Day 1. Part 1"
+date: 2017-05-27
+tags:
+ - announcement
+ - tools
+category:
+ - announcements
+---
+
+Инструкции по работе с инструментами курса и запись встречи.
+
+### Запись встречи
+
+[Запись встречи](https://drive.google.com/open?id=0B0NXr5fFaEWCeEJaNWZrM3RMY3c)
+
+> В первой части начинайте с 9:00 минуты. Позже вырежу эту часть 
+
+### Информация об инструментах, которые используются на курсе
+
+* [Основы Git](https://pyneng.github.io/docs/git-basics/)
+* [Подготовка к работе с Git и GitHub](https://pyneng.github.io/docs/git-github-setup/)
+* [Использование Cloud 9 для выполнения заданий](https://pyneng.github.io/docs/cloud/)
+* [Основы работы в командной строке Linux](https://pyneng.github.io/docs/linux/)
+* [Общение в Slack](https://pyneng.github.io/docs/slack/)
+
+
+### К первой лекции надо
+
+* разобраться с Git и GitHub для выполнения заданий
+* установить Python 3.6
+* подготовить виртуалку (можно взять подготовленные [Vagrant](https://pyneng.github.io/docs/vagrant/) или [vmware](https://github.com/natenka/PyNEng/blob/master/exercises/vm/vmware.md))
+* выбрать текстовый редактор или IDE
+* начиная с раздела 12, мы будем подключаться к оборудованию. Поэтому лучше заранее подготовить виртуальное или реальное оборудование
+
+### Популярные редакторы
+
+> vim и emacs не указаны
+
+Linux:
+
+* Sublime Text
+* gEdit
+* nano
+* geany
+
+Mac OS
+
+* Sublime Text
+* TextMate
+* TextWrangler
+
+Windows:
+
+* Notepad++
+
+
+### Python IDE
+
+* [PyCharm](https://www.jetbrains.com/pycharm/)
+* [Spyder](https://github.com/spyder-ide/spyder)
+
+### Первая лекция курса 3 июня с 7:00 до 11:00 UTC
+

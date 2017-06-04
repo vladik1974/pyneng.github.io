@@ -1,0 +1,53 @@
+---
+title: "День 1. Часть 1"
+date: 2017-06-03
+tags:
+ - lecture
+ - labs
+category:
+ - lectures
+---
+
+Первый день: основы Python, строки (strings), списки (lists).
+
+### Задания
+
+После лекции нужно выполнить такие задания:
+
+* 3.1, 3.2, 3.3, 3.6, 3.7, 3.8, 3.9
+
+Эти задания лучше сделать сегодня:
+
+* 3.2, 3.3, 3.6, 3.7
+
+
+### Презентация
+
+* [Презентация по сегодняшней лекции](https://gitpitch.com/natenka/pyneng-slides/python3-basics)
+
+> Чтобы скачать презентацию, нажмите print
+
+### Соответствующие разделы в книге
+
+* [Ссылка на версию книги для Python 3.6](https://natenka.gitbooks.io/pyneng/content/v/python3.6/)
+
+Ссылки на пройденные темы:
+
+* [Начало работы с Python](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/02_start/)
+* [Типы данных в Python](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/03_data_structures/)
+* [Числа](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/03_data_structures/3_numbers.html)
+* [Строки (Strings)](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/03_data_structures/4_strings.html)
+* [Список (List)](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/03_data_structures/5_lists.html)
+
+
+### Python 3.6
+
+Так как курс перешел на Python 3.6, надо соответственно [обновить его виртуалке](https://pyneng.github.io/docs/python-3-6/) или взять новый образ.
+Новы образ, пока что, есть только [для Vagrant](https://pyneng.github.io/docs/vagrant/).
+
+
+### Дополнительные ресурсы
+
+* [Форматирование строк](https://pyformat.info/) - отличный ресурс про форматирование строк. Много примеров и в том, и в том синтаксисе
+
+### Завтра продолжаем с 7:00 до 9:00 UTC

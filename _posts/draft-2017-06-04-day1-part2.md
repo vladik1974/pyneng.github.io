@@ -1,6 +1,6 @@
 ---
-title: "День 1. Часть 1"
-date: 2017-06-03
+title: "День 1. Часть 2"
+date: 2017-06-04
 tags:
  - lecture
  - labs
@@ -8,18 +8,19 @@ category:
  - lectures
 ---
 
-Первый день: основы Python, строки (strings), списки (lists).
+Первый день. Вторая часть: словари (dicts), кортежи (tuples), множества (sets); конвертация типов и определение типа объекта; базовые скрипты.
 
 ### Задания
 
-После лекции нужно выполнить такие задания:
+До следующей лекции нужно выполнить такие задания ( 19 заданий ):
 
-* 3.1, 3.2, 3.3, 3.6, 3.7, 3.8, 3.9
+* Все из раздела 03_data_structures
+* Все из раздела 04_basic_scripts
 
-Эти задания лучше сделать сегодня:
+Как минимум:
 
-* 3.2, 3.3, 3.6, 3.7
-
+* 3.1, 3.2, 3.3, 3.6, 3.7
+* 4.1, 4.2
 
 ### Презентация
 
@@ -33,21 +34,17 @@ category:
 
 Ссылки на пройденные темы:
 
-* [Начало работы с Python](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/02_start/)
-* [Типы данных в Python](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/03_data_structures/)
-* [Числа](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/03_data_structures/3_numbers.html)
-* [Строки (Strings)](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/03_data_structures/4_strings.html)
-* [Список (List)](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/03_data_structures/5_lists.html)
+* [Словарь (Dictionary)](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/03_data_structures/6_dicts.html)
+* [Кортеж (Tuple)](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/03_data_structures/7_tuple.html)
+* [Множество (Set)](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/03_data_structures/8_set.html)
+* [Преобразование типов](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/03_data_structures/9_convert_type.html)
+* [Проверка типов](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/03_data_structures/9a_check_type.html)
+* [Создание базовых скриптов](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/04_basic_scripts/) - весь раздел
+
+Дополнительно:
+
+* [Виртуальные окружения](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/01_intro/virtualenv.html)
+* [Функция sorted](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/16_additional_info/useful_functions/sorted.html)
 
 
-### Python 3.6
-
-Так как курс перешел на Python 3.6, надо соответственно [обновить его виртуалке](https://pyneng.github.io/docs/python-3-6/) или взять новый образ.
-Новы образ, пока что, есть только [для Vagrant](https://pyneng.github.io/docs/vagrant/).
-
-
-### Дополнительные ресурсы
-
-* [Форматирование строк](https://pyformat.info/) - отличный ресурс про форматирование строк. Много примеров и в том, и в том синтаксисе
-
-### Завтра продолжаем с 7:00 до 9:00 UTC
+### Следующая лекция в субботу, 10 июля с 7:00 до 11:00 UTC

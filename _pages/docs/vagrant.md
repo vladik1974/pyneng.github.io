@@ -15,7 +15,7 @@ Vagrant и Virtualbox должны находится в каталоге, в п
 
 Добавить образ в Vagrant:
 ```
-vagrant box add pyneng pyneng.box
+vagrant box add pyneng pyneng-py3.box
 vagrant init pyneng
 ```
 

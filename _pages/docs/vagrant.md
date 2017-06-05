@@ -13,13 +13,27 @@ Vagrant и Virtualbox должны находится в каталоге, в п
 Подробнее этот аспект описан в [статье](https://habrahabr.ru/post/251529/) в разделе "Предварительная настройка".
 
 
-Добавить образ в Vagrant:
+Добавить образ в Vagrant (при условии, что файл pyneng-py3.box находится в текущем каталоге):
 ```
 vagrant box add pyneng pyneng-py3.box
 vagrant init pyneng
 ```
+После этого в текущем каталоге создался файл Vagrantfile.
 
-Скачать файл [Vagrantfile](https://raw.githubusercontent.com/natenka/PyNEng/master/exercises/vm/Vagrantfile) в текущий каталог.
+В нем необходимо раскомментировать несколько строк.
+Найдите соответствующую секцию в  файле и удалите символ решетки перед строками, как в выводе:
+```
+  config.vm.provider "virtualbox" do |vb|
+  #   # Display the VirtualBox GUI when booting the machine
+    vb.gui = true
+  #
+  #   # Customize the amount of memory on the VM:
+     vb.memory = "1024"
+
+  end
+```
+
+> Объем памяти можно указать любым.
 
 После этого:
 ```

@@ -45,13 +45,21 @@ export WORKON_HOME=~/venv
 exec bash
 ```
 
-Создание виртуального окружения, в котором используется Python 3.6:
+Создание [виртуального окружения](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/01_intro/virtualenv.html), в котором используется Python 3.6 (эта же команда переведет вас в виртуальное окружение):
 ```
 mkvirtualenv --python=/usr/local/bin/python3.6 pyneng-py3
 ```
 
-Установка IPython:
+Установка IPython внутри виртуального окружения:
 ```
 pip install ipython
-ipython
+```
+
+После этого, можно открывать ipython (вывод должен быть примерно таким):
+```
+$ ipython
+Python 3.6.0 (default, May 31 2017, 07:04:38) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 6.0.0 -- An enhanced Interactive Python. Type '?' for help.
+
 ```

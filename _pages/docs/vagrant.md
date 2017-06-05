@@ -40,8 +40,8 @@ vagrant up
 
 Каталоги с примерами и упражнениями находятся в каталоге pyneng_files на рабочем столе.
 
-Все модули, которые нужны в курсе, установлены в виртуальном окружении pyneng:
+Все модули, которые нужны в курсе, установлены в [виртуальном окружении](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/01_intro/virtualenv.html) pyneng:
 ```
-workon pyneng
+workon pyneng-py3
 ```
 

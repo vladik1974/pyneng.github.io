@@ -20,6 +20,11 @@ Branch task_check set up to track remote branch task_check from origin.
 Switched to a new branch 'task_check'
 ```
 
+Сделайте pull для этой ветки:
+```
+$ git pull
+```
+
 Всё, теперь  у вас в каталоге находятся версии файлов с моей проверкой.
 Вы можете с ними работать.
 

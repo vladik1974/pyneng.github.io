@@ -17,6 +17,7 @@ excerpt: "Git and GitHub"
 
 * [Разобраться с основами Git](https://pyneng.github.io/docs/git-basics/)
 * [Выполнить базовую настройку Git и GitHub](https://pyneng.github.io/docs/git-github-setup/)
+* [Разобраться как добавлять изменения в Git/GitHub](https://pyneng.github.io/docs/git-github/)
 
 Кроме того, надо разобраться с тем как сдавать задания на проверку:
 

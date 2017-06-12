@@ -21,6 +21,8 @@ docs:
         url: /docs/pyneng-github/
       - title: Календарь
         url: /calendar/
+      - title: Тесты
+        url: /tests/
   - title: Инструменты
     children:
       - title: Python 3.6

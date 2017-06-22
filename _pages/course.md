@@ -47,14 +47,16 @@ sidebar:
 |  11   |  05.08.17    |        -         |
 |  12   |  06.08.17    |        12        |
 
+Вся информация в одной таблице:
+
 <table border="1" cellpadding="4" cellspacing="0">
  <tr>
-    <th>Неделя</th>
-    <th>Дата</th>
-    <th>Тема</th>
-    <th>Всего заданий</th>
-    <th>Минимум заданий</th>
-    <th> Финальный срок сдачи</th>
+    <th align="center">Неделя</th>
+    <th align="center">Дата</th>
+    <th align="center">Тема</th>
+    <th align="center">Всего заданий</th>
+    <th align="center">Минимум заданий</th>
+    <th align="center"> Финальный срок сдачи</th>
  </tr>
  <tr>
     <td rowspan="2" align="center">1</td>

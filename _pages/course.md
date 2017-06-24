@@ -49,6 +49,7 @@ sidebar:
 
 ### Вся информация в одной таблице:
 
+
 <table border="1" cellpadding="4" cellspacing="0">
  <tr>
     <th align="center">Неделя</th>
@@ -61,9 +62,7 @@ sidebar:
  <tr>
     <td rowspan="2" align="center">1</td>
     <td align="center">03.06.17</td>
-    <td rowspan="2" align="center">Основы. Типы данных в Python (4ч) 
-    <a href="https://pyneng.github.io/lectures/day1-part1/">Part1</a>
-    <a href="https://pyneng.github.io/lectures/day1-part2/">Part2</a>
+    <td rowspan="2" align="center">Основы. Типы данных в Python (4ч) <a href="https://pyneng.github.io/lectures/day1-part1/">Part1</a> <a href="https://pyneng.github.io/lectures/day1-part2/">Part2</a></td>
     <td align="center">7 (3.1, 3.2, 3.3, 3.6, 3.7, 3.8, 3.9)</td>
     <td align="center">3.2, 3.3, 3.6, 3.7</td>
     <td align="center">25.06.17</td>
@@ -77,8 +76,7 @@ sidebar:
  <tr>
     <td align="center">2</td>
     <td align="center">10.06.17</td>
-    <td align="center">
-    <a href="https://pyneng.github.io/lectures/day2/">Управление ходом программы. Работа с файлами (4ч)</a></td>
+    <td align="center"><a href="https://pyneng.github.io/lectures/day2/">Управление ходом программы. Работа с файлами (4ч)</a></td>
     <td align="center">13 (05_control_structures, 06_exercises)</td>
     <td align="center">5.1, 5.2, 5.3, 6.1, 6.2, 6.3</td>
     <td align="center">02.07.17</td>

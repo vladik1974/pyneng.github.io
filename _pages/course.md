@@ -15,7 +15,7 @@ sidebar:
 |  2   |  10.06.17  | [Управление ходом программы. Работа с файлами (4ч)](https://pyneng.github.io/lectures/day2/)|
 |  3   |  17.06.17  | [Функции (4ч)](https://pyneng.github.io/lectures/day3/)|
 |  4   |  18.06.17  | [Работа с модулями (2ч)](https://pyneng.github.io/lectures/day4/)|
-|  5   |  24.06.17  | [Работа с регулярными выражениями в Python (4ч)](https://pyneng.github.io/lectures/day5/))|
+|  5   |  24.06.17  | [Работа с регулярными выражениями в Python (4ч)](https://pyneng.github.io/lectures/day5/)|
 |      |  01.07.17  | Лекция по Unicode (2ч) |
 |  6   |  08.07.17  | Обработка данных в форматах YAML, JSON, CSV (3ч)|
 |  7   |  15.07.17  | Работа с базами данных на примере SQL (SQLite) (4ч)|
@@ -47,7 +47,7 @@ sidebar:
 |  11   |  05.08.17    |        -         |
 |  12   |  06.08.17    |        12        |
 
-Вся информация в одной таблице:
+### Вся информация в одной таблице:
 
 <table border="1" cellpadding="4" cellspacing="0">
  <tr>
@@ -77,7 +77,8 @@ sidebar:
  <tr>
     <td align="center">2</td>
     <td align="center">10.06.17</td>
-    <td align="center">[Управление ходом программы. Работа с файлами (4ч)](https://pyneng.github.io/lectures/day2/)</td>
+    <td align="center">
+    <a href="https://pyneng.github.io/lectures/day2/">Управление ходом программы. Работа с файлами (4ч)</a></td>
     <td align="center">13 (05_control_structures, 06_exercises)</td>
     <td align="center">5.1, 5.2, 5.3, 6.1, 6.2, 6.3</td>
     <td align="center">02.07.17</td>
@@ -85,14 +86,14 @@ sidebar:
  <tr>
     <td rowspan="2" align="center">3</td>
     <td align="center">17.06.17</td>
-    <td align="center">[Функции (4ч)](https://pyneng.github.io/lectures/day3/)</td>
+    <td align="center"><a href="https://pyneng.github.io/lectures/day3/">Функции (4ч)</a></td>
     <td align="center">9 (07_functions)</td>
     <td align="center">7.1, 7.1a, 7.2, 7.2a, 7.3</td>
     <td align="center">09.07.17</td>
  </tr>
  <tr>
     <td align="center">18.06.17</td>
-    <td align="center">[Модули (2ч)](https://pyneng.github.io/lectures/day4/)</td>
+    <td align="center"><a href="https://pyneng.github.io/lectures/day4/">Модули (2ч)</a></td>
     <td align="center">4 (08_modules)</td>
     <td align="center">8.1, 8.2</td>
     <td align="center">09.07.17</td>
@@ -100,7 +101,7 @@ sidebar:
  <tr>
     <td align="center">4</td>
     <td align="center">24.06.17</td>
-    <td align="center">[Работа с регулярными выражениями в Python (4ч)](https://pyneng.github.io/lectures/day5/)</td>
+    <td align="center"><a href="https://pyneng.github.io/lectures/day5/">Регулярные выражения (4ч)</a></td>
     <td align="center">10 (09_regex)</td>
     <td align="center">9.1, 9.2, 9.3, 9.4</td>
     <td align="center">16.07.17</td>

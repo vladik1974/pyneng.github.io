@@ -61,7 +61,9 @@ sidebar:
  <tr>
     <td rowspan="2" align="center">1</td>
     <td align="center">03.06.17</td>
-    <td rowspan="2" align="center">Основы. Типы данных в Python (4ч) [Part1](https://pyneng.github.io/lectures/day1-part1/) [Part2](https://pyneng.github.io/lectures/day1-part2/)</td>
+    <td rowspan="2" align="center">Основы. Типы данных в Python (4ч) 
+    <a href="https://pyneng.github.io/lectures/day1-part1/">Part1</a>
+    <a href="https://pyneng.github.io/lectures/day1-part2/">Part2</a>
     <td align="center">7 (3.1, 3.2, 3.3, 3.6, 3.7, 3.8, 3.9)</td>
     <td align="center">3.2, 3.3, 3.6, 3.7</td>
     <td align="center">25.06.17</td>

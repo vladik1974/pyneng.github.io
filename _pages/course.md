@@ -66,7 +66,7 @@ sidebar:
  <tr>
     <td align="center">5</td>
     <td align="center">01.07.17</td>
-    <td align="center">Unicode (2ч)</td>
+    <td align="center"><a href="https://pyneng.github.io/lectures/unicode/">Unicode (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>

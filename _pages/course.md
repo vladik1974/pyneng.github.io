@@ -76,7 +76,7 @@ sidebar:
     <td align="center">08.07.17 (6)</td>
     <td align="center"><a href="https://pyneng.github.io/lectures/day6/">Обработка данных в форматах YAML, JSON, CSV (3ч)</a></td>
     <td align="center">6 (10_serialization)</td>
-    <td align="center">-</td>
+    <td align="center">10.1, 10.2, 10.3</td>
     <td align="center">30.07.17</td>
  </tr>
  <tr>

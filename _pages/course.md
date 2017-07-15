@@ -82,9 +82,9 @@ sidebar:
  <tr>
     <td align="center">7</td>
     <td align="center">15.07.17 (7)</td>
-    <td align="center">Работа с базами данных на примере SQL (SQLite) (4ч)</td>
+    <td align="center"><a href="https://pyneng.github.io/lectures/day7/">Работа с базами данных на примере SQL (SQLite) (4ч)</a></td>
     <td align="center">9 (11_db)</td>
-    <td align="center">-</td>
+    <td align="center">11.1, 11.1a, 11.2, 11.2a</td>
     <td align="center">06.08.17</td>
  </tr>
  <tr>

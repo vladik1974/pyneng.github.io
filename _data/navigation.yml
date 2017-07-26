@@ -25,8 +25,6 @@ docs:
         url: /tests/
   - title: Инструменты
     children:
-      - title: Python 3.6
-        url: /docs/python-3-6
       - title: Основы Git
         url: /docs/git-basics/
       - title: Работа с Git и GitHub
@@ -35,7 +33,7 @@ docs:
         url: /docs/cloud/
       - title: Slack
         url: /docs/slack/
-      - title: Vagrant
+      - title: VM
         url: /docs/vagrant/
       - title: Linux
         url: /docs/linux/
@@ -43,8 +41,6 @@ docs:
     children:
       - title: Книга "Python для сетевых инженеров"
         url: /docs/pyneng-book/
-      - title: Cheatsheets
-        url: /docs/cheatsheets/
       - title: Дополнительные ресурсы по Python
         url: /docs/python-docs/
 

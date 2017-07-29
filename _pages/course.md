@@ -98,9 +98,9 @@ sidebar:
  <tr>
     <td rowspan="2" align="center">9</td>
     <td align="center">29.07.17 (9)</td>
-    <td align="center">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
+    <td align="center"><a href="https://pyneng.github.io/lectures/day9/">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</a></td>
     <td align="center">10 (13_jinja2)</td>
-    <td align="center">-</td>
+    <td align="center">13.1, 13.1a, 13.2, 13.3</td>
     <td align="center">20.08.17</td>
  </tr>
  <tr>

@@ -120,9 +120,10 @@ sidebar:
  </tr>
  <tr>
     <td align="center">06.08.17 (12)</td>
-    <td align="center">Ansible для сетевого оборудования (3ч)</td>
+    <td align="center"><a href="https://pyneng.github.io/lectures/day12/">Ansible для сетевого оборудования (3ч)</a></td>
     <td align="center">12 (15_ansible)</td>
-    <td align="center">-</td>
+    <td align="center">15.1, 15.1a, 15.1b, 15.1c, 15.2, 15.3</td>
     <td align="center">27.08.17</td>
  </tr> 
 </table>
+

@@ -125,5 +125,13 @@ sidebar:
     <td align="center">15.1, 15.1a, 15.1b, 15.1c, 15.2, 15.3</td>
     <td align="center">27.08.17</td>
  </tr> 
+ <tr>
+    <td align="center">11</td>
+    <td align="center">12.08.17</td>
+    <td align="center"><a href="https://pyneng.github.io/lectures/the-end/">Завершающая лекция</a></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+ </tr>
 </table>
 

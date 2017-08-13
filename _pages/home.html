@@ -6,7 +6,7 @@ permalink: /
 {% for post in site.posts %}
   {% capture month %}{{ post.date | date: '%m' }}{% endcapture %}
   {% capture day %}{{ post.date | date: '%d' }}{% endcapture %}
-  {% if month >= '08' and day >= '10'%}
+  {% if month >= '08' and day >= '13'%}
   {% include archive-single.html %}
   {% endif %}
 {% endfor %}

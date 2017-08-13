@@ -7,6 +7,8 @@ author_profile: true
 
 {% for post in posts %}
   {% capture month %}{{ post.date | date: "%m" }}{% endcapture %}
+  {% if month == '06' %}
   <h2 class="archive__subtitle">{{ month }}</h2>
   {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

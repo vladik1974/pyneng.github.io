@@ -8,6 +8,18 @@ sidebar:
 
 * [Архив постов](https://pyneng.github.io/pyneng-archive/)
 
+Тесты:
+
+* [Типы данных. Часть 1](https://goo.gl/forms/xKHX5xNM8Pv5sQDf2)
+* [Типы данных. Часть 2](https://goo.gl/forms/igxR3ub3tQg3ycX53)
+* [Контроль хода программы. Часть 1](https://goo.gl/forms/2TmGcrhG11h2SdLn1)
+* [Контроль хода программы. Часть 2](https://goo.gl/forms/KZGaDquGlUmOz2kG3)
+* [Функции и модули. Часть 1](https://goo.gl/forms/M1DpbdD0brVbdp1G3)
+* [Функции и модули. Часть 2](https://goo.gl/forms/rNvdX9bHw8wLajJp2)
+* [Регулярные выражения. Часть 1](https://goo.gl/forms/5UpkJbm1dORqs4bP2)
+* [Регулярные выражения. Часть 2](https://goo.gl/forms/ltuOAO62yLlZkEmm1)
+* [Базы данных](https://goo.gl/forms/wtGgmWg0vow1Cyqo1)
+
 <br>
 
 <table border="1" cellpadding="4" cellspacing="0">

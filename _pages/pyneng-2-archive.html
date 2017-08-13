@@ -15,12 +15,8 @@ author_profile: true
   {% endfor %}
 {% endfor %}
 
-{% capture written_year %}'None'{% endcapture %}
 {% for post in posts %}
-  {% capture year %}{{ post.date | date: "%B %d, %Y" }}{% endcapture %}
-  {% if post.date < '2017-07-17 00:00:00 +0000' %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-    {% include archive-single.html %}
-  {% endif %}
+  {% capture year %}{{ post.date | date: "%m %d %Y" }}{% endcapture %}
+  <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+  {% include archive-single.html %}
 {% endfor %}

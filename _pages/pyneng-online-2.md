@@ -1,15 +1,14 @@
 ---
-title: "Ссылки по летнему курсу PyNEng Online 2"
+title: "Ссылки по курсу PyNEng Online 2"
 permalink: /pyneng-online-2/
 sidebar:
   nav: "docs"
 ---
 
-По ходу курса, на этой странице будут добавляться ссылки на анонсы по каждому уроку.
 
 * [Архив постов](https://pyneng.github.io/pyneng-archive/)
 
-
+<br>
 
 <table border="1" cellpadding="4" cellspacing="0">
  <tr>

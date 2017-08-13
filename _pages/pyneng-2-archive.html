@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 {% for post in posts %}
-  {% capture year %}{{ post.date | date: "%d %m %Y" }}{% endcapture %}
-  {% if year < '25 06 2017' %}
-  <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+  {% capture month %}{{ post.date | date: "%m" }}{% endcapture %}
+  {% if month < '07' %}
+  <h2 class="archive__subtitle">{{ month }}</h2>
   {% include archive-single.html %}
   {% endif %}
 {% endfor %}

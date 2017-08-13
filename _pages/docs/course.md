@@ -132,6 +132,13 @@ excerpt: "Программа курса"
     <td>Ansible для сетевого оборудования (3ч)</td>
     <td align="center">12</td>
  </tr> 
+ <tr>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">18.11.17</td>
+    <td>Завершающая встреча (1ч)</td>
+    <td align="center">-</td>
+ </tr>
 </table>
 
 

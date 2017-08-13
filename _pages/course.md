@@ -143,8 +143,8 @@ sidebar:
  </tr> 
  <tr>
     <td align="center">11</td>
-    <td align="center">12.08.17</td>
-    <td align="center">Завершающая лекция</td>
+    <td align="center">18.11.17</td>
+    <td align="center">Завершающая лекция (1ч)</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>

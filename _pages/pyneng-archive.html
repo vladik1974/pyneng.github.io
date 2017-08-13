@@ -11,5 +11,8 @@ author_profile: true
   {% if month <= '07' %}
   {% include archive-single.html %}
   {% endif %}
+  {% if month == '08' and day <= '14'%}
+  {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 

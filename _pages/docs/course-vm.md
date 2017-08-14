@@ -1,5 +1,5 @@
 ---
-title: "VM"
+title: "Виртуальная машина"
 permalink: /docs/course-vm/
 ---
 

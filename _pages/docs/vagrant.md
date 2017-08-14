@@ -1,8 +1,13 @@
 ---
-title: "Vagrant"
-permalink: /docs/vagrant/
-excerpt: "Vagrant"
+title: "VM"
+permalink: /docs/course-vm/
 ---
+
+## vmware
+
+* [vmware](https://github.com/natenka/pyneng-examples-exercises/blob/python3/exercises/vm/vmware.md)
+
+## Vagrant
 
 Установить [Virtualbox](https://www.virtualbox.org/wiki/Downloads) и [Vagrant](https://www.vagrantup.com/downloads.html)
 

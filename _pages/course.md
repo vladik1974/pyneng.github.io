@@ -39,14 +39,14 @@ sidebar:
     <td align="center">Основы. Типы данных в Python (4ч)</td>
     <td align="center">7 (3.1, 3.2, 3.3, 3.6, 3.7, 3.8, 3.9)</td>
     <td align="center">3.2, 3.3, 3.6, 3.7</td>
-    <td align="center">25.06.17</td>
+    <td align="center">02.10.17</td>
  </tr>
  <tr>
     <td align="center">10.09.17 (2)</td>
     <td align="center">Типы данных в Python (3ч)</td>
     <td align="center">12 (3.4, 3.5; 04_basic_scripts)</td>
     <td align="center">3.1, 4.1, 4.2</td>
-    <td align="center">25.06.17</td>
+    <td align="center">02.10.17</td>
  </tr>
  <tr>
     <td align="center">2</td>
@@ -54,7 +54,7 @@ sidebar:
     <td align="center">Управление ходом программы. Работа с файлами (4ч)</td>
     <td align="center">13 (05_control_structures, 06_exercises)</td>
     <td align="center">5.1, 5.2, 5.3, 6.1, 6.2, 6.3</td>
-    <td align="center">02.07.17</td>
+    <td align="center">09.10.17</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">3</td>
@@ -62,14 +62,14 @@ sidebar:
     <td align="center">Функции (4ч)</td>
     <td align="center">9 (07_functions)</td>
     <td align="center">7.1, 7.1a, 7.2, 7.2a, 7.3</td>
-    <td align="center">09.07.17</td>
+    <td align="center">16.10.17</td>
  </tr>
  <tr>
     <td align="center">24.09.17 (5)</td>
     <td align="center">Модули (2ч)</td>
     <td align="center">4 (08_modules)</td>
     <td align="center">8.1, 8.2</td>
-    <td align="center">09.07.17</td>
+    <td align="center">16.10.17</td>
  </tr>
  <tr>
     <td align="center">4</td>
@@ -77,7 +77,7 @@ sidebar:
     <td align="center">Регулярные выражения (4ч)</td>
     <td align="center">10 (09_regex)</td>
     <td align="center">9.1, 9.2, 9.3, 9.4</td>
-    <td align="center">16.07.17</td>
+    <td align="center">23.10.17</td>
  </tr>
  <tr>
     <td align="center">5</td>
@@ -93,7 +93,7 @@ sidebar:
     <td align="center">Обработка данных в форматах YAML, JSON, CSV (3ч)</td>
     <td align="center">6 (10_serialization)</td>
     <td align="center">10.1, 10.2, 10.3</td>
-    <td align="center">30.07.17</td>
+    <td align="center">06.11.17</td>
  </tr>
  <tr>
     <td align="center">7</td>
@@ -101,7 +101,7 @@ sidebar:
     <td align="center">Работа с базами данных на примере SQL (SQLite) (4ч)</td>
     <td align="center">9 (11_db)</td>
     <td align="center">11.1, 11.1a, 11.2, 11.2a</td>
-    <td align="center">06.08.17</td>
+    <td align="center">13.11.17</td>
  </tr>
  <tr>
     <td align="center">8</td>
@@ -109,7 +109,7 @@ sidebar:
     <td align="center">Подключение к сетевым устройствам (Telnet, SSH). Параллельное подключение к устройствам (4ч)</td>
     <td align="center">11 (12_ssh_telnet)</td>
     <td align="center">12.1, 12.2, 12.2a, 12.2b</td>
-    <td align="center">13.08.17</td>
+    <td align="center">20.11.17</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">9</td>
@@ -117,14 +117,14 @@ sidebar:
     <td align="center">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
     <td align="center">10 (13_jinja2)</td>
     <td align="center">13.1, 13.1a, 13.2, 13.3</td>
-    <td align="center">20.08.17</td>
+    <td align="center">27.11.17</td>
  </tr>
  <tr>
     <td align="center">05.11.17 (12)</td>
     <td align="center">Обработка неструктурированного вывода команд с помощью TextFSM (2ч)</td>
     <td align="center">8 (14_textfsm)</td>
     <td align="center">14.1, 14.1a, 14.2, 14.3, 14.4</td>
-    <td align="center">20.08.17</td>
+    <td align="center">27.11.17</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">10</td>
@@ -139,7 +139,7 @@ sidebar:
     <td align="center">Ansible для сетевого оборудования (3ч)</td>
     <td align="center">12 (15_ansible)</td>
     <td align="center">15.1, 15.1a, 15.1b, 15.1c, 15.2, 15.3</td>
-    <td align="center">27.08.17</td>
+    <td align="center">04.12.17</td>
  </tr> 
  <tr>
     <td align="center">11</td>

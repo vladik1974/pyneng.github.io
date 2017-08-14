@@ -34,7 +34,7 @@ docs:
       - title: Slack
         url: /docs/slack/
       - title: VM
-      url: /docs/course-vm/
+        url: /docs/course-vm/
       - title: Linux
         url: /docs/linux/
   - title: Дополнительные ресурсы

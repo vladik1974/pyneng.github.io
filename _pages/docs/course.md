@@ -104,7 +104,7 @@ excerpt: "Программа курса"
     <td align="center">10</td>
     <td align="center">28.10.17</td>
     <td>Подключение к сетевым устройствам (Telnet, SSH). Параллельное подключение к устройствам (4ч)</td>
-    <td align="center">11</td>
+    <td align="center">12</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">9</td>

@@ -36,7 +36,7 @@ excerpt: "Cloud 9"
 
 В открывшемся окне заполните поле с именем пространства.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/cloud9_cloned_workspace.png)
+![clone]({{ site.url }}{{ site.baseurl }}/assets/images/cloud9_cloned_workspace.png)
 
 * workspace name - может быть любым
 * Team - надо оставить PyNEng
@@ -45,7 +45,7 @@ excerpt: "Cloud 9"
 
 После создания, у workspace будет такой вид:
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/cloud9_workspace_first_screen.png)
+![first]({{ site.url }}{{ site.baseurl }}/assets/images/cloud9_workspace_first_screen.png)
 
 
 ## Настройка workspace

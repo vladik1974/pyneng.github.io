@@ -48,6 +48,24 @@ excerpt: "Cloud 9"
 ![first]({{ site.url }}{{ site.baseurl }}/assets/images/cloud9_workspace_first_screen.png)
 
 
+## Python 3.6
+
+В рабочем пространстве установлен Python 3.6.
+Но, при клонировании, не сохраняется часть настроен виртуального окружения.
+
+Поэтому, чтобы использовать Python 3.6 в виртуальном окружении по умолчанию, создайте его таким образом:
+```
+mkvirtualenv --python=/usr/local/bin/python3.6 py3
+```
+
+> Можно удалить виртуальное окружение pyneng-py3: ```rmvirtualenv pyneng-py3```. А затем создать его заново как в команде выше, но заменить имя py3 на pyneng-py3.
+
+Также вы можете легко установить все необходимые пакеты, воспользовавшись файлом [requirements.txt](https://github.com/natenka/pyneng-examples-exercises/blob/python3/requirements.txt):
+```
+pip install -r requirements.txt
+```
+
+
 ## Настройка workspace
 
 ### Аутентификация на GitHub

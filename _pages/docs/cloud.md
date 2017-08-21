@@ -23,28 +23,29 @@ excerpt: "Cloud 9"
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/cloud9_user_home.png)
 
-Нажмите знак плюс, для создания своей рабочей области.
+Перейдите в команду PyNEng по ссылке на левой панели, под надписью "YOUR TEAM SUBSCRIPTIONS".
 
-В открывшемся окне заполните выделенные поля.
+По этой ссылке откроется страница команды.
+И список рабочих пространств команды.
+Вам нужно найти такое пространство:
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/cloud9_create_workspace_marked.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/cloud9_pyneng.png)
 
-* workspace name - может быть любым, но лучше выбрать имя равным имени вашего репозитория на GitHub
-* Team - надо выбрать/оставить PyNEng
-* Надо выбрать Private вариант
-* Choose a template - выбрать Python
+
+Нажмите на кнопку Clone, для создания копии рабочего пространства.
+
+В открывшемся окне заполните поле с именем пространства.
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/cloud9_cloned_workspace.png)
+
+* workspace name - может быть любым
+* Team - надо оставить PyNEng
 
 После этого надо нажать кнопку создания рабочей области.
 
 После создания, у workspace будет такой вид:
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/cloud9_workspace_first_screen.png)
-
-Для примера, в workspace скопировано упражнение из книги "Learn Python the hard way".
-Поэтому, надо удалить его.
-Для этого надо нажать правой кнопкой мыши на папке ex50 и выбрать пункт Delete.
-
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/cloud9_workspace_delete_default.png)
 
 
 ## Настройка workspace
@@ -110,7 +111,7 @@ Hi natenka! You've successfully authenticated, but GitHub does not provide shell
 
 ### Копирование репозитория с GitHub
 
-Для копирования репозитория с GitHub, выполните команду git clone:
+Для копирования своего репозитория с GitHub, выполните команду git clone:
 
 ```
 natenka:~/workspace $ git clone ssh://git@github.com/pyneng/online-2-natasha-samoylenko.git
@@ -132,49 +133,4 @@ Resolving deltas: 100% (74/74), done.
 
 В остальном, принципы работы с Git и GitHub аналогичны тому, что описано в документе [Настройка Git и GitHub](https://pyneng.github.io/docs/git-github-setup/).
 
-
-### Отображение статуса репозитория в командной строке
-
-
-В Cloud 9 в приглашении командной строки включено отображение о том, что мы находимся в репозитории и в какой ветке, но не отображается информация об изменениях.
-
-Кроме того, было бы удобней сделать многострочное приглашение, чтобы путь не съедал место в командной строке.
-
-
-Для этого нужно установить [специальную утилиту](https://github.com/magicmonty/bash-git-prompt), которая будет показывать статус репозитория.
-
-Надо скопировать репозиторий в домашний каталог пользователя, под которым вы работаете:
-```
-cd ~
-git clone https://github.com/magicmonty/bash-git-prompt.git .bash-git-prompt --depth=1
-```
-
-А затем добавить в конец файла ```~/.bashrc``` такие строки:
-```
-GIT_PROMPT_ONLY_IN_REPO=1
-GIT_PROMPT_START="\[\033[01;32m\]${C9_USER}\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]$ "
-source ~/.bash-git-prompt/gitprompt.sh
-```
-
-Для того чтобы изменения применились, перезапустить bash:
-```
-exec bash
-```
-
-После этого, приглашение выглядит так:
-```
-natenka:~ $ git clone https://github.com/magicmonty/bash-git-prompt.git .bash-git-prompt --depth=1
-Cloning into '.bash-git-prompt'...
-remote: Counting objects: 46, done.
-remote: Compressing objects: 100% (38/38), done.
-remote: Total 46 (delta 16), reused 15 (delta 7), pack-reused 0
-Unpacking objects: 100% (46/46), done.
-
-natenka:~ $ vi .bashrc 
-natenka:~ $ exec bash
-
-natenka:~ $ cd workspace/online-2-natasha-samoylenko/
-natenka:~/workspace/online-2-natasha-samoylenko$  [master|✔] 
-05:51 $ 
-```
 

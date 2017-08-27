@@ -68,8 +68,8 @@ sidebar:
  <tr>
     <td align="center">24.09.17 (5)</td>
     <td align="center">Модули (2ч)</td>
-    <td align="center">4 (08_modules)</td>
-    <td align="center">8.1, 8.2</td>
+    <td align="center">5 (08_modules)</td>
+    <td align="center">8.1, 8.2, 8.3</td>
     <td align="center">16.10.17</td>
  </tr>
  <tr>

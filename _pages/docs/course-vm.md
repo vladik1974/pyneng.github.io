@@ -20,7 +20,7 @@ permalink: /docs/course-vm/
 Есть два варианта подготовленных виртуальных машин (по ссылкам инструкции для каждого варианта:
 
 * [Vagrant](https://pyneng.github.io/docs/vagrant/)
-* [vmware](https://github.com/natenka/pyneng-examples-exercises/blob/python3/exercises/vm/vmware.md)
+* [vmware](https://github.com/natenka/pyneng-examples-exercises/blob/master/exercises/vm/vmware.md)
 
 ## Cloud 9
 

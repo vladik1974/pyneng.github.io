@@ -90,7 +90,7 @@ excerpt: "Программа курса"
     <td align="center">8</td>
     <td align="center">14.10.17</td>
     <td>Обработка данных в форматах YAML, JSON, CSV (3ч)</td>
-    <td align="center">6</td>
+    <td align="center">5</td>
  </tr>
  <tr>
     <td align="center">7</td>

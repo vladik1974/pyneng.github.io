@@ -108,8 +108,8 @@ sidebar:
     <td align="center">8</td>
     <td align="center">28.10.17 (10)</td>
     <td align="center">Подключение к сетевым устройствам (Telnet, SSH). Параллельное подключение к устройствам (4ч)</td>
-    <td align="center">12 (12_ssh_telnet)</td>
-    <td align="center">12.1, 12.2, 12.2a, 12.2b</td>
+    <td align="center">16 (12_ssh_telnet)</td>
+    <td align="center">12.1, 12.1a, 12.2, 12.2a, 12.2b</td>
     <td align="center">20.11.17</td>
  </tr>
  <tr>

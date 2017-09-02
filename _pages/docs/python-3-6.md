@@ -17,49 +17,5 @@ make -j8
 sudo make altinstall
 ```
 
-### Виртуальные окружения
+После этого можно [создавать виртуальное окружение](https://pyneng.github.io/docs/venv/)
 
-virtualenv - это инструмент, который позволяет создавать виртуальные окружения.
-
-Виртуальные окружения:
-* позволяют изолировать различные проекты
-* зависимости, которых требуют разные проекты, находятся в разных местах
-* Например, если в проекте 1 требуется пакет версии 1.0, а в проекте 2 требуется тот же пакет, но версии 3.1 пакеты, которые установлены в виртуальных окружениях, не перебивают глобальные пакеты
-
-В курсе используется virtualenvwrapper: он позволяет немного проще работать с virtualenv.
-
-Установка virtualenvwrapper с помощью pip:
-```
-pip install virtualenvwrapper
-```
-
-После установки, в .bashrc нужно добавить несколько строк
-```
-export WORKON_HOME=~/venv
-
-. /usr/local/bin/virtualenvwrapper.sh
-```
-
-Для того чтобы скрипт virtualenvwrapper.sh выполнился и можно было работать с виртуальными окружениями, надо перезапустить bash. Например, таким образом:
-```
-exec bash
-```
-
-Создание [виртуального окружения](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/01_intro/virtualenv.html), в котором используется Python 3.6 (эта же команда переведет вас в виртуальное окружение):
-```
-mkvirtualenv --python=/usr/local/bin/python3.6 pyneng-py3
-```
-
-Установка IPython внутри виртуального окружения:
-```
-pip install ipython
-```
-
-После этого, можно открывать ipython (вывод должен быть примерно таким):
-```
-$ ipython
-Python 3.6.0 (default, May 31 2017, 07:04:38) 
-Type 'copyright', 'credits' or 'license' for more information
-IPython 6.0.0 -- An enhanced Interactive Python. Type '?' for help.
-
-```

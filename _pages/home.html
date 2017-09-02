@@ -8,7 +8,8 @@ permalink: /
   {% capture day %}{{ post.date | date: '%d' }}{% endcapture %}
   {% if month = '08' and day >= '13'%}
   {% include archive-single.html %}
-  {% elif month > '08' %}
+  {% endif %}
+  {% if month > '08' %}
   {% include archive-single.html %}
   {% endif %}
 {% endfor %}

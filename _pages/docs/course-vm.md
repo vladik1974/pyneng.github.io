@@ -46,7 +46,7 @@ Cloud9 - это сервис, который предоставляет вирт
 Для этого создана отдельная [инструкция](https://pyneng.github.io/docs/python-3-6/).
 В этой инструкции Python 3.6 устанавливается не перебивая версию Python по умолчанию.
 
-Также вы можете легко установить все необходимые пакеты, воспользовавшись файлом [requirements.txt](https://github.com/natenka/pyneng-examples-exercises/blob/python3/requirements.txt):
+Также вы можете легко установить все необходимые пакеты, воспользовавшись файлом [requirements.txt](https://github.com/natenka/pyneng-examples-exercises/blob/master/requirements.txt):
 ```
 pip install -r requirements.txt
 ```

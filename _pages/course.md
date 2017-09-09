@@ -39,7 +39,7 @@ sidebar:
     <td align="center">09.09.17 (1)</td>
     <td align="center">Основы. Типы данных в Python (4ч)</td>
     <td align="center">7 (3.1, 3.2, 3.3, 3.6, 3.7, 3.8, 3.9)</td>
-    <td align="center">3.2, 3.3, 3.6, 3.7</td>
+    <td align="center">3.1, 3.2, 3.3, 3.6</td>
     <td align="center">02.10.17</td>
  </tr>
  <tr>

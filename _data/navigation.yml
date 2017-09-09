@@ -12,7 +12,7 @@ docs:
   - title: Основные ресурсы
     children:
       - title: "Программа курса"
-        url: /docs/course/
+        url: /course/
       - title: Задания
         url: /docs/tasks/
       - title: Как учиться

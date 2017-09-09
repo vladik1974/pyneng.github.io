@@ -28,8 +28,9 @@ excerpt: "PyNEng book"
     <td rowspan="2" align="center">1</td>
     <td align="center">09.09.17 (1)</td>
     <td>
+Основы. Типы данных в Python (4ч):
 <ul>
-<li><a href="https://natenka.gitbooks.io/pyneng/content/book/02_start/">Основы.</a></li>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/02_start/">Основы</a></li>
 <li><a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/3_numbers.html">Числа</a></li>
 <li><a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/4_strings.html">Строки</a></li>
 <li><a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/5_lists.html">Списки</a></li>
@@ -39,6 +40,7 @@ excerpt: "PyNEng book"
  <tr>
     <td align="center">10.09.17 (2)</td>
     <td>
+Типы данных в Python (3ч):
 <ul>
 <li><a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/6_dicts.html">Словари</a></li>
 <li><a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/7_tuple.html">Кортежи</a></li>

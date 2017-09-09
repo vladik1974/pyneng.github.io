@@ -22,7 +22,7 @@ excerpt: "PyNEng book"
  <tr>
     <td align="center">-</td>
     <td align="center">02.09.17</td>
-    <td>Предварительная встреча: Инструменты<a href="https://natenka.gitbooks.io/pyneng/content/book/01_intro/git-github/">Git/GitHub</a></td>
+    <td>Предварительная встреча: <a href="https://natenka.gitbooks.io/pyneng/content/book/01_intro/git-github/">Git/GitHub</a></td>
  </tr>
  <tr>
     <td rowspan="2" align="center">1</td>
@@ -109,10 +109,9 @@ excerpt: "PyNEng book"
     <td rowspan="2" align="center">10</td>
     <td align="center">11.11.17 (13)</td>
     <td>
-<ul>
-<li><a href="https://natenka.gitbooks.io/pyneng/content/book/15_ansible/1_ansible_basics/">Основы Ansible</a></li>
-<li><a href="https://natenka.gitbooks.io/pyneng/content/book/15_ansible/2_playbook_basics/">Основы Playbook</a></li>
-</ul>
+<a href="https://natenka.gitbooks.io/pyneng/content/book/15_ansible/1_ansible_basics/">Основы Ansible</a>
+<br>
+<a href="https://natenka.gitbooks.io/pyneng/content/book/15_ansible/2_playbook_basics/">Основы Playbook</a>
 </td>
  </tr>
  <tr>

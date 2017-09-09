@@ -21,7 +21,7 @@ sidebar:
  <tr>
     <td align="center">-</td>
     <td align="center">26.08.17</td>
-    <td>Предварительная встреча: О курсе (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-3/welcome/">Предварительная встреча: О курсе (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -29,7 +29,7 @@ sidebar:
  <tr>
     <td align="center">-</td>
     <td align="center">02.09.17</td>
-    <td>Предварительная встреча: Инструменты (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-3/tools/">Предварительная встреча: Инструменты (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -37,7 +37,7 @@ sidebar:
  <tr>
     <td rowspan="2" align="center">1</td>
     <td align="center">09.09.17 (1)</td>
-    <td align="center">Основы. Типы данных в Python (4ч)</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-3/day1/">Основы. Типы данных в Python (4ч)</a></td>
     <td align="center">7 (3.1, 3.2, 3.3, 3.6, 3.7, 3.8, 3.9)</td>
     <td align="center">3.1, 3.2, 3.3, 3.6</td>
     <td align="center">02.10.17</td>

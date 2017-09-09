@@ -21,7 +21,7 @@ sidebar:
  <tr>
     <td align="center">-</td>
     <td align="center">26.08.17</td>
-    <td><a href="https://pyneng.github.io/pyneng-3/welcome/">Предварительная встреча: О курсе (2ч)</a></td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-3/welcome/">Предварительная встреча: О курсе (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -29,7 +29,7 @@ sidebar:
  <tr>
     <td align="center">-</td>
     <td align="center">02.09.17</td>
-    <td><a href="https://pyneng.github.io/pyneng-3/tools/">Предварительная встреча: Инструменты (2ч)</a></td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-3/tools/">Предварительная встреча: Инструменты (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>

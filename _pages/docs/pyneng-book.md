@@ -17,12 +17,12 @@ excerpt: "PyNEng book"
  <tr>
     <td align="center">-</td>
     <td align="center">26.08.17</td>
-    <td>Предварительная встреча: О курсе (2ч)</a></td>
+    <td>Предварительная встреча: О курсе (2ч)</td>
  </tr>
  <tr>
     <td align="center">-</td>
     <td align="center">02.09.17</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/01_intro/git-github/">Предварительная встреча: Инструменты (2ч)</a></td>
+    <td>Предварительная встреча: Инструменты<a href="https://natenka.gitbooks.io/pyneng/content/book/01_intro/git-github/">Git/GitHub</a></td>
  </tr>
  <tr>
     <td rowspan="2" align="center">1</td>
@@ -53,8 +53,11 @@ excerpt: "PyNEng book"
     <td align="center">2</td>
     <td align="center">16.09.17 (3)</td>
     <td>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/05_control_structures/">Управление ходом программы</a>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/06_files/">Работа с файлами (4ч)</a></td>
+<ul>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/05_control_structures/">Управление ходом программы</a></li>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/06_files/">Работа с файлами (4ч)</a></li>
+</ul>
+</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">3</td>
@@ -104,8 +107,10 @@ excerpt: "PyNEng book"
     <td rowspan="2" align="center">10</td>
     <td align="center">11.11.17 (13)</td>
     <td>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/15_ansible/1_ansible_basics/">Основы Ansible</a>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/15_ansible/2_playbook_basics/">Основы Playbook</a>
+<ul>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/15_ansible/1_ansible_basics/">Основы Ansible</a></li>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/15_ansible/2_playbook_basics/">Основы Playbook</a></li>
+</ul>
 </td>
  </tr>
  <tr>

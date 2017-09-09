@@ -28,20 +28,25 @@ excerpt: "PyNEng book"
     <td rowspan="2" align="center">1</td>
     <td align="center">09.09.17 (1)</td>
     <td>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/02_start/">Основы.</a>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/3_numbers.html">Числа</a>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/4_strings.html">Строки</a>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/5_lists.html">Списки</a></td>
+<ul>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/02_start/">Основы.</a></li>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/3_numbers.html">Числа</a></li>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/4_strings.html">Строки</a></li>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/5_lists.html">Списки</a></li>
+</ul>
+</td>
  </tr>
  <tr>
     <td align="center">10.09.17 (2)</td>
     <td>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/6_dicts.html">Словари</a>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/7_tuple.html">Кортежи</a>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/8_set.html">Множества</a>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/9_convert_type.html">Преобразование типов</a>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/9a_check_type.html">Проверка типов</a>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/04_basic_scripts/">Создание базовых скриптов</a>
+<ul>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/6_dicts.html">Словари</a></li>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/7_tuple.html">Кортежи</a></li>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/8_set.html">Множества</a></li>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/9_convert_type.html">Преобразование типов</a></li>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/9a_check_type.html">Проверка типов</a></li>
+<li><a href="https://natenka.gitbooks.io/pyneng/content/book/04_basic_scripts/">Создание базовых скриптов</a></li>
+</ul>
     </td>
  </tr>
  <tr>

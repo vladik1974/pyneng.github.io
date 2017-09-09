@@ -7,3 +7,96 @@ excerpt: "PyNEng book"
 Книга "Python для сетевых инженеров" будет полезна в повторении информации после лекций или поиске нужных моментов:
 
 * [Online версия книги для Python 3.6](https://www.gitbook.com/book/natenka/pyneng/details)
+
+<table border="1" cellpadding="4" cellspacing="0">
+ <tr>
+    <th align="center">Неделя</th>
+    <th align="center">Дата (лекция)</th>
+    <th align="center">Тема в книге</th>
+ </tr>
+ <tr>
+    <td align="center">-</td>
+    <td align="center">26.08.17</td>
+    <td>Предварительная встреча: О курсе (2ч)</a></td>
+ </tr>
+ <tr>
+    <td align="center">-</td>
+    <td align="center">02.09.17</td>
+    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/01_intro/git-github/">Предварительная встреча: Инструменты (2ч)</a></td>
+ </tr>
+ <tr>
+    <td rowspan="2" align="center">1</td>
+    <td align="center">09.09.17 (1)</td>
+    <td align="center"><a href="https://natenka.gitbooks.io/pyneng/content/book/02_start/">Основы.</a>Типы данных в Python (4ч)
+<a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/3_numbers.html">Числа</a>
+<a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/4_strings.html">Строки</a>
+<a href="https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/5_lists.html">Списки</a></td>
+ </tr>
+ <tr>
+    <td align="center">10.09.17 (2)</td>
+    <td align="center">Типы данных в Python (3ч)</td>
+ </tr>
+ <tr>
+    <td align="center">2</td>
+    <td align="center">16.09.17 (3)</td>
+    <td align="center">Управление ходом программы. Работа с файлами (4ч)</a></td>
+ </tr>
+ <tr>
+    <td rowspan="2" align="center">3</td>
+    <td align="center">23.09.17 (4)</td>
+    <td align="center">Функции (4ч)</a></td>
+ </tr>
+ <tr>
+    <td align="center">24.09.17 (5)</td>
+    <td align="center">Модули (2ч)</a></td>
+ </tr>
+ <tr>
+    <td align="center">4</td>
+    <td align="center">30.09.17 (6)</td>
+    <td align="center">Регулярные выражения (4ч)</a></td>
+ </tr>
+ <tr>
+    <td align="center">5</td>
+    <td align="center">07.10.17 (7)</td>
+    <td align="center">Unicode (2ч)</a></td>
+ </tr>
+ <tr>
+    <td align="center">6</td>
+    <td align="center">14.10.17 (8)</td>
+    <td align="center">Обработка данных в форматах YAML, JSON, CSV (3ч)</a></td>
+ </tr>
+ <tr>
+    <td align="center">7</td>
+    <td align="center">21.10.17 (9)</td>
+    <td align="center">Работа с базами данных на примере SQL (SQLite) (4ч)</a></td>
+ </tr>
+ <tr>
+    <td align="center">8</td>
+    <td align="center">28.10.17 (10)</td>
+    <td align="center">Подключение к сетевым устройствам (Telnet, SSH). Параллельное подключение к устройствам (4ч)</a></td>
+ </tr>
+ <tr>
+    <td rowspan="2" align="center">9</td>
+    <td align="center">04.11.17 (11)</td>
+    <td align="center">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</a></td>
+ </tr>
+ <tr>
+    <td align="center">05.11.17 (12)</td>
+    <td align="center">Обработка неструктурированного вывода команд с помощью TextFSM (2ч)</a></td>
+ </tr>
+ <tr>
+    <td rowspan="2" align="center">10</td>
+    <td align="center">11.11.17 (13)</td>
+    <td align="center">Основы Ansible (4ч)</a></td>
+ </tr>
+ <tr>
+    <td align="center">12.11.17 (14)</td>
+    <td align="center">Ansible для сетевого оборудования (3ч)</a></td>
+ </tr> 
+ <tr>
+    <td align="center">11</td>
+    <td align="center">18.11.17</td>
+    <td align="center">Завершающая лекция (1ч)</a></td>
+ </tr>
+</table>
+

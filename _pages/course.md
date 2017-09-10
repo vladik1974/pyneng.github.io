@@ -44,7 +44,7 @@ sidebar:
  </tr>
  <tr>
     <td align="center">10.09.17 (2)</td>
-    <td align="center">Типы данных в Python (3ч)</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-3/day2/">Типы данных в Python (3ч)</a></td>
     <td align="center">12 (3.4, 3.5; 04_basic_scripts)</td>
     <td align="center">4.1, 4.1a, 4.2, 4.2a</td>
     <td align="center">02.10.17</td>

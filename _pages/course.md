@@ -52,7 +52,7 @@ sidebar:
  <tr>
     <td align="center">2</td>
     <td align="center">16.09.17 (3)</td>
-    <td align="center">Управление ходом программы. Работа с файлами (4ч)</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-3/day3/">Управление ходом программы. Работа с файлами (4ч)</a></td>
     <td align="center">13 (05_control_structures, 06_exercises)</td>
     <td align="center">5.1, 5.2, 5.3, 6.1, 6.2, 6.3</td>
     <td align="center">09.10.17</td>

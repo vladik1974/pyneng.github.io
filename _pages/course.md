@@ -60,7 +60,7 @@ sidebar:
  <tr>
     <td rowspan="2" align="center">3</td>
     <td align="center">23.09.17 (4)</td>
-    <td align="center">Функции (4ч)</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-3/day4/">Функции (4ч)</a></td>
     <td align="center">9 (07_functions)</td>
     <td align="center">7.1, 7.1a, 7.2, 7.2a, 7.3</td>
     <td align="center">16.10.17</td>

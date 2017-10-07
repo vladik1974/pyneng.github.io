@@ -83,7 +83,7 @@ sidebar:
  <tr>
     <td align="center">5</td>
     <td align="center">07.10.17 (7)</td>
-    <td align="center">Unicode (2ч)</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-3/day7/">Unicode (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>

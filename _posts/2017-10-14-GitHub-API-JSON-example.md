@@ -11,25 +11,26 @@ category:
 На лекции был пример получения информации через GitHub API с помощью requests.
 В основном он использовался как пример получения данных в формате JSON, но как базовый пример использования requests он тоже подойдет.
 
+
+### Базовый пример
+
 Для начала работы с requests, его надо установить:
 ```
 pip install requests
 ```
 
-### Базовый пример
-
 Затем импортировать модуль:
 ```python
-In [25]: import requests
+In [1]: import requests
 ```
 
 И указать логин и пароль вашего пользователя на GitHub:
 ```python
-In [26]: from getpass import getpass
+In [2]: from getpass import getpass
 
-In [26]: username = 'natenka'
+In [3]: username = 'natenka'
 
-In [30]: password = getpass.getpass()
+In [4]: password = getpass.getpass()
 ```
 
 > getpass запросит пароль, как функция input, но вводимые символы не будут отображаться.
@@ -37,13 +38,21 @@ In [30]: password = getpass.getpass()
 
 Этот запрос позволяет получить информацию о пользователе:
 ```python
-In [27]: r = requests.get('https://api.github.com/user', auth=(username, password))
+In [5]: r = requests.get('https://api.github.com/user', auth=(username, password))
 ```
+
+> Все ссылки, которые используются для работы с GitHub API описаны в [документации](https://developer.github.com/v3/)
 
 После выполнения запроса, можно просмотреть результат в формате JSON:
 ```python
-In [29]: r.json()
-Out[29]:
+In [6]: r.text
+Out[6]: '{"login":"natenka","id":15850513,"avatar_url":"https://avatars0.githubusercontent.com/u/15850513?v=4","gravatar_id":"","url":"https://api.github.com/users/natenka","html_url":"https://github.com/natenka","followers_url":"https://api.github.com/users/natenka/followers","following_url":"https://api.github.com/users/natenka/following{/other_user}","gists_url":"https://api.github.com/users/natenka/gists{/gist_id}","starred_url":"https://api.github.com/users/natenka/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/natenka/subscriptions","organizations_url":"https://api.github.com/users/natenka/orgs","repos_url":"https://api.github.com/users/natenka/repos","events_url":"https://api.github.com/users/natenka/events{/privacy}","received_events_url":"https://api.github.com/users/natenka/received_events","type":"User","site_admin":false,"name":"Наташа Самойленко","company":null,"blog":"https://natenka.github.io/","location":null,"email":"natasha.samoylenko@gmail.com","hireable":null,"bio":null,"public_repos":11,"public_gists":2,"followers":49,"following":27,"created_at":"2015-11-14T20:32:44Z","updated_at":"2017-09-27T17:27:19Z","private_gists":0,"total_private_repos":0,"owned_private_repos":0,"disk_usage":53691,"collaborators":0,"two_factor_authentication":false,"plan":{"name":"free","space":976562499,"collaborators":0,"private_repos":0}}'
+```
+
+Метод json конвертирует строку в формате JSON в объекты Python:
+```python
+In [7]: r.json()
+Out[7]:
 {'avatar_url': 'https://avatars0.githubusercontent.com/u/15850513?v=4',
  'bio': None,
  'blog': 'https://natenka.github.io/',
@@ -88,15 +97,15 @@ Out[29]:
 
 ### Получить все репозитории пользователя
 
-Для получшения всех репозиториев, используется ссылка `https://api.github.com/user/repos`:
+Для получения всех репозиториев, используется ссылка `https://api.github.com/user/repos`
 ```python
-In [38]: repos = requests.get('https://api.github.com/user/repos', auth=(username, password))
+In [8]: repos = requests.get('https://api.github.com/user/repos', auth=(username, password))
 ```
 
 Пример информации о репозитории (сокращенный):
 ```python
-In [40]: repos.json()[1]
-Out[40]:
+In [10]: repos.json()[1]
+Out[10]:
 {'archive_url': 'https://api.github.com/repos/natenka/Ansible-for-network-engineers/{archive_format}{/ref}',
  'created_at': '2017-01-10T09:36:16Z',
  'default_branch': 'master',
@@ -145,7 +154,7 @@ Out[40]:
 
 Таким образом можно вывести ссылку всех public репозиториев:
 ```
-In [39]: for repo in repos.json():
+In [12]: for repo in repos.json():
     ...:     if not repo['private']:
     ...:         print(repo['html_url'])
     ...:
@@ -170,17 +179,17 @@ https://github.com/pyneng/pyneng.github.io
 
 Аналогичным образом через GitHub API можно получить файл:
 ```python
-In [65]: file_path = 'exercises/10_serialization/task_10_2c.py'
+In [13]: file_path = 'exercises/10_serialization/task_10_2c.py'
 
-In [66]: github_api_file_url = 'https://api.github.com/repos/natenka/pyneng-examples-exercises/contents/'
+In [14]: github_api_file_url = 'https://api.github.com/repos/natenka/pyneng-examples-exercises/contents/'
 
-In [67]: file_response = requests.get(github_api_file_url+file_path, auth=(username, password))
+In [15]: file_response = requests.get(github_api_file_url+file_path, auth=(username, password))
 ```
 
 Результат:
 ```python
-In [87]: file_response.json()
-Out[87]:
+In [16]: file_response.json()
+Out[16]:
 {'_links': {'git': 'https://api.github.com/repos/natenka/pyneng-examples-exercises/git/blobs/815db87494071a883cc16d257a99cf024bdb1d0b',
   'html': 'https://github.com/natenka/pyneng-examples-exercises/blob/master/exercises/10_serialization/task_10_2c.py',
   'self': 'https://api.github.com/repos/natenka/pyneng-examples-exercises/contents/exercises/10_serialization/task_10_2c.py?ref=master'},
@@ -200,26 +209,29 @@ Out[87]:
 
 Обратите внимание на поле encoding:
 ```python
-In [70]: file_response.json()['encoding']
-Out[70]: 'base64'
+In [17]: file_response.json()['encoding']
+Out[17]: 'base64'
 ```
 
 Чтобы получить содержимое файла, нужно использовать модуль base64:
 ```python
-In [74]: import base64
+In [18]: import base64
+```
 
-In [73]: file_bytes = base64.b64decode(file_response.json()['content'])
+Модуль позволяет декодировать строку и возвращает байты:
+```
+In [19]: file_bytes = base64.b64decode(file_response.json()['content'])
 
-In [88]: file_bytes
+In [20]: file_bytes
 Out[88]: b"# -*- coding: utf-8 -*-\n\n'''\n\xd0\x97\xd0\xb0\xd0\xb4\xd0\xb0\xd0\xbd\xd0\xb8\xd0\xb5 10.2c\n\n\xd0\xa1 \xd0\xbf\xd0\xbe\xd0\xbc\xd0\xbe\xd1\x89\xd1\x8c\xd1\x8e \xd1\x84\xd1\x83\xd0\xbd\xd0\xba\xd1\x86\xd0\xb8\xd0\xb8 draw_topology \xd0\xb8\xd0\xb7 \xd1\x84\xd0\xb0\xd0\xb9\xd0\xbb\xd0\xb0 draw_network_graph.py\n\xd1\x81\xd0\xb3\xd0\xb5\xd0\xbd\xd0\xb5\xd1\x80\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd1\x8c \xd1\x82\xd0\xbe\xd0\xbf\xd0\xbe\xd0\xbb\xd0\xbe\xd0\xb3\xd0\xb8\xd1\x8e, \xd0\xba\xd0\xbe\xd1\x82\xd0\xbe\xd1\x80\xd0\xb0\xd1\x8f \xd1\x81\xd0\xbe\xd0\xbe\xd1\x82\xd0\xb2\xd0\xb5\xd1\x82\xd1\x81\xd1\x82\xd0\xb2\xd1\x83\xd0\xb5\xd1\x82 \xd0\xbe\xd0\xbf\xd0\xb8\xd1\x81\xd0\xb0\xd0\xbd\xd0\xb8\xd1\x8e \xd0\xb2 \xd1\x84\xd0\xb0\xd0\xb9\xd0\xbb\xd0\xb5 topology.yaml\n\n\xd0\x9e\xd0\xb1\xd1\x80\xd0\xb0\xd1\x82\xd0\xb8\xd1\x82\xd0\xb5 \xd0\xb2\xd0\xbd\xd0\xb8\xd0\xbc\xd0\xb0\xd0\xbd\xd0\xb8\xd0\xb5 \xd0\xbd\xd0\xb0 \xd1\x82\xd0\xbe, \xd0\xba\xd0\xb0\xd0\xba\xd0\xbe\xd0\xb9 \xd1\x84\xd0\xbe\xd1\x80\xd0\xbc\xd0\xb0\xd1\x82 \xd0\xb4\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd1\x85 \xd0\xbe\xd0\xb6\xd0\xb8\xd0\xb4\xd0\xb0\xd0\xb5\xd1\x82 \xd1\x84\xd1\x83\xd0\xbd\xd0\xba\xd1\x86\xd0\xb8\xd1\x8f draw_topology.\n\xd0\x9e\xd0\xbf\xd0\xb8\xd1\x81\xd0\xb0\xd0\xbd\xd0\xb8\xd0\xb5 \xd1\x82\xd0\xbe\xd0\xbf\xd0\xbe\xd0\xbb\xd0\xbe\xd0\xb3\xd0\xb8\xd0\xb8 \xd0\xb8\xd0\xb7 \xd1\x84\xd0\xb0\xd0\xb9\xd0\xbb\xd0\xb0 topology.yaml \xd0\xbd\xd1\x83\xd0\xb6\xd0\xbd\xd0\xbe \xd0\xbf\xd1\x80\xd0\xb5\xd0\xbe\xd0\xb1\xd1\x80\xd0\xb0\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd1\x8c \xd1\x81\xd0\xbe\xd0\xbe\xd1\x82\xd0\xb2\xd0\xb5\xd1\x82\xd1\x81\xd1\x82\xd0\xb2\xd1\x83\xd1\x8e\xd1\x89\xd0\xb8\xd0\xbc \xd0\xbe\xd0\xb1\xd1\x80\xd0\xb0\xd0\xb7\xd0\xbe\xd0\xbc,\n\xd1\x87\xd1\x82\xd0\xbe\xd0\xb1\xd1\x8b \xd0\xb8\xd1\x81\xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd1\x8c \xd1\x84\xd1\x83\xd0\xbd\xd0\xba\xd1\x86\xd0\xb8\xd1\x8e draw_topology.\n\n\xd0\x94\xd0\xbb\xd1\x8f \xd1\x80\xd0\xb5\xd1\x88\xd0\xb5\xd0\xbd\xd0\xb8\xd1\x8f \xd0\xb7\xd0\xb0\xd0\xb4\xd0\xb0\xd0\xbd\xd0\xb8\xd1\x8f \xd0\xbc\xd0\xbe\xd0\xb6\xd0\xbd\xd0\xbe \xd1\x81\xd0\xbe\xd0\xb7\xd0\xb4\xd0\xb0\xd1\x82\xd1\x8c \xd0\xbb\xd1\x8e\xd0\xb1\xd1\x8b\xd0\xb5 \xd0\xb2\xd1\x81\xd0\xbf\xd0\xbe\xd0\xbc\xd0\xbe\xd0\xb3\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c\xd0\xbd\xd1\x8b\xd0\xb5 \xd1\x84\xd1\x83\xd0\xbd\xd0\xba\xd1\x86\xd0\xb8\xd0\xb8.\n\n\xd0\x9d\xd0\xb5 \xd0\xba\xd0\xbe\xd0\xbf\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd1\x8c \xd0\xba\xd0\xbe\xd0\xb4 \xd1\x84\xd1\x83\xd0\xbd\xd0\xba\xd1\x86\xd0\xb8\xd0\xb8 draw_topology.\n\n\xd0\x92 \xd0\xb8\xd1\x82\xd0\xbe\xd0\xb3\xd0\xb5, \xd0\xb4\xd0\xbe\xd0\xbb\xd0\xb6\xd0\xbd\xd0\xbe \xd0\xb1\xd1\x8b\xd1\x82\xd1\x8c \xd1\x81\xd0\xb3\xd0\xb5\xd0\xbd\xd0\xb5\xd1\x80\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd\xd0\xbe \xd0\xb8\xd0\xb7\xd0\xbe\xd0\xb1\xd1\x80\xd0\xb0\xd0\xb6\xd0\xb5\xd0\xbd\xd0\xb8\xd0\xb5 \xd1\x82\xd0\xbe\xd0\xbf\xd0\xbe\xd0\xbb\xd0\xbe\xd0\xb3\xd0\xb8\xd0\xb8.\n\xd0\xa0\xd0\xb5\xd0\xb7\xd1\x83\xd0\xbb\xd1\x8c\xd1\x82\xd0\xb0\xd1\x82 \xd0\xb4\xd0\xbe\xd0\xbb\xd0\xb6\xd0\xb5\xd0\xbd \xd0\xb2\xd1\x8b\xd0\xb3\xd0\xbb\xd1\x8f\xd0\xb4\xd0\xb5\xd1\x82\xd1\x8c \xd1\x82\xd0\xb0\xd0\xba \xd0\xb6\xd0\xb5, \xd0\xba\xd0\xb0\xd0\xba \xd1\x81\xd1\x85\xd0\xb5\xd0\xbc\xd0\xb0 \xd0\xb2 \xd1\x84\xd0\xb0\xd0\xb9\xd0\xbb\xd0\xb5 task_10_2c_topology.svg\n\n\xd0\x9f\xd1\x80\xd0\xb8 \xd1\x8d\xd1\x82\xd0\xbe\xd0\xbc:\n* \xd0\x98\xd0\xbd\xd1\x82\xd0\xb5\xd1\x80\xd1\x84\xd0\xb5\xd0\xb9\xd1\x81\xd1\x8b \xd0\xbc\xd0\xbe\xd0\xb3\xd1\x83\xd1\x82 \xd0\xb1\xd1\x8b\xd1\x82\xd1\x8c \xd0\xb7\xd0\xb0\xd0\xbf\xd0\xb8\xd1\x81\xd0\xb0\xd0\xbd\xd1\x8b \xd1\x81 \xd0\xbf\xd1\x80\xd0\xbe\xd0\xb1\xd0\xb5\xd0\xbb\xd0\xbe\xd0\xbc Fa 0/0 \xd0\xb8\xd0\xbb\xd0\xb8 \xd0\xb1\xd0\xb5\xd0\xb7 Fa0/0.\n* \xd0\xa0\xd0\xb0\xd1\x81\xd0\xbf\xd0\xbe\xd0\xbb\xd0\xbe\xd0\xb6\xd0\xb5\xd0\xbd\xd0\xb8\xd0\xb5 \xd1\x83\xd1\x81\xd1\x82\xd1\x80\xd0\xbe\xd0\xb9\xd1\x81\xd1\x82\xd0\xb2 \xd0\xbd\xd0\xb0 \xd1\x81\xd1\x85\xd0\xb5\xd0\xbc\xd0\xb5 \xd0\xbc\xd0\xbe\xd0\xb6\xd0\xb5\xd1\x82 \xd0\xb1\xd1\x8b\xd1\x82\xd1\x8c \xd0\xb4\xd1\x80\xd1\x83\xd0\xb3\xd0\xb8\xd0\xbc\n* \xd0\xa1\xd0\xbe\xd0\xb5\xd0\xb4\xd0\xb8\xd0\xbd\xd0\xb5\xd0\xbd\xd0\xb8\xd1\x8f \xd0\xb4\xd0\xbe\xd0\xbb\xd0\xb6\xd0\xbd\xd1\x8b \xd1\x81\xd0\xbe\xd0\xbe\xd1\x82\xd0\xb2\xd0\xb5\xd1\x82\xd1\x81\xd1\x82\xd0\xb2\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd1\x8c \xd1\x81\xd1\x85\xd0\xb5\xd0\xbc\xd0\xb5\n\n\n> \xd0\x94\xd0\xbb\xd1\x8f \xd0\xb2\xd1\x8b\xd0\xbf\xd0\xbe\xd0\xbb\xd0\xbd\xd0\xb5\xd0\xbd\xd0\xb8\xd1\x8f \xd1\x8d\xd1\x82\xd0\xbe\xd0\xb3\xd0\xbe \xd0\xb7\xd0\xb0\xd0\xb4\xd0\xb0\xd0\xbd\xd0\xb8\xd1\x8f, \xd0\xb4\xd0\xbe\xd0\xbb\xd0\xb6\xd0\xb5\xd0\xbd \xd0\xb1\xd1\x8b\xd1\x82\xd1\x8c \xd1\x83\xd1\x81\xd1\x82\xd0\xb0\xd0\xbd\xd0\xbe\xd0\xb2\xd0\xbb\xd0\xb5\xd0\xbd graphviz:\n> apt-get install graphviz\n\n> \xd0\x98 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c python \xd0\xb4\xd0\xbb\xd1\x8f \xd1\x80\xd0\xb0\xd0\xb1\xd0\xbe\xd1\x82\xd1\x8b \xd1\x81 graphviz:\n> pip install graphviz\n\n'''\n"
 
 ```
 
-
+Чтобы получить строку Python, используется decode:
 ```python
-In [89]: file_str = file_bytes.decode('utf-8')
+In [21]: file_str = file_bytes.decode('utf-8')
 
-In [90]: print(file_str)
+In [22]: print(file_str)
 # -*- coding: utf-8 -*-
 
 '''
@@ -259,44 +271,43 @@ In [90]: print(file_str)
 ### Создание файла
 
 Для [создания файла](https://developer.github.com/v3/repos/contents/#create-a-file) надо передать его содержимое в кодировке Base64.
-А сама кодировка ожидает байты.
+При этом, сама кодировка ожидает байты и возвращает байты, а формату JSON надо передать строку, а не байты.
 
 Поэтому надо сделать несколько конвертаций, чтобы в итоге получить нужный формат:
 ```python
-In [105]: content = 'Проверка GitHub API'
+In [25]: content = 'Проверка GitHub API'
 
-In [106]: b_content = content.encode('utf-8')
+In [26]: b_content = content.encode('utf-8')
 
-In [107]: b_content
-Out[107]: b'\xd0\x9f\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb5\xd1\x80\xd0\xba\xd0\xb0 GitHub API'
+In [27]: b_content
+Out[27]: b'\xd0\x9f\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb5\xd1\x80\xd0\xba\xd0\xb0 GitHub API'
 
-In [108]: base64_content = base64.b64encode(b_content)
+In [28]: base64_content = base64.b64encode(b_content)
 
-In [109]: base64_content
-Out[109]: b'0J/RgNC+0LLQtdGA0LrQsCBHaXRIdWIgQVBJ'
+In [29]: base64_content
+Out[29]: b'0J/RgNC+0LLQtdGA0LrQsCBHaXRIdWIgQVBJ'
 
-In [110]: base64_content_str = base64_content.decode('utf-8')
+In [30]: base64_content_str = base64_content.decode('utf-8')
 
-In [111]: base64_content_str
-Out[111]: '0J/RgNC+0LLQtdGA0LrQsCBHaXRIdWIgQVBJ'
+In [31]: base64_content_str
+Out[31]: '0J/RgNC+0LLQtdGA0LrQsCBHaXRIdWIgQVBJ'
 ```
 
 Теперь можно составить словарь с параметрами файла:
 ```python
-In [112]: f = {'path':'',
-     ...:      'message': 'Create new file via GitHub API',
-     ...:      'content': base64_content_str}
-     ...:
-     ...:
+In [32]: f = {'path':'',
+    ...:      'message': 'Create new file via GitHub API',
+    ...:      'content': base64_content_str}
+    ...:
 ```
 
 И передать его как строку в параметр data:
 ```python
-In [113]: f_resp = requests.put('https://api.github.com/repos/natenka/My_Scripts/contents/try_gh_api.md',
-     ...:                       auth=(username, password),
-     ...:                       headers={ "Content-Type": "application/json" },
-     ...:                       data=json.dumps(f))
-     ...:
+In [33]: f_resp = requests.put('https://api.github.com/repos/natenka/My_Scripts/contents/try_gh_api.md',
+    ...:                       auth=(username, password),
+    ...:                       headers={ "Content-Type": "application/json" },
+    ...:                       data=json.dumps(f))
+    ...:
 ```
 
 > [Итоговый файл в моем репозитории](https://github.com/natenka/My_Scripts/blob/master/try_gh_api.md)
@@ -304,8 +315,8 @@ In [113]: f_resp = requests.put('https://api.github.com/repos/natenka/My_Scripts
 
 Ответ в формате JSON:
 ```python
-In [115]: f_resp.json()
-Out[115]:
+In [35]: f_resp.json()
+Out[35]:
 {'commit': {'author': {'date': '2017-10-14T15:19:35Z',
    'email': 'nataliya.samoylenko@gmail.com',
    'name': 'Наташа Самойленко'},

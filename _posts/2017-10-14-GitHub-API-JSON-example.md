@@ -351,3 +351,9 @@ Out[35]:
 ```
 
 
+
+## Дополнительная информация
+
+* [Requests. Quickstart](http://docs.python-requests.org/en/master/user/quickstart/)
+* [GitHub REST API v3](https://developer.github.com/v3/)
+

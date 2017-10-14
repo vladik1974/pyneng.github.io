@@ -36,7 +36,7 @@ In [4]: password = getpass.getpass()
 > getpass запросит пароль, как функция input, но вводимые символы не будут отображаться.
 
 
-Этот запрос позволяет получить информацию о пользователе:
+Этот запрос позволяет получить [информацию о пользователе](https://developer.github.com/v3/users/#get-the-authenticated-user):
 ```python
 In [5]: r = requests.get('https://api.github.com/user', auth=(username, password))
 ```
@@ -97,7 +97,7 @@ Out[7]:
 
 ### Получить все репозитории пользователя
 
-Для получения всех репозиториев, используется ссылка `https://api.github.com/user/repos`
+Для получения [всех ваших репозиториев](https://developer.github.com/v3/repos/#list-your-repositories), используется ссылка `https://api.github.com/user/repos`
 ```python
 In [8]: repos = requests.get('https://api.github.com/user/repos', auth=(username, password))
 ```
@@ -177,7 +177,7 @@ https://github.com/pyneng/pyneng.github.io
 
 ### Получение файла
 
-Аналогичным образом через GitHub API можно получить файл:
+Аналогичным образом через GitHub API [можно получить файл](https://developer.github.com/v3/repos/contents/#get-contents):
 ```python
 In [13]: file_path = 'exercises/10_serialization/task_10_2c.py'
 
@@ -213,7 +213,7 @@ In [17]: file_response.json()['encoding']
 Out[17]: 'base64'
 ```
 
-Чтобы получить содержимое файла, нужно использовать модуль base64:
+Чтобы получить содержимое файла, нужно использовать [модуль base64](https://docs.python.org/3/library/base64.html):
 ```python
 In [18]: import base64
 ```

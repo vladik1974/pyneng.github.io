@@ -14,18 +14,36 @@ category:
 
 Пример строки в формате JSON:
 ```python
-In [20]: data ='{"login":"natenka","id":15850513,"avatar_url":"https://avatars0.githubusercontent.com/u/15850513?v=4","gravatar_id":"","url":"https://api.github.com/users/natenka","html_url":"https://github.com/natenka","followers_url":"https://api.github.com/users/natenka/followers","following_url":"https://api.github.com/users/natenka/following{/other_user}","gists_url":"https://api.github.com/users/natenka/gists{/gist_id}","starred_url":"https://api.github.com/users/natenka/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/natenka/subscriptions","organizations_url":"https://api.github.com/users/natenka/orgs","repos_url":"https://api.github.com/users/natenka/repos","events_url":"https://api.github.com/users/natenka/events{/privacy}","received_events_url":"https://api.github.com/users/natenka/received_events","type":"User","site_admin":false,"name":"Наташа Самойленко","company":null,"blog":"https://natenka.github.io/","location":null,"email":"natasha.samoylenko@gmail.com","hireable":null,"bio":null,"public_repos":11,"public_gists":2,"followers":49,"following":27,"created_at":"2015-11-14T20:32:44Z","updated_at":"2017-09-27T17:27:19Z","private_gists":0,"total_private_repos":0,"owned_private_repos":0,"disk_usage":53691,"collaborators":0,"two_factor_authentication":false,"plan":{"name":"free","space":976562499,"collaborators":0,"private_repos":0}}'
-
+In [10]: data = '{"login":"natenka","id":15850513,"avatar_url":"https://avatars0.githubus
+    ...: ercontent.com/u/15850513?v=4","gravatar_id":"","url":"https://api.github.com/use
+    ...: rs/natenka","html_url":"https://github.com/natenka","followers_url":"https://api
+    ...: .github.com/users/natenka/followers","following_url":"https://api.github.com/use
+    ...: rs/natenka/following{/other_user}","gists_url":"https://api.github.com/users/nat
+    ...: enka/gists{/gist_id}","starred_url":"https://api.github.com/users/natenka/starre
+    ...: d{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/natenka/subs
+    ...: criptions","organizations_url":"https://api.github.com/users/natenka/orgs","repo
+    ...: s_url":"https://api.github.com/users/natenka/repos","events_url":"https://api.gi
+    ...: thub.com/users/natenka/events{/privacy}","received_events_url":"https://api.gith
+    ...: ub.com/users/natenka/received_events","type":"User","site_admin":false,"name":"Н
+    ...: аташа Самойленко","company":null,"blog":"https://natenka.github.io/","location":
+    ...: null,"email":"natasha.samoylenko@gmail.com","hireable":null,"bio":null,"public_r
+    ...: epos":11,"public_gists":2,"followers":49,"following":27,"created_at":"2015-11-14
+    ...: T20:32:44Z","updated_at":"2017-09-27T17:27:19Z","private_gists":0,"total_private
+    ...: _repos":0,"owned_private_repos":0,"disk_usage":53691,"collaborators":0,"two_fact
+    ...: or_authentication":false,"plan":{"name":"free","space":976562499,"collaborators"
+    ...: :0,"private_repos":0}}'
 ```
+
+> Вариант для копирования ```data ='{"login":"natenka","id":15850513,"avatar_url":"https://avatars0.githubusercontent.com/u/15850513?v=4","gravatar_id":"","url":"https://api.github.com/users/natenka","html_url":"https://github.com/natenka","followers_url":"https://api.github.com/users/natenka/followers","following_url":"https://api.github.com/users/natenka/following{/other_user}","gists_url":"https://api.github.com/users/natenka/gists{/gist_id}","starred_url":"https://api.github.com/users/natenka/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/natenka/subscriptions","organizations_url":"https://api.github.com/users/natenka/orgs","repos_url":"https://api.github.com/users/natenka/repos","events_url":"https://api.github.com/users/natenka/events{/privacy}","received_events_url":"https://api.github.com/users/natenka/received_events","type":"User","site_admin":false,"name":"Наташа Самойленко","company":null,"blog":"https://natenka.github.io/","location":null,"email":"natasha.samoylenko@gmail.com","hireable":null,"bio":null,"public_repos":11,"public_gists":2,"followers":49,"following":27,"created_at":"2015-11-14T20:32:44Z","updated_at":"2017-09-27T17:27:19Z","private_gists":0,"total_private_repos":0,"owned_private_repos":0,"disk_usage":53691,"collaborators":0,"two_factor_authentication":false,"plan":{"name":"free","space":976562499,"collaborators":0,"private_repos":0}}'```
 
 Для начала, получаем словарь Python из строки с помощью метода loads:
 ```python
-In [21]: import json
+In [11]: import json
 
-In [22]: py_data = json.loads(data)
+In [12]: py_data = json.loads(data)
 
-In [23]: py_data
-Out[23]:
+In [13]: py_data
+Out[13]:
 {'avatar_url': 'https://avatars0.githubusercontent.com/u/15850513?v=4',
  'bio': None,
  'blog': 'https://natenka.github.io/',
@@ -72,14 +90,14 @@ Out[23]:
 
 Запись словаря в файл в формате JSON
 ```python
-In [26]: with open('try_unicode.json', 'w') as f:
+In [16]: with open('try_unicode.json', 'w') as f:
     ...:     json.dump(py_data, f, indent=2)
     ...:
 ```
 
 Итоговый результат:
 ```python
-In [27]: cat try_unicode.json
+In [17]: cat try_unicode.json
 {
   "login": "natenka",
   "id": 15850513,
@@ -134,12 +152,12 @@ In [27]: cat try_unicode.json
 Если этот файл будет использоваться только скриптом, никаких проблем не будет.
 Мы можем считать его и получить тот же словарь в Python с кириллицей:
 ```python
-In [36]: with open('try_unicode.json') as f:
+In [26]: with open('try_unicode.json') as f:
     ...:     result = json.load(f)
     ...:
 
-In [37]: result
-Out[37]:
+In [27]: result
+Out[27]:
 {'avatar_url': 'https://avatars0.githubusercontent.com/u/15850513?v=4',
  'bio': None,
  'blog': 'https://natenka.github.io/',
@@ -188,14 +206,14 @@ Out[37]:
 
 За это отвечает параметр ensure_ascii:
 ```python
-In [38]: with open('try_unicode.json', 'w') as f:
+In [28]: with open('try_unicode.json', 'w') as f:
     ...:     json.dump(py_data, f, indent=2, ensure_ascii=False)
     ...:
 ```
 
 Теперь кириллица записана нормально:
 ```python
-In [39]: cat try_unicode.json
+In [29]: cat try_unicode.json
 {
   "login": "natenka",
   "id": 15850513,

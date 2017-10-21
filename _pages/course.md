@@ -98,7 +98,7 @@ sidebar:
  </tr>
  <tr>
     <td align="center">7</td>
-    <td align="center">21.10.17 (9)</td>
+    <td align="center">28.10.17 (9)</td>
     <td align="center">Работа с базами данных на примере SQL (SQLite) (4ч)</td>
     <td align="center">9 (11_db)</td>
     <td align="center">11.1, 11.1a, 11.2, 11.2a</td>
@@ -106,7 +106,7 @@ sidebar:
  </tr>
  <tr>
     <td align="center">8</td>
-    <td align="center">28.10.17 (10)</td>
+    <td align="center">04.11.17 (10)</td>
     <td align="center">Подключение к сетевым устройствам (Telnet, SSH). Параллельное подключение к устройствам (4ч)</td>
     <td align="center">16 (12_ssh_telnet)</td>
     <td align="center">12.1, 12.1a, 12.2, 12.2a, 12.2b</td>
@@ -114,14 +114,14 @@ sidebar:
  </tr>
  <tr>
     <td rowspan="2" align="center">9</td>
-    <td align="center">04.11.17 (11)</td>
+    <td align="center">11.11.17 (11)</td>
     <td align="center">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
     <td align="center">10 (13_jinja2)</td>
     <td align="center">13.1, 13.1a, 13.2, 13.3</td>
     <td align="center">27.11.17</td>
  </tr>
  <tr>
-    <td align="center">05.11.17 (12)</td>
+    <td align="center">12.11.17 (12)</td>
     <td align="center">Обработка неструктурированного вывода команд с помощью TextFSM (2ч)</td>
     <td align="center">8 (14_textfsm)</td>
     <td align="center">14.1, 14.1a, 14.2, 14.3, 14.4</td>
@@ -129,14 +129,14 @@ sidebar:
  </tr>
  <tr>
     <td rowspan="2" align="center">10</td>
-    <td align="center">11.11.17 (13)</td>
+    <td align="center">18.11.17 (13)</td>
     <td align="center">Основы Ansible (4ч)</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>
  <tr>
-    <td align="center">12.11.17 (14)</td>
+    <td align="center">19.11.17 (14)</td>
     <td align="center">Ansible для сетевого оборудования (3ч)</td>
     <td align="center">12 (15_ansible)</td>
     <td align="center">15.1, 15.1a, 15.1b, 15.1c, 15.2, 15.3</td>
@@ -144,7 +144,7 @@ sidebar:
  </tr> 
  <tr>
     <td align="center">11</td>
-    <td align="center">18.11.17</td>
+    <td align="center">25.11.17</td>
     <td align="center">Завершающая лекция (1ч)</td>
     <td align="center">-</td>
     <td align="center">-</td>

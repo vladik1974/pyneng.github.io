@@ -75,7 +75,7 @@ create table dhcp (
 Для того чтобы посмотреть на внешний ключ в действии, надо добавить данные в таблицы.
 
 Для начала надо создать таблицы:
-```
+```sql
 $ sqlite3 dhcp_snooping.db
 
 sqlite> .read dhcp_snooping_schema_ver1.sql
@@ -86,7 +86,7 @@ dhcp      switches
 
 После выполнения команд выше, надо заполнить таблицы.
 Это можно сделать импортировав данные из подготовленных CSV файлов:
-```
+```sql
 sqlite> .mode csv
 sqlite> .import dhcp.csv dhcp
 sqlite> .import switches.csv switches
@@ -131,7 +131,7 @@ sqlite> PRAGMA foreign_keys = ON;
 > Команда ```PRAGMA foreign_keys = ON;``` должна указываться для каждого подключения к БД.
 
 Теперь, если попробовать добавить в таблицу dhcp запись с коммутатором, которого нет в таблице switches, возникнет ошибка:
-```
+```sql
 sqlite> INSERT into dhcp
    ...> values ('00:A9:0C:4F:55:50', '10.1.3.1', '10', 'FastEthernet0/19', 'sw4');
 Error: FOREIGN KEY constraint failed
@@ -141,7 +141,7 @@ Error: FOREIGN KEY constraint failed
 Если добавить коммутатор и повторить команду, она отработает.
 
 Кроме того, нельзя удалить коммутатор из таблицы switches, если в таблице dhcp есть записи, которые указывают на него:
-```
+```sql
 sqlite> delete from switches where hostname = 'sw2';
 Error: FOREIGN KEY constraint failed
 ```
@@ -257,7 +257,7 @@ CREATE TABLE dhcp (
 ```
 
 Можно создать базу данных с нуля:
-```
+```sql
 sqlite> .read dhcp_snooping_schema_ver2.sql
 
 sqlite> .mode csv
@@ -267,7 +267,7 @@ sqlite> .mode column
 ```
 
 Содержимое таблицы switches:
-```
+```sql
 sqlite> select * from switches;
 hostname    location
 ----------  -------------------------
@@ -277,7 +277,7 @@ sw3         London, 21 New Globe Walk
 ```
 
 Содержимое таблицы dhcp:
-```
+```sql
 sqlite> select * from dhcp;
 mac                ip          vlan        interface        switch
 -----------------  ----------  ----------  ---------------  ----------
@@ -294,12 +294,12 @@ mac                ip          vlan        interface        switch
 ```
 
 Не забываем включить PRAGMA foreign_keys:
-```
+```sql
 sqlite> PRAGMA foreign_keys = ON;
 ```
 
 Теперь, если мы решили изменить имя коммутатора, достаточно изменить его в таблице switches, а поле switch в dhcp изменится само:
-```
+```sql
 sqlite> UPDATE switches set hostname = 'cisco-sw1' where hostname = 'sw1';
 
 sqlite> select * from switches;
@@ -325,7 +325,7 @@ mac                ip          vlan        interface        switch
 ```
 
 Но, с большей осторожностью надо относиться к установке действия ```ON DELETE CASCADE```, так как при удалении строки из таблицы switches, будут удалены и соответствующие строки в таблице dhcp:
-```
+```sql
 sqlite> DELETE from switches where hostname = 'cisco-sw1';
 
 sqlite> select * from switches;

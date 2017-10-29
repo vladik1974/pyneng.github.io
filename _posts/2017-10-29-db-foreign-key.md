@@ -198,8 +198,8 @@ mac                ip          vlan        interface        switch
 Но достаточно легко найти такие строки:
 ```sql
 sqlite> select * from dhcp where switch not in (select hostname from switches);
-mac             ip          vlan        interface         switch
---------------  ----------  ----------  ----------------  ----------
+mac                ip          vlan        interface         switch
+-----------------  ----------  ----------  ----------------  ----------
 00:A9:0C:4F:55:50  10.1.3.1    10          FastEthernet0/1  sw4
 ```
 

@@ -22,7 +22,7 @@ excerpt: "PyNEng book"
  <tr>
     <td align="center">-</td>
     <td align="center">02.09.17</td>
-    <td>Предварительная встреча: <a href="https://natenka.gitbooks.io/pyneng/content/book/01_intro/git-github/">Git/GitHub</a></td>
+    <td>Предварительная встреча: <a href="https://natenka.gitbooks.io/pyneng/content/book/02_git_github/">Git/GitHub</a></td>
  </tr>
  <tr>
     <td rowspan="2" align="center">1</td>

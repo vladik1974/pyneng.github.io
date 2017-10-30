@@ -77,49 +77,47 @@ excerpt: "PyNEng book"
  <tr>
     <td align="center">4</td>
     <td align="center">30.09.17 (6)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/09_regex/">Регулярные выражения (4ч)</a></td>
+    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/Part_III.html">Регулярные выражения (4ч)</a></td>
  </tr>
  <tr>
     <td align="center">5</td>
     <td align="center">07.10.17 (7)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/unicode/">Unicode (2ч)</a></td>
+    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/16_unicode/">Unicode (2ч)</a></td>
  </tr>
  <tr>
     <td align="center">6</td>
     <td align="center">14.10.17 (8)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/10_serialization/">Обработка данных в форматах YAML, JSON, CSV (3ч)</a></td>
+    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/17_serialization/">Обработка данных в форматах YAML, JSON, CSV (3ч)</a></td>
  </tr>
  <tr>
     <td align="center">7</td>
     <td align="center">28.10.17 (9)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/11_db/">Работа с базами данных на примере SQL (SQLite) (4ч)</a></td>
+    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/18_db/">Работа с базами данных на примере SQL (SQLite) (4ч)</a></td>
  </tr>
  <tr>
     <td align="center">8</td>
     <td align="center">04.11.17 (10)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/12_ssh_telnet/">Подключение к сетевым устройствам (Telnet, SSH). Параллельное подключение к устройствам (4ч)</a></td>
+    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/19_ssh_telnet/">Подключение к сетевым устройствам (Telnet, SSH).</a> <a href="https://natenka.gitbooks.io/pyneng/content/book/20_concurrent_connections/">Параллельное подключение к устройствам (4ч)</a></td>
  </tr>
  <tr>
     <td rowspan="2" align="center">9</td>
     <td align="center">11.11.17 (11)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/13_jinja2/">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</a></td>
+    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/21_jinja2/">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</a></td>
  </tr>
  <tr>
     <td align="center">12.11.17 (12)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/14_textfsm/">Обработка неструктурированного вывода команд с помощью TextFSM (2ч)</a></td>
+    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/22_textfsm/">Обработка неструктурированного вывода команд с помощью TextFSM (2ч)</a></td>
  </tr>
  <tr>
     <td rowspan="2" align="center">10</td>
     <td align="center">18.11.17 (13)</td>
     <td>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/15_ansible/1_ansible_basics/">Основы Ansible</a>
-<br>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/15_ansible/2_playbook_basics/">Основы Playbook</a>
+<a href="https://natenka.gitbooks.io/pyneng/content/book/23_ansible_basics/">Основы Ansible</a>
 </td>
  </tr>
  <tr>
     <td align="center">19.11.17 (14)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/15_ansible/3_network_modules/">Ansible для сетевого оборудования (3ч)</a></td>
+    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/24_ansible_for_network/">Ansible для сетевого оборудования (3ч)</a></td>
  </tr> 
  <tr>
     <td align="center">11</td>

@@ -108,7 +108,7 @@ sidebar:
     <td align="center">8</td>
     <td align="center">04.11.17 (10)</td>
     <td align="center"><a href="https://pyneng.github.io/pyneng-3/day10/">Подключение к сетевым устройствам (Telnet, SSH). Параллельное подключение к устройствам (4ч)</a></td>
-    <td align="center">16 (12_ssh_telnet)</td>
+    <td align="center">14 (12_ssh_telnet)</td>
     <td align="center">12.1, 12.1a, 12.2, 12.2a, 12.2b</td>
     <td align="center">27.11.17</td>
  </tr>

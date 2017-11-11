@@ -115,7 +115,7 @@ sidebar:
  <tr>
     <td rowspan="2" align="center">9</td>
     <td align="center">11.11.17 (11)</td>
-    <td align="center">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-3/day11/">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</a></td>
     <td align="center">10 (13_jinja2)</td>
     <td align="center">13.1, 13.1a, 13.2, 13.3</td>
     <td align="center">04.12.17</td>

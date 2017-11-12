@@ -122,7 +122,7 @@ sidebar:
  </tr>
  <tr>
     <td align="center">12.11.17 (12)</td>
-    <td align="center">Обработка неструктурированного вывода команд с помощью TextFSM (2ч)</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-3/day12/">Обработка неструктурированного вывода команд с помощью TextFSM (2ч)</a></td>
     <td align="center">8 (14_textfsm)</td>
     <td align="center">14.1, 14.1a, 14.2, 14.3, 14.4</td>
     <td align="center">04.12.17</td>

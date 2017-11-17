@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Курс"
     url: /course/
-  - title: "Календарь"
-    url: /calendar/
+  - title: "Выпускники"
+    url: /alumni/
   - title: "Преподаватель"
     url: /about/
 docs:
@@ -13,14 +13,14 @@ docs:
     children:
       - title: "Программа курса"
         url: /course/
+      - title: Календарь
+        url: /calendar/
       - title: Задания
         url: /docs/tasks/
       - title: Как учиться
         url: /docs/learning/
       - title: "Репозиторий"
         url: /docs/pyneng-github/
-      - title: Календарь
-        url: /calendar/
       - title: Тесты
         url: /tests/
   - title: Инструменты

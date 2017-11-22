@@ -15,4 +15,5 @@ permalink: /alumni/
 
 ## PyNEng online 3. 26.08.17 - 25.11.17
 
+* [Евгений Овчинников](https://github.com/pyneng/pyneng-online-sep-oct-2017/raw/master/certificates/Evgeniy%20Ovchinnikov.png)
 

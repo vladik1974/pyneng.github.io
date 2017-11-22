@@ -13,6 +13,6 @@ permalink: /alumni/
 
 ## PyNEng online 3. 26.08.17 - 25.11.17
 
-* [Евгений Овчинников](https://github.com/pyneng/pyneng-online-sep-oct-2017/raw/master/certificates/Evgeniy%20Ovchinnikov.png)
-* [Кирилл Русин](https://github.com/pyneng/pyneng-online-sep-oct-2017/raw/master/certificates/Kirill%20Rusin.png)
+* [Евгений Овчинников](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/Evgeniy%20Ovchinnikov.png)
+* [Кирилл Русин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/Kirill%20Rusin.png)
 

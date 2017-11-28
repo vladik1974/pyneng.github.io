@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Home"
-    url: /
   - title: "Курс"
     url: /course/
   - title: "Выпускники"
     url: /alumni/
+  - title: "Отзывы"
+    url: /testimonials/
   - title: "Преподаватель"
     url: /about/
 docs:

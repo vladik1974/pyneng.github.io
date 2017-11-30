@@ -17,3 +17,5 @@ permalink: /alumni/
 * [Кирилл Русин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Kirill%20Rusin.png)
 * [Станислав Гончаренко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Stanislav%20Goncharenko.png)
 * [Евгений Киселёв](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Evgeny%20Kiselev.png)
+* [Кирилл Федчик](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Kirill%20Fedchik.png)
+

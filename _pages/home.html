@@ -4,12 +4,13 @@ permalink: /
 ---
 
 {% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% capture month %}{{ post.date | date: '%m' }}{% endcapture %}
   {% capture day %}{{ post.date | date: '%d' }}{% endcapture %}
-  {% if month == '08' and day >= '13'%}
+  {% if year == '2017' and month == '12' %}
   {% include archive-single.html %}
   {% endif %}
-  {% if month > '08' %}
+  {% if year == '2018' %}
   {% include archive-single.html %}
   {% endif %}
 {% endfor %}

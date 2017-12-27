@@ -6,7 +6,7 @@ sidebar:
 ---
 
 
-* [Архив постов](https://pyneng.github.io/pyneng-archive/)
+* [Архив постов](https://pyneng.github.io/categories/#pyneng-3)
 
 Тесты:
 
@@ -19,6 +19,8 @@ sidebar:
 * [Регулярные выражения. Часть 1](https://goo.gl/forms/5UpkJbm1dORqs4bP2)
 * [Регулярные выражения. Часть 2](https://goo.gl/forms/ltuOAO62yLlZkEmm1)
 * [Базы данных](https://goo.gl/forms/wtGgmWg0vow1Cyqo1)
+
+<br>
 
 <table border="1" cellpadding="4" cellspacing="0">
  <tr>

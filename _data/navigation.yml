@@ -47,5 +47,7 @@ docs:
     children:
       - title: PyNEng Online 2
         url: /pyneng-online-2/
+      - title: PyNEng Online 3
+        url: /pyneng-online-3/
 
 

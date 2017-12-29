@@ -4,7 +4,14 @@ permalink: /docs/python-3-6/
 excerpt: "Python 3.6"
 ---
 
-### Install Python 3.6
+### Пример установки Python 3.6 на Debian
+
+Если установка выполняется на чистой ОС, лучше установить эти пакеты:
+```
+sudo apt-get install gcc make zlib1g-dev build-essential
+sudo apt-get install libbz2-dev libreadline-dev wget curl llvm
+sudo apt-get install libncurses5-dev libncursesw5-dev xz-utils tk-dev
+```
 
 Установка Python 3.6
 ```
@@ -18,4 +25,3 @@ sudo make altinstall
 ```
 
 После этого можно [создавать виртуальное окружение](https://pyneng.github.io/docs/venv/)
-

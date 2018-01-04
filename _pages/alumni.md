@@ -23,4 +23,5 @@ permalink: /alumni/
 * [Александр Романов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Alexandr%20Romanov.png)
 * [Михаил Бахметьев](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Mikhail%20Bakhmetiev.png)
 * [Евгений Торин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Evgeniy%20Torin.png)
+* [Сергей Забабурин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Sergey%20Zababurin.png)
 

@@ -24,5 +24,7 @@ permalink: /pyneng-bonus/
 
 ## Календарь лекций
 
+Календарь в формате [ical](https://calendar.google.com/calendar/ical/lqpcstv2r0u5j6dsht1k1vspjc%40group.calendar.google.com/public/basic.ics)
+
 <iframe src="https://calendar.google.com/calendar/embed?src=lqpcstv2r0u5j6dsht1k1vspjc%40group.calendar.google.com&ctz=UTC" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 

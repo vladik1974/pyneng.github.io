@@ -15,7 +15,7 @@ permalink: /docs/venv/
 
 Установка virtualenvwrapper с помощью pip:
 ```
-sudo pip install virtualenvwrapper
+python3.6 -m pip install virtualenvwrapper
 ```
 
 После установки, в .bashrc нужно добавить несколько строк

@@ -19,4 +19,6 @@ permalink: /bonus/01_oop_basics/
 
 * Раздел "Объектно-ориентированное программирование" в книге "A Byte of Python": [русская версия](https://wombat.org.ua/AByteOfPython/object_oriented_programming.html), [английская версия](https://python.swaroopch.com/oop.html)
 * [Отличный туториал по ООП (англ)](https://www.python-course.eu/python3_object_oriented_programming.php)
-
+* Special Method Names:
+  * [Dive Into Python 3](http://www.diveintopython3.net/special-method-names.html)
+  * [Python docs](https://docs.python.org/3.6/reference/datamodel.html#specialnames)

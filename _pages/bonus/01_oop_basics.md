@@ -3,8 +3,12 @@ title: "Основы ООП"
 permalink: /bonus/01_oop_basics/
 ---
 
-## Задания
+### Задания
 
+Задания находятся в [репозитории](https://github.com/pyneng/pyneng-online-bonus/tree/master/exercises/01_oop_basics).
+
+* Задания 1.x про класс Topology. Тут достаточно знаний по основам Python
+* Задания 2.x и 3.x про класс CiscoSSH. Тут уже надо знать как работать с netmiko, а в задании 2.1b нужен TextFSM
 
 ### Презентация
 
@@ -13,6 +17,6 @@ permalink: /bonus/01_oop_basics/
 
 ### Дополнительные ресурсы
 
-* Раздел "Объектно-ориентированное программирование" в книге "A Byte of Python" [русская версия](https://wombat.org.ua/AByteOfPython/object_oriented_programming.html), [английская версия](https://python.swaroopch.com/oop.html)
+* Раздел "Объектно-ориентированное программирование" в книге "A Byte of Python": [русская версия](https://wombat.org.ua/AByteOfPython/object_oriented_programming.html), [английская версия](https://python.swaroopch.com/oop.html)
 * [Отличный туториал по ООП (англ)](https://www.python-course.eu/python3_object_oriented_programming.php)
 

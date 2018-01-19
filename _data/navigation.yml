@@ -15,12 +15,12 @@ docs:
         url: /course/
       - title: Календарь
         url: /calendar/
+      - title: "Репозиторий"
+        url: /docs/pyneng-github/
       - title: Задания
         url: /docs/tasks/
       - title: Как учиться
         url: /docs/learning/
-      - title: "Репозиторий"
-        url: /docs/pyneng-github/
       - title: Тесты
         url: /tests/
   - title: Инструменты

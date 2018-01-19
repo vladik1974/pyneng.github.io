@@ -58,13 +58,6 @@ excerpt: "Cloud 9"
 mkvirtualenv --python=/usr/local/bin/python3.6 py3
 ```
 
-> Можно удалить виртуальное окружение pyneng-py3: ```rmvirtualenv pyneng-py3```. А затем создать его заново как в команде выше, но заменить имя py3 на pyneng-py3.
-
-Также вы можете легко установить все необходимые пакеты, воспользовавшись файлом [requirements.txt](https://github.com/natenka/pyneng-examples-exercises/blob/python3/requirements.txt):
-```
-pip install -r requirements.txt
-```
-
 
 ## Настройка workspace
 
@@ -132,8 +125,8 @@ Hi natenka! You've successfully authenticated, but GitHub does not provide shell
 Для копирования своего репозитория с GitHub, выполните команду git clone:
 
 ```
-natenka:~/workspace $ git clone ssh://git@github.com/pyneng/online-2-natasha-samoylenko.git
-Cloning into 'online-2-natasha-samoylenko'...
+natenka:~/workspace $ git clone ssh://git@github.com/pyneng/online-4-natasha-samoylenko.git
+Cloning into 'online-4-natasha-samoylenko'...
 Warning: Permanently added 'github.com,192.30.253.112' (RSA) to the list of known hosts.
 remote: Counting objects: 279, done.
 remote: Compressing objects: 100% (208/208), done.
@@ -143,7 +136,7 @@ Resolving deltas: 100% (74/74), done.
 ```
 
 
-В этой команде вам нужно сменить имя репозитория "online-2-natasha-samoylenko" на свой репозиторий.
+В этой команде вам нужно сменить имя репозитория "online-4-natasha-samoylenko" на свой репозиторий.
 
 В итоге, в текущем каталоге, в котором вы выполнили команду git clone, появится каталог с именем репозитория.
 А слева, в дереве файлов появится каталог с аналогичным именем.

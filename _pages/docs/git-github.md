@@ -10,8 +10,8 @@ permalink: /docs/git-github/
 Для работы с ним локально, его нужно скопировать.
 Для этого используется команда git clone:
 ```
-$ git clone ssh://git@github.com/pyneng/online-2-natasha-samoylenko.git
-Cloning into 'online-2-natasha-samoylenko'...
+$ git clone ssh://git@github.com/pyneng/online-4-natasha-samoylenko.git
+Cloning into 'online-4-natasha-samoylenko'...
 remote: Counting objects: 241, done.
 remote: Compressing objects: 100% (191/191), done.
 remote: Total 241 (delta 43), reused 239 (delta 41), pack-reused 0
@@ -20,10 +20,10 @@ Resolving deltas: 100% (43/43), done.
 Checking connectivity... done.
 ```
 
-В этой команде вам нужно сменить имя репозитория "online-2-natasha-samoylenko" на свой репозиторий.
+В этой команде вам нужно сменить имя репозитория "online-4-natasha-samoylenko" на свой репозиторий.
 
 В итоге, в текущем каталоге, в котором была выполнена команда git clone, появится каталог с именем равным имени репозитория.
-В моем случае - online-2-natasha-samoylenko.
+В моем случае - online-4-natasha-samoylenko.
 
 Если вы перейдете в этот каталог, то увидите в нем содержимое репозитория на GitHub.
 
@@ -53,7 +53,7 @@ Checking connectivity... done.
 
 ### Синхронизация из GitHub в локальный репозиторий
 
-> Все команды выполняются внутри каталога репозитория (в примере выше - online-2-natasha-samoylenko)
+> Все команды выполняются внутри каталога репозитория (в примере выше - online-4-natasha-samoylenko)
 
 Команда git pull:
 ```
@@ -73,7 +73,7 @@ remote: Counting objects: 5, done.
 remote: Compressing objects: 100% (1/1), done.
 remote: Total 5 (delta 4), reused 5 (delta 4), pack-reused 0
 Unpacking objects: 100% (5/5), done.
-From ssh://github.com/pyneng/online-2-natasha-samoylenko
+From ssh://github.com/pyneng/online-4-natasha-samoylenko
    89c04b6..fc4c721  master     -> origin/master
 Updating 89c04b6..fc4c721
 Fast-forward
@@ -113,7 +113,7 @@ Compressing objects: 100% (5/5), done.
 Writing objects: 100% (5/5), 426 bytes | 0 bytes/s, done.
 Total 5 (delta 4), reused 0 (delta 0)
 remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
-To ssh://git@github.com/pyneng/online-2-natasha-samoylenko.git
+To ssh://git@github.com/pyneng/online-4-natasha-samoylenko.git
    fc4c721..edcf417  master -> master
 ```
 

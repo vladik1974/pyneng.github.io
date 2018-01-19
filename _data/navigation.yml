@@ -51,7 +51,3 @@ docs:
         url: /pyneng-online-2/
       - title: PyNEng Online 3
         url: /pyneng-online-3/
-  - title: О курсе
-    children:
-      - title: Записаться на курс
-      - url: https://natenka.github.io/pyneng-online/

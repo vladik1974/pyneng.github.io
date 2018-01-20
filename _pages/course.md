@@ -57,7 +57,7 @@ sidebar:
     <td align="center">Управление ходом программы. Работа с файлами (4ч) </td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">19.02.18</td>
+    <td align="center">26.02.18</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">5</td>

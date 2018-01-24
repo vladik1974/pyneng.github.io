@@ -59,6 +59,19 @@ excerpt: "Cloud 9"
 mkvirtualenv --python=/usr/local/bin/python3.6 py3
 ```
 
+### Виртуальное окружение
+
+Все модули, которые нужны в курсе, установлены в  [виртуальном окружении](https://natenka.gitbooks.io/pyneng/content/v/python3.6/book/01_intro/virtualenv.html) pyneng-py3.
+
+Перейти в виртуальное окружение:
+```
+workon py3
+```
+
+Выйти из виртуального окружения:
+```
+deactivate
+```
 
 ## Настройка workspace
 

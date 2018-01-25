@@ -26,5 +26,5 @@ permalink: /alumni/
 * [Евгений Торин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Evgeniy%20Torin.png)
 * [Сергей Забабурин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Sergey%20Zababurin.png)
 * [Максим Хайнацкий](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Maksim%20Khainatskiy.png)
-
+* [Максим Малюков](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Maxim%20Malyukov.png)
 

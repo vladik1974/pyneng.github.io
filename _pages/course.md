@@ -31,7 +31,7 @@ sidebar:
  <tr>
     <td align="center">2</td>
     <td align="center">20.01.18</td>
-    <td align="center">Предварительная встреча: Инструменты (3ч) </td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/tools/">Предварительная встреча: Инструменты (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -39,9 +39,9 @@ sidebar:
  <tr>
     <td rowspan="2" align="center">3</td>
     <td align="center">27.01.18 (1)</td>
-    <td align="center">Основы. Типы данных в Python (4ч) </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day1/">Основы. Типы данных в Python (4ч)</a></td>
+    <td align="center">4.1, 4.2</td>
+    <td align="center">4.1, 4.2</td>
     <td align="center">19.02.18</td>
  </tr>
  <tr>

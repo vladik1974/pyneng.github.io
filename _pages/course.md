@@ -47,8 +47,8 @@ sidebar:
  <tr>
     <td align="center">28.01.18 (2)</td>
     <td align="center">Типы данных в Python (4ч) </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">19 (04_data_structures, 05_basic_scripts)</td>
+    <td align="center">4.3, 4.6, 5.1, 5.1a, 5.2, 5.2a</td>
     <td align="center">19.02.18</td>
  </tr>
  <tr>

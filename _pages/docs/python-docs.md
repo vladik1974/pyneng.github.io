@@ -11,6 +11,7 @@ excerpt: "Дополнительные ресурсы по Python"
 
 * [Официальная документация Python 3.6](https://docs.python.org/3/index.html)
 * [The Python Standard Library](https://docs.python.org/3/library/index.html) - раздел официальной документации, в котором описываются встроенные типы данных, функции/операторы; примеры их использования, синтаксис и т.д.
+* Руководство по стилю: [PEP 8 — the Style Guide for Python Code](http://pep8.org/)
 
 
 ## Документация модулей, которые используются в курсе

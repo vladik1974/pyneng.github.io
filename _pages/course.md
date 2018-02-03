@@ -54,7 +54,7 @@ sidebar:
  <tr>
     <td align="center">4</td>
     <td align="center">03.02.18 (3)</td>
-    <td align="center">Управление ходом программы. Работа с файлами (4ч) </td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day3/">Управление ходом программы. Работа с файлами (4ч) </a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center">26.02.18</td>

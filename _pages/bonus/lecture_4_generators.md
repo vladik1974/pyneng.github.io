@@ -5,6 +5,10 @@ permalink: /bonus/lecture_4_generators/
 
 [Моя заметка по генераторам](https://natenka.github.io/python/fluent-python-generator/).
 
+### Задания
+
+* [Задания по генераторам](https://github.com/pyneng/pyneng-online-bonus/tree/master/exercises/04_generators)
+
 ### Презентация
 
 * [Презентация](https://gitpitch.com/natenka/pyneng-slides/bonus-generators)

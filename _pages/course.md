@@ -62,14 +62,14 @@ sidebar:
  <tr>
     <td rowspan="2" align="center">5</td>
     <td align="center">10.02.18 (4)</td>
-    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day4/">Функции и модули(4ч)</a><</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day4/">Функции и модули(4ч)</a></td>
     <td align="center">12 (09_functions, 11_modules)</td>
     <td align="center">9.1, 9.1a, 9.2, 9.2a, 9.3, 11.1, 11.2, 11.2a</td>
     <td align="center">05.03.18</td>
  </tr>
  <tr>
     <td align="center">11.02.18 (5)</td>
-    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day5/">Полезные функции и модули (3ч)</a><</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day5/">Полезные функции и модули (3ч)</a></td>
     <td align="center">3 (12_useful_modules)</td>
     <td align="center">12.1</td>
     <td align="center">05.03.18</td>

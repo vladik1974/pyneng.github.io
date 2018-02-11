@@ -15,7 +15,7 @@ permalink: /pyneng-bonus/
 | 21.01.18 |7:00-9:00 UTC   | [ООП. Наследование](https://pyneng.github.io/bonus/oop_lecture_2/) |
 | 28.01.18 |12:00-14:00 UTC | [ООП. Часть 3](https://pyneng.github.io/bonus/oop_lecture_3/) |
 | 04.02.18 |7:00-9:00 UTC   | [List, dict, set comprehensions. Генераторы](https://pyneng.github.io/bonus/lecture_4_generators/) |
-| 11.02.18 |12:00-13:30 UTC | Python package |
+| 11.02.18 |12:00-13:30 UTC | [Python package](https://pyneng.github.io/bonus/lecture_5_package/) |
 | 18.02.18 |12:00-13:30 UTC | Модуль logging |
 | 25.02.18 |7:00-9:30 UTC  | Декораторы |
 

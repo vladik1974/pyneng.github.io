@@ -84,9 +84,9 @@ sidebar:
  </tr>
  <tr>
     <td align="center">18.02.18 (5)</td>
-    <td align="center">Регулярные выражения в Python(3ч)</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day7/">Регулярные выражения в Python(3ч)</a></td>
+    <td align="center">10 (15_module_re)</td>
+    <td align="center">15.1, 15.2, 15.3, 15.4</td>
     <td align="center">12.03.18</td>
  </tr>
  <tr>

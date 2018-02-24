@@ -78,12 +78,12 @@ sidebar:
     <td rowspan="2" align="center">6</td>
     <td align="center">17.02.18 (6)</td>
     <td align="center"><a href="https://pyneng.github.io/pyneng-4/day6/">Синтаксис регулярных выражений (2ч)</a></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">12.03.18</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
  </tr>
  <tr>
-    <td align="center">18.02.18 (5)</td>
+    <td align="center">18.02.18 (7)</td>
     <td align="center"><a href="https://pyneng.github.io/pyneng-4/day7/">Регулярные выражения в Python(3ч)</a></td>
     <td align="center">10 (15_module_re)</td>
     <td align="center">15.1, 15.2, 15.3, 15.4</td>
@@ -91,8 +91,8 @@ sidebar:
  </tr>
  <tr>
     <td align="center">7</td>
-    <td align="center">24.02.18 (7)</td>
-    <td align="center">Unicode (2ч) </td>
+    <td align="center">24.02.18 (8)</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day8/">Unicode (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>

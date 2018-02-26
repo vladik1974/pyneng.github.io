@@ -1,6 +1,6 @@
 ---
 title: "Лекция 7. Декораторы"
-permalink: /bonus/lecture_7_decorator_basics.md/
+permalink: /bonus/lecture_7_decorator_basics/
 ---
 
 ### Примеры

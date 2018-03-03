@@ -100,9 +100,9 @@ sidebar:
  <tr>
     <td align="center">8</td>
     <td align="center">03.03.18 (8)</td>
-    <td align="center">Обработка данных в форматах YAML, JSON, CSV (3ч) </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day9/">Обработка данных в форматах YAML, JSON, CSV (3ч)</a></td>
+    <td align="center">5 (17_serialization)</td>
+    <td align="center">17.1, 17.2, 17.2a</td>
     <td align="center">26.03.18</td>
  </tr>
  <tr>

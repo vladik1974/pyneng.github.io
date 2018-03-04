@@ -17,12 +17,11 @@ permalink: /pyneng-bonus/
 | 04.02.18 |7:00-9:00 UTC   | [List, dict, set comprehensions. Генераторы](https://pyneng.github.io/bonus/lecture_4_generators/) |
 | 11.02.18 |12:00-13:30 UTC | [Python package](https://pyneng.github.io/bonus/lecture_5_package/) |
 | 18.02.18 |12:00-13:30 UTC | [Модуль logging](https://pyneng.github.io/bonus/lecture_6_logging/) |
-| 25.02.18 | 7:00-9:30 UTC  | [Декораторы. Часть 1: Closure, базовые декораторы](/bonus/lecture_7_decorator_basics.md/) |
-| 04.03.18 | 7:00-9:30 UTC  | Декораторы. Часть 2: Декораторы с аргументами, стекирование декораторов |
+| 25.02.18 | 7:00-9:30 UTC  | [Декораторы. Часть 1: Closure, базовые декораторы](/bonus/lecture_7_decorator_basics/) |
+| 04.03.18 | 7:00-9:30 UTC  | [Декораторы. Часть 2: Декораторы с аргументами, стекирование декораторов](https://pyneng.github.io/bonus/lecture_8_decorators/) |
+| 18.03.18 | 12:00-14:00 UTC| Flask. Часть 1 |
 
 
-
-> Дальше тоже что-то будет, но я буду смотреть по своей загрузке и по тому, что буду успевать придумать. Как только придумаю следующие темы, напишу.
 
 Обсуждение лекций и вопросы по ходу будут в pyneng-bonus.
 

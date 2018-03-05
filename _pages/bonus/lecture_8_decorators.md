@@ -3,7 +3,9 @@ title: "Лекция 8. Декораторы"
 permalink: /bonus/lecture_8_decorators/
 ---
 
-[Задания по декораторам](https://github.com/pyneng/pyneng-online-bonus/tree/master/exercises/08_decorators)
+### Задания
+
+* [Задания по декораторам](https://github.com/pyneng/pyneng-online-bonus/tree/master/exercises/08_decorators)
 
 ### Примеры
 

@@ -3,7 +3,9 @@ title: "Лекция 7. Декораторы"
 permalink: /bonus/lecture_7_decorator_basics/
 ---
 
-[Задания по декораторам и closure](https://github.com/pyneng/pyneng-online-bonus/tree/master/exercises/07_decorator_basics)
+### Задания
+
+* [Задания по декораторам и closure](https://github.com/pyneng/pyneng-online-bonus/tree/master/exercises/07_decorator_basics)
 
 ### Примеры
 

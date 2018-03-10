@@ -108,9 +108,9 @@ sidebar:
  <tr>
     <td align="center">9</td>
     <td align="center">10.03.18 (9)</td>
-    <td align="center">Работа с базами данных на примере SQL (SQLite) (4ч) </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day10/">Работа с базами данных на примере SQL (SQLite) (4ч)</a></td>
+    <td align="center">9 (18_db)</td>
+    <td align="center">18.1, 18.1a, 18.2, 18.2a</td>
     <td align="center">02.04.18</td>
  </tr>
  <tr>

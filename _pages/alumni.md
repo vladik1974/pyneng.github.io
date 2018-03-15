@@ -29,4 +29,5 @@ permalink: /alumni/
 * [Максим Малюков](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Maxim%20Malyukov.png)
 * [Василий Кобозев](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Vasily%20Kobozev.png)
 * [Денис Карпушин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Denis%20Karpushin.png)
+* [Ян Коробов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Ian%20Korobov.png)
 

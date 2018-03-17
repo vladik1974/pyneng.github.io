@@ -116,9 +116,9 @@ sidebar:
  <tr>
     <td rowspan="2" align="center">10</td>
     <td align="center">17.03.18 (10)</td>
-    <td align="center">Подключение к сетевым устройствам (Telnet, SSH) (2ч) </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day11">Подключение к сетевым устройствам (Telnet, SSH) (2ч)</a></td>
+    <td align="center">12(19_ssh_telnet)</td>
+    <td align="center">19.1, 19.1a, 19.2, 19.2a, 19.2b</td>
     <td align="center">09.04.18</td>
  </tr>
  <tr>

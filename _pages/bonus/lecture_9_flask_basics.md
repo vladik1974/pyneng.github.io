@@ -11,7 +11,7 @@ permalink: /bonus/lecture_9_flask_basics/
 
 ### Ссылки
 
-Ссылки на части Mega Tutorial по Flask (на русском), которые соответствуют лекциям:
+Ссылки на части Mega Tutorial по Flask (на русском), которые соответствуют лекции:
 
 * [Маршруты (Routes)](https://habrahabr.ru/post/346306/)
 * [Шаблоны](https://habrahabr.ru/post/346340/)

@@ -19,7 +19,8 @@ permalink: /pyneng-bonus/
 | 18.02.18 |12:00-13:30 UTC | [Модуль logging](https://pyneng.github.io/bonus/lecture_6_logging/) |
 | 25.02.18 | 7:00-9:30 UTC  | [Декораторы. Часть 1: Closure, базовые декораторы](/bonus/lecture_7_decorator_basics/) |
 | 04.03.18 | 7:00-9:30 UTC  | [Декораторы. Часть 2: Декораторы с аргументами, стекирование декораторов](https://pyneng.github.io/bonus/lecture_8_decorators/) |
-| 18.03.18 | 12:00-14:00 UTC| Flask. Часть 1 |
+| 18.03.18 | 12:00-14:00 UTC| [Flask. Часть 1](https://pyneng.github.io/bonus/lecture_9_flask_basics/) |
+| 25.03.18 | 12:00-14:00 UTC| Flask. Часть 2 |
 
 
 

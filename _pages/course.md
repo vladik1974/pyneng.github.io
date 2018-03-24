@@ -99,7 +99,7 @@ sidebar:
  </tr>
  <tr>
     <td align="center">8</td>
-    <td align="center">03.03.18 (8)</td>
+    <td align="center">03.03.18 (9)</td>
     <td align="center"><a href="https://pyneng.github.io/pyneng-4/day9/">Обработка данных в форматах YAML, JSON, CSV (3ч)</a></td>
     <td align="center">5 (17_serialization)</td>
     <td align="center">17.1, 17.2, 17.2a</td>
@@ -107,7 +107,7 @@ sidebar:
  </tr>
  <tr>
     <td align="center">9</td>
-    <td align="center">10.03.18 (9)</td>
+    <td align="center">10.03.18 (10)</td>
     <td align="center"><a href="https://pyneng.github.io/pyneng-4/day10/">Работа с базами данных на примере SQL (SQLite) (4ч)</a></td>
     <td align="center">9 (18_db)</td>
     <td align="center">18.1, 18.1a, 18.2, 18.2a</td>
@@ -115,29 +115,29 @@ sidebar:
  </tr>
  <tr>
     <td rowspan="2" align="center">10</td>
-    <td align="center">17.03.18 (10)</td>
+    <td align="center">17.03.18 (11)</td>
     <td align="center"><a href="https://pyneng.github.io/pyneng-4/day11">Подключение к сетевым устройствам (Telnet, SSH) (2ч)</a></td>
     <td align="center">12(19_ssh_telnet)</td>
     <td align="center">19.1, 19.1a, 19.2, 19.2a, 19.2b, 19.3</td>
     <td align="center">09.04.18</td>
  </tr>
  <tr>
-    <td align="center">18.03.18 (11)</td>
-    <td align="center">Параллельное подключение к оборудованию (2ч)</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">18.03.18 (12)</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day12">Параллельное подключение к оборудованию (2ч)</a></td>
+    <td align="center">4 (20_concurrent_connections)</td>
+    <td align="center">20.2, 20.2a</td>
     <td align="center">09.04.18</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">11</td>
-    <td align="center">24.03.18 (11)</td>
-    <td align="center">Создание шаблонов конфигураций с помощью Jinja2 (2ч) </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">24.03.18 (13)</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day13">Создание шаблонов конфигураций с помощью Jinja2 (2ч) </a></td>
+    <td align="center">9 (21_jinja2)</td>
+    <td align="center">21.1, 21.1a, 21.2, 21.3</td>
     <td align="center">16.04.18</td>
  </tr>
  <tr>
-    <td align="center">25.03.18 (12)</td>
+    <td align="center">25.03.18 (14)</td>
     <td align="center">Обработка неструктурированного вывода команд с помощью TextFSM (2ч) </td>
     <td align="center"></td>
     <td align="center"></td>
@@ -145,14 +145,14 @@ sidebar:
  </tr>
  <tr>
     <td rowspan="2" align="center">12</td>
-    <td align="center">31.03.18 (13)</td>
+    <td align="center">31.03.18 (15)</td>
     <td align="center">Основы Ansible (3ч) </td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>
  <tr>
-    <td align="center">01.04.18 (14)</td>
+    <td align="center">01.04.18 (16)</td>
     <td align="center">Ansible для сетевого оборудования (3ч) </td>
     <td align="center"></td>
     <td align="center"></td>

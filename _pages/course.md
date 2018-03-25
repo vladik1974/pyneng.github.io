@@ -116,14 +116,14 @@ sidebar:
  <tr>
     <td rowspan="2" align="center">10</td>
     <td align="center">17.03.18 (11)</td>
-    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day11">Подключение к сетевым устройствам (Telnet, SSH) (2ч)</a></td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day11">Подключение к сетевым устройствам (Telnet, SSH) (4ч)</a></td>
     <td align="center">12(19_ssh_telnet)</td>
     <td align="center">19.1, 19.1a, 19.2, 19.2a, 19.2b, 19.3</td>
     <td align="center">09.04.18</td>
  </tr>
  <tr>
     <td align="center">18.03.18 (12)</td>
-    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day12">Параллельное подключение к оборудованию (2ч)</a></td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day12">Параллельное подключение к оборудованию (3ч)</a></td>
     <td align="center">4 (20_concurrent_connections)</td>
     <td align="center">20.2, 20.2a</td>
     <td align="center">09.04.18</td>
@@ -131,14 +131,14 @@ sidebar:
  <tr>
     <td rowspan="2" align="center">11</td>
     <td align="center">24.03.18 (13)</td>
-    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day13">Создание шаблонов конфигураций с помощью Jinja2 (2ч) </a></td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day13">Создание шаблонов конфигураций с помощью Jinja2 (3ч) </a></td>
     <td align="center">9 (21_jinja2)</td>
     <td align="center">21.1, 21.1a, 21.2, 21.3</td>
     <td align="center">16.04.18</td>
  </tr>
  <tr>
     <td align="center">25.03.18 (14)</td>
-    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day14">Обработка неструктурированного вывода команд с помощью TextFSM (2ч)</a></td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/day14">Обработка неструктурированного вывода команд с помощью TextFSM (3ч)</a></td>
     <td align="center">8 (22_textfsm)</td>
     <td align="center">22.1, 22.1a, 22.2, 22.3, 22.4</td>
     <td align="center">16.04.18</td>

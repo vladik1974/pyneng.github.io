@@ -34,4 +34,5 @@ permalink: /alumni/
 ## PyNEng online 4. 13.01.18 - 07.04.18
 
 * [Михаил Сытьков](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Mikhail%20Sytkov.png)
+*  [Дмитрий Шмидт](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Dmitriy%20Shmidt.png)
 

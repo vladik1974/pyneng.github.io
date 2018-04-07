@@ -161,7 +161,7 @@ sidebar:
  <tr>
     <td align="center">13</td>
     <td align="center">07.04.18</td>
-    <td align="center">Завершающая лекция (2ч) </td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-4/the-end">Завершающая лекция (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>

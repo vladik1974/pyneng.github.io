@@ -40,3 +40,5 @@ permalink: /alumni/
 * [Алексей Сидоров](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Alexey%20Sidorov.png)
 * [Владимир Линд](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Vladimir%20Lind.png)
 * [Александр Патоцкий](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Aliksandr%20Patotski.png)
+* [Андрей Ельник](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Andy%20Yelnik.png)
+

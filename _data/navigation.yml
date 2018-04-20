@@ -45,6 +45,8 @@ docs:
         url: /docs/python-docs/
       - title: Продленка PyNEng
         url: /pyneng-bonus/
+      - title: Продленка 2 PyNEng
+        url: /pyneng-bonus-2/
   - title: Архив
     children:
       - title: PyNEng Online 2

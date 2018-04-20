@@ -1,0 +1,28 @@
+---
+title: "Продленка 2 PyNEng"
+permalink: /pyneng-bonus-2/
+---
+
+"Продленка" - это дополнительные небольшие лекции, которые проводятся после завершения курса.
+
+На данный момент запланированы такие лекции:
+
+| Дата     |     Время      | Тема |
+|:--------:|:--------------:|------|
+| 12.05.18 | 7:00-10:00 UTC | ООП. Основы |
+| 19.05.18 | 7:00-9:00 UTC  | ООП. Специальные методы |
+| 26.05.18 | 7:00-10:00 UTC | ООП. Наследование |
+| 02.06.18 | 7:00-10:00 UTC | Генераторы |
+| 09.06.18 | 7:00-8:30 UTC  | Python package |
+| 17.06.18 | 7:00-9:30 UTC  | Модуль logging |
+
+
+Обсуждение лекций и вопросы по ходу будут в канале pyneng-bonus-2.
+
+## Календарь лекций
+
+Календарь в формате [ical](https://calendar.google.com/calendar/ical/1q8d5p1q0hpbmeij0aapvnmud4%40group.calendar.google.com/public/basic.ics)
+
+
+<iframe src="https://calendar.google.com/calendar/embed?src=1q8d5p1q0hpbmeij0aapvnmud4%40group.calendar.google.com&ctz=UTC" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+

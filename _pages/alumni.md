@@ -43,4 +43,5 @@ permalink: /alumni/
 * [Андрей Ельник](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Andy%20Yelnik.png)
 * [Сергей Цверов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Sergey%20Tsverov.png)
 * [Александр Возный](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Alexander%20Vozny.png)
+* [Владимир Возный](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Vladimir%20Plastov)
 

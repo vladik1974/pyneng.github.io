@@ -46,4 +46,5 @@ permalink: /alumni/
 * [Владимир Пластов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Vladimir%20Plastov.png)
 * [Андрей Гиль](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Andrew%20Gill.png)
 * [Андрей Невоструев](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Andrei%20Nevostruev.png)
+* [Азамат Хакимьянов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Azamat%20Khakimyanov.png)
 

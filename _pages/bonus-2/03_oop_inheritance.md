@@ -5,7 +5,7 @@ permalink: /bonus-2/03_oop_inheritance/
 
 ### Задания
 
-Задания находятся в [репозитории](https://github.com/pyneng/pyneng-online-bonus/tree/master/exercises/03_oop_inheritance).
+Задания находятся в [репозитории](https://github.com/pyneng/pyneng-online-bonus-2/tree/master/exercises/03_oop_inheritance).
 
 
 ### Презентация

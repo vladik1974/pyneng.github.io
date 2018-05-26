@@ -11,10 +11,11 @@ permalink: /pyneng-bonus-2/
 |:--------:|:--------------:|------|
 | 12.05.18 | 7:00-10:00 UTC | [ООП. Основы](https://pyneng.github.io/bonus-2/01_oop_basics/) |
 | 19.05.18 | 7:00-9:00 UTC  | [ООП. Специальные методы](https://pyneng.github.io/bonus-2/02_oop_spec_methods) |
-| 26.05.18 | 7:00-10:00 UTC | ООП. Наследование |
-| 02.06.18 | 7:00-10:00 UTC | Генераторы |
-| 09.06.18 | 7:00-8:30 UTC  | Python package |
-| 17.06.18 | 7:00-9:30 UTC  | Модуль logging |
+| 26.05.18 | 7:00-10:00 UTC | [ООП. Наследование](https://pyneng.github.io/bonus-2/03_oop_inheritance) |
+| 02.06.18 | 7:00-9:00 UTC | ООП. Named tuple, staticmethod, classmethod, property |
+| 09.06.18 | 7:00-10:00 UTC  | Генераторы |
+| 17.06.18 | 7:00-8:30 UTC  | Python package |
+| 24.06.18 | 7:00-9:30 UTC  | Модуль logging |
 
 
 Обсуждение лекций и вопросы по ходу будут в канале pyneng-bonus-2.

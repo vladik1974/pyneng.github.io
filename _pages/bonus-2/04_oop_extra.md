@@ -1,6 +1,6 @@
 ---
 title: "ООП. Лекция 4"
-permalink: /bonus/04_oop_extra/
+permalink: /bonus-2/04_oop_extra/
 ---
 
 ### Примеры кода из лекции

@@ -154,8 +154,8 @@ sidebar:
  <tr>
     <td align="center">01.04.18 (16)</td>
     <td align="center"><a href="https://pyneng.github.io/pyneng-4/day16">Ansible для сетевого оборудования (3ч)</a></td>
-    <td align="center">12 (24_ansible_for_network)</td>
-    <td align="center">24.1, 24.1a, 24.1b, 24.1c, 24.2, 24.3</td>
+    <td align="center">12 (все 24_ansible_for_network, кроме 24.3)</td>
+    <td align="center">24.1, 24.1a, 24.1b, 24.1c, 24.2</td>
     <td align="center">23.04.18</td>
  </tr>
  <tr>

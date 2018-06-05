@@ -7,10 +7,7 @@ permalink: /
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% capture month %}{{ post.date | date: '%m' }}{% endcapture %}
   {% capture day %}{{ post.date | date: '%d' }}{% endcapture %}
-  {% if year == '2017' and month == '12' %}
-  {% include archive-single.html %}
-  {% endif %}
-  {% if year == '2018' %}
+  {% if year == '2018' and month >= '05' %}
   {% include archive-single.html %}
   {% endif %}
 {% endfor %}

@@ -29,8 +29,6 @@ docs:
         url: /docs/git-basics/
       - title: Работа с Git и GitHub
         url: /docs/git-github-course/
-      - title: "Cloud 9"
-        url: /docs/cloud/
       - title: Slack
         url: /docs/slack/
       - title: VM
@@ -53,3 +51,6 @@ docs:
         url: /pyneng-online-2/
       - title: PyNEng Online 3
         url: /pyneng-online-3/
+      - title: PyNEng Online 4
+        url: /pyneng-online-4/
+

@@ -1,6 +1,6 @@
 ---
 title: "Лекция 5. Генераторы"
-permalink: /bonus/05_generators/
+permalink: /bonus-2/05_generators/
 ---
 
 [Моя заметка по генераторам](https://natenka.github.io/python/fluent-python-generator/).

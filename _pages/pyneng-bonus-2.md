@@ -14,7 +14,7 @@ permalink: /pyneng-bonus-2/
 | 26.05.18 | 7:00-10:00 UTC | [ООП. Наследование](https://pyneng.github.io/bonus-2/03_oop_inheritance/) |
 | 02.06.18 | 7:00-9:00 UTC | [ООП. Named tuple, staticmethod, classmethod, property](https://pyneng.github.io/bonus-2/04_oop_extra/) |
 | 09.06.18 | 7:00-10:00 UTC  | [Генераторы](https://pyneng.github.io/bonus-2/05_generators/) |
-| 17.06.18 | 7:00-8:30 UTC  | Python package |
+| 17.06.18 | 7:00-8:30 UTC  | [Python package](https://pyneng.github.io/bonus-2/06_python_package/) |
 | 24.06.18 | 7:00-9:30 UTC  | Модуль logging |
 
 

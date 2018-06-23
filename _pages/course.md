@@ -23,14 +23,14 @@ sidebar:
     <td align="center">1</td>
     <td align="center">1</td>
     <td align="center">16.06.18</td>
-    <td>Предварительная встреча: О курсе (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/welcome/">Предварительная встреча: О курсе (2ч)</a></td>
     <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">2</td>
     <td align="center">2</td>
     <td align="center">23.06.18</td>
-    <td>Предварительная встреча: Инструменты (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/tools/">Предварительная встреча: Инструменты (3ч)</a></td>
     <td align="center">-</td>
  </tr>
  <tr>

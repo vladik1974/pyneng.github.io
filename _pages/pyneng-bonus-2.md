@@ -15,7 +15,7 @@ permalink: /pyneng-bonus-2/
 | 02.06.18 | 7:00-9:00 UTC | [ООП. Named tuple, staticmethod, classmethod, property](https://pyneng.github.io/bonus-2/04_oop_extra/) |
 | 09.06.18 | 7:00-10:00 UTC  | [Генераторы](https://pyneng.github.io/bonus-2/05_generators/) |
 | 17.06.18 | 7:00-8:30 UTC  | [Python package](https://pyneng.github.io/bonus-2/06_python_package/) |
-| 24.06.18 | 7:00-9:30 UTC  | Модуль logging |
+| 24.06.18 | 7:00-9:30 UTC  | [Модуль logging](https://pyneng.github.io/bonus-2/07_logging/) |
 
 
 Обсуждение лекций и вопросы по ходу будут в канале pyneng-bonus-2.

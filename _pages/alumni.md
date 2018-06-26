@@ -48,4 +48,5 @@ permalink: /alumni/
 * [Андрей Невоструев](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Andrei%20Nevostruev.png)
 * [Азамат Хакимьянов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Azamat%20Khakimyanov.png)
 * [Артём Григорьев](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Artem%20Grigoriev.png)
+* [Георгий Владимиров](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Georgij%20Vladimirov.png)
 

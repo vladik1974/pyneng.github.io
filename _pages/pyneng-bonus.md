@@ -22,6 +22,8 @@ permalink: /pyneng-bonus/
 | 18.03.18 | 12:00-14:00 UTC| [Flask. Часть 1](https://pyneng.github.io/bonus/lecture_9_flask_basics/) |
 | 25.03.18 | 12:00-14:00 UTC| [Flask. Часть 2](https://pyneng.github.io/bonus/lecture_10_flask_basics/) |
 | 07.04.18 | 12:00-14:00 UTC| Flask. Часть 3 |
+| 08.07.18 | 7:00-9:30 UTC  | Основы vim |
+| 08.07.18 | 12:00-14:00 UTC  | New Features in Python 3.7 |
 
 
 Обсуждение лекций и вопросы по ходу будут в pyneng-bonus.

@@ -12,6 +12,7 @@ permalink: /alumni/
 * [Марат Сибгатулин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-2/Marat%20Sibgatulin.png)
 * [Евгений Крылов-Алефиренко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-2/Yauheni%20Krylou%20-%20Alefirenko.png)
 * [Амир Темуров](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-2/Amir%20Temurov.png)
+* [Андрей Левшин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-2/Andrew%20Levshin.png)
 * [Евгений Волошин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-2/Yevgeniy%20Voloshin.png)
 
 

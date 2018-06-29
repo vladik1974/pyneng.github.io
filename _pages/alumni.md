@@ -12,6 +12,8 @@ permalink: /alumni/
 * [Марат Сибгатулин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-2/Marat%20Sibgatulin.png)
 * [Евгений Крылов-Алефиренко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-2/Yauheni%20Krylou%20-%20Alefirenko.png)
 * [Амир Темуров](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-2/Amir%20Temurov.png)
+* [Евгений Волошин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-2/Yevgeniy%20Voloshin.png)
+
 
 ## PyNEng online 3. 26.08.17 - 25.11.17
 

@@ -37,7 +37,7 @@ sidebar:
     <td rowspan="2" align="center">3</td>
     <td align="center">3</td>
     <td align="center">30.06.18</td>
-    <td>Основы. Типы данных в Python (4ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-3/">Основы. Типы данных в Python (4ч)</a></td>
     <td align="center">7</td>
  </tr>
  <tr>

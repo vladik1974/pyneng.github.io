@@ -188,7 +188,8 @@ sidebar:
     <td align="center">21</td>
     <td align="center">29.09.18</td>
     <td> ООП. Основы (3ч)</td>
-    <td align="center">10</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">22</td>

@@ -47,7 +47,7 @@ sidebar:
  <tr>
     <td align="center">4</td>
     <td align="center">01.07.18</td>
-    <td>Типы данных в Python (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-4/">Типы данных в Python (3ч)</a></td>
     <td align="center">19 (04_data_structures, 05_basic_scripts)</td>
     <td align="center">4.6, 5.1, 5.1a, 5.2, 5.2a</td>
  </tr>

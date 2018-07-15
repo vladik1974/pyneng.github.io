@@ -70,7 +70,7 @@ sidebar:
  <tr>
     <td align="center">7</td>
     <td align="center">15.07.18</td>
-    <td>Модули (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-7/">Модули (3ч)</a></td>
     <td align="center">4 (11_modules)</td>
     <td align="center">11.1, 11.2, 11.2a</td>
  </tr>

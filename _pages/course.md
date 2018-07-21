@@ -78,7 +78,7 @@ sidebar:
     <td rowspan="2" align="center">6</td>
     <td align="center">8</td>
     <td align="center">21.07.18</td>
-    <td>Регулярные выражения (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-8/">Регулярные выражения (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

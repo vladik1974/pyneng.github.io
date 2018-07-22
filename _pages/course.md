@@ -85,7 +85,7 @@ sidebar:
  <tr>
     <td align="center">9</td>
     <td align="center">22.07.18</td>
-    <td>Регулярные выражения (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-9/">Модуль re(3ч)</a></td>
     <td align="center">10 (15_module_re)</td>
     <td align="center">15.1, 15.2, 15.3, 15.4</td>
  </tr>

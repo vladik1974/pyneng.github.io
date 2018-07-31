@@ -3,9 +3,11 @@ title: "Продленка 2 PyNEng"
 permalink: /pyneng-bonus-2/
 ---
 
-"Продленка" - это дополнительные небольшие лекции, которые проводятся после завершения курса.
+## Проделка завершилась!
 
-На данный момент запланированы такие лекции:
+
+"Продленка" - это дополнительные небольшие лекции, которые проводились после завершения основного курса.
+
 
 | Дата     |     Время      | Тема |
 |:--------:|:--------------:|------|
@@ -18,13 +20,28 @@ permalink: /pyneng-bonus-2/
 | 24.06.18 | 7:00-9:30 UTC  | [Модуль logging](https://pyneng.github.io/bonus-2/07_logging/) |
 | 08.07.18 | 7:00-9:30 UTC  | Основы vim |
 | 08.07.18 | 12:00-14:00 UTC  | New Features in Python 3.7 |
-| 22.07.18 | 13:00-15:30 UTC  | Основы декораторов |
-| 29.07.18 | 7:00-10:00 UTC  | Декораторы |
+| 22.07.18 | 13:00-15:30 UTC  | [Основы декораторов](https://pyneng.github.io/bonus-2/10_decorator_basics/) |
+| 29.07.18 | 7:00-10:00 UTC  | [Декораторы](https://pyneng.github.io/bonus-2/11_decorators/) |
 
 
+## Продолжение обучения
 
+[Подборка ресурсов](https://natenka.github.io/pyneng-resources/)
 
-Обсуждение лекций и вопросы по ходу будут в канале pyneng-bonus-2.
+Книги:
+
+* [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY)
+* [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-ebook/dp/B0131L3PW4/), [на русском](https://www.ozon.ru/context/detail/id/135305378/)
+
+Курсы:
+
+* [Специализация Программирование на Python](https://ru.coursera.org/specializations/programming-in-python)
+* [Talk Python Courses](https://training.talkpython.fm/courses/all)
+
+Youtube:
+
+* [Corey Schafer](https://www.youtube.com/user/schafer5/playlists)
+* [The Ultimate List of Python YouTube Channels](https://realpython.com/python-youtube-channels/)
 
 ## Календарь лекций
 

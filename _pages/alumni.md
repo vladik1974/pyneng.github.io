@@ -33,6 +33,7 @@ permalink: /alumni/
 * [Василий Кобозев](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Vasily%20Kobozev.png)
 * [Денис Карпушин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Denis%20Karpushin.png)
 * [Ян Коробов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Ian%20Korobov.png)
+* [Григорий Рочев](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-3/Grigoriy%20Rochev.png)
 
 ## PyNEng online 4. 13.01.18 - 07.04.18
 

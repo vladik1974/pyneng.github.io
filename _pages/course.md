@@ -126,7 +126,7 @@ sidebar:
     <td align="center">11</td>
     <td align="center">13</td>
     <td align="center">26.08.18</td>
-    <td><a href="https://pyneng.github.io/pyneng-5/bonus-lecture-generators/">(2ч)</a></td>
+    <td><a href="https://pyneng.github.io/pyneng-5/bonus-lecture-generators/">Генераторы (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

@@ -134,7 +134,7 @@ sidebar:
     <td rowspan="2" align="center">12</td>
     <td align="center">14</td>
     <td align="center">01.09.18</td>
-    <td>Подключение к сетевым устройствам (Telnet, SSH) (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-13/">Подключение к сетевым устройствам (Telnet, SSH) (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

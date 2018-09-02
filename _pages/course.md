@@ -141,8 +141,8 @@ sidebar:
  <tr>
     <td align="center">15</td>
     <td align="center">02.09.18</td>
-    <td>Подключение к сетевым устройствам (Telnet, SSH) (2ч)</td>
-    <td align="center">12(19_ssh_telnet)</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-14/">Подключение к сетевым устройствам (Telnet, SSH) (2ч)</a></td>
+    <td align="center">12 (19_ssh_telnet)</td>
     <td align="center">19.1, 19.1a, 19.2, 19.2a, 19.2b, 19.3</td>
  </tr>
  <tr>

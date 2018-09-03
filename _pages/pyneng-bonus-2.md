@@ -35,7 +35,6 @@ permalink: /pyneng-bonus-2/
 
 Курсы:
 
-* [Специализация Программирование на Python](https://ru.coursera.org/specializations/programming-in-python)
 * [Talk Python Courses](https://training.talkpython.fm/courses/all)
 
 Youtube:

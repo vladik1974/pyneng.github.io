@@ -149,7 +149,7 @@ sidebar:
     <td align="center">13</td>
     <td align="center">16</td>
     <td align="center">08.09.18</td>
-    <td>Параллельное подключение к оборудованию (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-15/">Параллельное подключение к оборудованию (3ч)</a></td>
     <td align="center">4 (20_concurrent_connections)</td>
     <td align="center">20.2, 20.2a</td>
  </tr>

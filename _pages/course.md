@@ -172,7 +172,7 @@ sidebar:
     <td rowspan="2" align="center">15</td>
     <td align="center">19</td>
     <td align="center">22.09.18</td>
-    <td>Основы Ansible (4ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-18/">Основы Ansible (4ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

@@ -179,7 +179,7 @@ sidebar:
  <tr>
     <td align="center">20</td>
     <td align="center">23.09.18</td>
-    <td>Ansible для сетевого оборудования (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-19/">Ansible для сетевого оборудования (3ч)</a></td>
     <td align="center">12 (все 24_ansible_for_network, кроме 24.3)</td>
     <td align="center">24.1, 24.1a, 24.1b, 24.1c, 24.2</td>
  </tr> 

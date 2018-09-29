@@ -187,9 +187,9 @@ sidebar:
     <td rowspan="2" align="center">16</td>
     <td align="center">21</td>
     <td align="center">29.09.18</td>
-    <td> ООП. Основы (3ч)</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-20/">ООП. Основы (3ч)</a></td>
+    <td align="center">13 (все 25_oop_basics)</td>
+    <td align="center">25.1, 25.1a, 25.1b, 25.1e, 25.2, 25.2a</td>
  </tr>
  <tr>
     <td align="center">22</td>

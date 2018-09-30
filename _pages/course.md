@@ -194,9 +194,9 @@ sidebar:
  <tr>
     <td align="center">22</td>
     <td align="center">30.09.18</td>
-    <td>ООП. Специальные методы (2ч)</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-21/">ООП. Специальные методы (2ч)</a></td>
+    <td align="center">7 (все 26_oop_spec_methods)</td>
+    <td align="center">26.1, 26.1a, 26.3</td>
  </tr> 
  <tr>
     <td align="center">17</td>

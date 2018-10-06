@@ -202,9 +202,9 @@ sidebar:
     <td align="center">17</td>
     <td align="center">23</td>
     <td align="center">06.10.18</td>
-    <td>ООП. Наследование (3ч)</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-22/">ООП. Наследование (3ч)</a></td>
+    <td align="center">7 (все 27_oop_inheritance)</td>
+    <td align="center">27.1, 27.2, 27.2a</td>
  </tr> 
  <tr>
     <td align="center">18</td>

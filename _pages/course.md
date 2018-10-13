@@ -210,7 +210,7 @@ sidebar:
     <td align="center">18</td>
     <td align="center">24</td>
     <td align="center">13.10.18</td>
-    <td>Завершающая встреча (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-5/lecture-23/">Завершающая встреча (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>  

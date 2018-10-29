@@ -57,3 +57,9 @@ permalink: /alumni/
 ## PyNEng online 5. 16.06.18 - 13.10.18
 
 * [Виктор Машеров](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Viktor%20Masherov.png)
+* [Александр Горбунов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Aleksandr%20Gorbunov.png)
+* [Сергей Афанасьев](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Sergey%20Afanasyev.png)
+* [Сергей Лысенко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Sergey%20Lysenko.png)
+* [Олег Бухалов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Oleg%20Bukhalov.png)
+* [Дмитрий Кабак](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Dmytro%20Kabak.png)
+* [Александр Шевчук](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Alexander%20Shevchuk.png)

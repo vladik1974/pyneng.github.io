@@ -63,3 +63,4 @@ permalink: /alumni/
 * [Олег Бухалов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Oleg%20Bukhalov.png)
 * [Дмитрий Кабак](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Dmytro%20Kabak.png)
 * [Александр Шевчук](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Alexander%20Shevchuk.png)
+* [Марк Руденко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Mark%20Rudenko.png)

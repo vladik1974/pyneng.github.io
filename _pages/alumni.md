@@ -53,6 +53,7 @@ permalink: /alumni/
 * [Азамат Хакимьянов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Azamat%20Khakimyanov.png)
 * [Артём Григорьев](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Artem%20Grigoriev.png)
 * [Георгий Владимиров](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Georgij%20Vladimirov.png)
+* [Андрей Мига](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-4/Andrej%20Miga.png)
 
 ## PyNEng online 5. 16.06.18 - 13.10.18
 
@@ -64,3 +65,4 @@ permalink: /alumni/
 * [Дмитрий Кабак](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Dmytro%20Kabak.png)
 * [Александр Шевчук](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Alexander%20Shevchuk.png)
 * [Марк Руденко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Mark%20Rudenko.png)
+

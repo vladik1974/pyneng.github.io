@@ -67,4 +67,5 @@ permalink: /alumni/
 * [Марк Руденко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Mark%20Rudenko.png)
 * [Михаил Кирьянов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Mikhail_Kirianov.png)
 * [Сергей Новицкий](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Sergey%20Nowitzki.png)
+* [Владимир Мусонов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Vladimir%20Musonov.png)
 

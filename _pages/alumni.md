@@ -69,4 +69,5 @@ permalink: /alumni/
 * [Сергей Новицкий](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Sergey%20Nowitzki.png)
 * [Владимир Мусонов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Vladimir%20Musonov.png)
 * [Дмитрий Васнев](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Dmytro%20Vasniev.png)
+* [Денис Алмухаметов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Denis%20Almukhametov.png)
 

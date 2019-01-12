@@ -4,13 +4,6 @@ permalink: /docs/course/
 excerpt: "Программа курса"
 ---
 
----
-title: "Курс"
-permalink: /course/
-sidebar:
-  nav: "docs"
----
-
 Все занятия начинаются в 7:00 UTC и, в зависимости от длительности занятия, заканчиваются в 9:00-11:00 UTC.
 
 <table border="1" cellpadding="4" cellspacing="0">

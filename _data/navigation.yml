@@ -15,8 +15,6 @@ docs:
         url: /docs/course/
       - title: Календарь
         url: /calendar/
-      - title: "Репозиторий"
-        url: /docs/pyneng-github/
       - title: Задания
         url: /docs/tasks/
       - title: Как учиться
@@ -29,6 +27,8 @@ docs:
         url: /docs/git-basics/
       - title: Работа с Git и GitHub
         url: /docs/git-github-course/
+      - title: Репозиторий курса
+        url: /docs/pyneng-github/
       - title: Slack
         url: /docs/slack/
       - title: VM

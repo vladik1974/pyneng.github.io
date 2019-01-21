@@ -74,4 +74,5 @@ permalink: /alumni/
 * [Олег Славкин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Oleg%20Slavkin.png)
 * [Андрей Рыбченко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Andrey%20Rybchenko.png)
 * [Игорь Лысаков](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Igor%20Lysakov.png)
+* [Ольга Ермолова](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Olga%20Ermolova.png)
 

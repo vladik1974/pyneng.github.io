@@ -76,4 +76,5 @@ permalink: /alumni/
 * [Игорь Лысаков](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Igor%20Lysakov.png)
 * [Ольга Ермолова](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Olga%20Ermolova.png)
 * [Евгений Лисовенко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Evgeny%20Lisovenko.png)
+* [Кайрат Ниссанов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Kairat%20Nissanov.png)
 

@@ -62,15 +62,15 @@ excerpt: "Программа курса"
     <td align="center">6</td>
     <td align="center">09.02.19</td>
     <td>Функции (4ч)</td>
-    <td align="center">9 (09_functions)</td>
+    <td align="center">8 (09_functions)</td>
     <td align="center">9.1, 9.1a, 9.2, 9.2a, 9.3</td>
  </tr>
  <tr>
     <td align="center">7</td>
     <td align="center">10.02.19</td>
     <td>Модули (3ч)</td>
-    <td align="center">6 (11_modules, 12_useful_modules)</td>
-    <td align="center">11.1, 11.2, 11.2a, 12.1</td>
+    <td align="center">5 (11_modules, 12_useful_modules)</td>
+    <td align="center">11.1, 11.2, 12.1, 12.2</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">6</td>
@@ -84,7 +84,7 @@ excerpt: "Программа курса"
     <td align="center">9</td>
     <td align="center">17.02.19</td>
     <td>Модуль re(3ч)</td>
-    <td align="center">10 (15_module_re)</td>
+    <td align="center">8 (15_module_re)</td>
     <td align="center">15.1, 15.2, 15.3, 15.4</td>
  </tr>
  <tr>
@@ -100,7 +100,7 @@ excerpt: "Программа курса"
     <td align="center">11</td>
     <td align="center">02.03.19</td>
     <td>Обработка данных в форматах YAML, JSON, CSV (3ч)</td>
-    <td align="center">5 (17_serialization)</td>
+    <td align="center">4 (17_serialization)</td>
     <td align="center">17.1, 17.2, 17.2a</td>
  </tr>
  <tr>

@@ -61,14 +61,14 @@ excerpt: "Программа курса"
     <td rowspan="2" align="center">5</td>
     <td align="center">6</td>
     <td align="center">09.02.19</td>
-    <td>Функции (4ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-6/lecture-6/">Функции (4ч)</a></td>
     <td align="center">8 (09_functions)</td>
     <td align="center">9.1, 9.1a, 9.2, 9.2a, 9.3</td>
  </tr>
  <tr>
     <td align="center">7</td>
     <td align="center">10.02.19</td>
-    <td>Модули (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-6/lecture-7/">Модули (3ч)</a></td>
     <td align="center">5 (11_modules, 12_useful_modules)</td>
     <td align="center">11.1, 11.2, 12.1, 12.2</td>
  </tr>
@@ -76,14 +76,14 @@ excerpt: "Программа курса"
     <td rowspan="2" align="center">6</td>
     <td align="center">8</td>
     <td align="center">16.02.19</td>
-    <td>Регулярные выражения (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-6/lecture-8/">Регулярные выражения (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">9</td>
     <td align="center">17.02.19</td>
-    <td>Модуль re(3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-6/lecture-9/">Модуль re(3ч)</a></td>
     <td align="center">8 (15_module_re)</td>
     <td align="center">15.1, 15.2, 15.3, 15.4</td>
  </tr>

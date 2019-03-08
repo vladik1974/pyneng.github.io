@@ -108,8 +108,8 @@ excerpt: "Программа курса"
     <td align="center">12</td>
     <td align="center">09.03.19</td>
     <td>>Работа с базами данных на примере SQLite (4ч)</td>
-    <td align="center">9 (18_db)</td>
-    <td align="center">18.1, 18.1a, 18.2, 18.2a</td>
+    <td align="center">7 (18_db)</td>
+    <td align="center">18.1, 18.2, 18.3</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">12</td>

@@ -130,9 +130,9 @@ excerpt: "Программа курса"
     <td align="center">13</td>
     <td align="center">16</td>
     <td align="center">23.03.19</td>
-    <td>Параллельное подключение к оборудованию (3ч)</td>
-    <td align="center">4 (20_concurrent_connections)</td>
-    <td align="center">20.2, 20.2a</td>
+    <td><a href="https://pyneng.github.io/pyneng-6/lecture-15/">Параллельное подключение к оборудованию (3ч)</a></td>
+    <td align="center">5 (20_concurrent_connections)</td>
+    <td align="center">20.1, 20.2, 20.3</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">14</td>

@@ -138,9 +138,9 @@ excerpt: "Программа курса"
     <td rowspan="2" align="center">14</td>
     <td align="center">17</td>
     <td align="center">30.03.19</td>
-    <td>Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
-    <td align="center">9 (21_jinja2)</td>
-    <td align="center">21.1, 21.1a, 21.2, 21.3</td>
+    <td><a href="https://pyneng.github.io/pyneng-6/lecture-16/">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</a></td>
+    <td align="center">6 (21_jinja2)</td>
+    <td align="center">21.1, 21.2, 21.3</td>
  </tr>
  <tr>
     <td align="center">18</td>

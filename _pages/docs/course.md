@@ -145,7 +145,7 @@ excerpt: "Программа курса"
  <tr>
     <td align="center">18</td>
     <td align="center">31.03.19</td>
-    <td>Обработка вывода команд с помощью TextFSM (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-6/lecture-17/">Обработка вывода команд с помощью TextFSM (3ч)</a></td>
     <td align="center">8 (22_textfsm)</td>
     <td align="center">22.1, 22.1a, 22.2, 22.3, 22.4</td>
  </tr>

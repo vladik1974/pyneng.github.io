@@ -160,9 +160,9 @@ excerpt: "Программа курса"
  <tr>
     <td align="center">22</td>
     <td align="center">07.04.19</td>
-    <td>ООП. Специальные методы (2ч)</td>
-    <td align="center">7 (все 26_oop_spec_methods)</td>
-    <td align="center">26.1, 26.1a, 26.3</td>
+    <td><a href="https://pyneng.github.io/pyneng-6/lecture-19/">ООП. Специальные методы (2ч)</a></td>
+    <td align="center">5 (все 26_oop_spec_methods)</td>
+    <td align="center">26.1, 26.1a, 26.2</td>
  </tr> 
  <tr>
     <td align="center">17</td>

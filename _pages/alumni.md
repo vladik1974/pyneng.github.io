@@ -82,4 +82,5 @@ permalink: /alumni/
 
 * [Артем Уткин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Artem%20Utkin.png)
 * [Игорь Беляков](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Igor%20Beliakov.png)
+* [Андрей Михалицын](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Andrey%20Mikhalitsyn.png)
 

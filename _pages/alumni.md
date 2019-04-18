@@ -81,4 +81,5 @@ permalink: /alumni/
 ## PyNEng online 6. 12.01.19 - 20.04.19
 
 * [Артем Уткин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Artem%20Utkin.png)
+* [Игорь Беляков](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Igor%20Beliakov.png)
 

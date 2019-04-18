@@ -78,3 +78,7 @@ permalink: /alumni/
 * [Евгений Лисовенко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Evgeny%20Lisovenko.png)
 * [Кайрат Нисанов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Kairat%20Nissanov.png)
 
+## PyNEng online 6. 12.01.19 - 20.04.19
+
+* [Артем Уткин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Artem%20Utkin.png)
+

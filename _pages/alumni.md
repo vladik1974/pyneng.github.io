@@ -85,4 +85,5 @@ permalink: /alumni/
 * [Андрей Михалицын](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Andrey%20Mikhalitsyn.png)
 * [Александр Молчанов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Aleksandr%20Molchanov.png)
 * [Сергей Демихов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Sergey%20Demikhov.png)
+* [Владислав Данилюк](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Vladislav%20Daniliuk.png)
 

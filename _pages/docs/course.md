@@ -176,7 +176,7 @@ excerpt: "Программа курса"
     <td align="center">18</td>
     <td align="center">24</td>
     <td align="center">20.04.19</td>
-    <td>Завершающая встреча (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-6/lecture-21/">Завершающая встреча (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>  

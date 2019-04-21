@@ -86,4 +86,9 @@ permalink: /alumni/
 * [Александр Молчанов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Aleksandr%20Molchanov.png)
 * [Сергей Демихов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Sergey%20Demikhov.png)
 * [Владислав Данилюк](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Vladislav%20Daniliuk.png)
+* [Дмитрий Ипатов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Dmitry%20Ipatov.png)
+* [Максим Иванов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Maksim%20Ivanov.png)
+* [Олег Тараканов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Oleg%20Tarakanov.png)
+* [Владимир Гвоздев](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Vladimir%20Gvozdev.png)
+* [Сергей Ражик](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Sergey%20Razhik.png)
 

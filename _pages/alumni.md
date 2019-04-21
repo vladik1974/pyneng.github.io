@@ -92,4 +92,5 @@ permalink: /alumni/
 10. [Владимир Гвоздев](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Vladimir%20Gvozdev.png)
 11. [Сергей Ражик](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Sergey%20Razhik.png)
 12. [Никита Фильков](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Nikita%20Filkov.png)
+13. [Андрей Коба](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Andrey%20Koba.png)
 

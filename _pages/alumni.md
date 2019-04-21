@@ -91,4 +91,5 @@ permalink: /alumni/
 * [Олег Тараканов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Oleg%20Tarakanov.png)
 * [Владимир Гвоздев](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Vladimir%20Gvozdev.png)
 * [Сергей Ражик](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Sergey%20Razhik.png)
+* [Никита Фильков](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Nikita%20Filkov.png)
 

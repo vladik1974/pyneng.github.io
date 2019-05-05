@@ -100,4 +100,5 @@ permalink: /alumni/
 18. [Виталий Зенченко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Vitaly%20Zenchenko.png)
 19. [Александр Акилин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Alexander%20Akilin.png)
 20. [Александр Коленко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Aleksandr%20Kolenko.png)
+21. [Сергей Федоров](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Sergey%20Fedorov.png)
 

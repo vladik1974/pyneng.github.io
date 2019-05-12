@@ -29,9 +29,9 @@ docs:
         url: /docs/pyneng-github/
       - title: Slack
         url: /docs/slack/
-      - title: VM
+      - title: Подготовка VM
         url: /docs/course-vm/
-      - title: Linux
+      - title: Основы Linux
         url: /docs/linux/
   - title: Дополнительные ресурсы
     children:

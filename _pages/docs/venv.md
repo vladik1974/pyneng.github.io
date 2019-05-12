@@ -15,7 +15,7 @@ permalink: /docs/venv/
 
 Установка virtualenvwrapper с помощью pip:
 ```
-python3.6 -m pip install virtualenvwrapper
+python3.7 -m pip install virtualenvwrapper
 ```
 
 После установки, в .bashrc нужно добавить несколько строк
@@ -30,9 +30,9 @@ export WORKON_HOME=~/venv
 exec bash
 ```
 
-Создание виртуального окружения, в котором используется Python 3.6 (эта же команда переведет вас в виртуальное окружение):
+Создание виртуального окружения, в котором используется Python 3.7 (эта же команда переведет вас в виртуальное окружение):
 ```
-mkvirtualenv --python=/usr/local/bin/python3.6 pyneng-py3
+mkvirtualenv --python=/usr/local/bin/python3.7 pyneng-py3
 ```
 
 Установка IPython внутри виртуального окружения:
@@ -43,9 +43,9 @@ pip install ipython
 После этого, можно открывать ipython (вывод должен быть примерно таким):
 ```
 $ ipython
-Python 3.6.0 (default, May 31 2017, 07:04:38) 
+Python 3.7.0 (default, Jul  7 2018, 18:25:30)
 Type 'copyright', 'credits' or 'license' for more information
-IPython 6.0.0 -- An enhanced Interactive Python. Type '?' for help.
+IPython 6.4.0 -- An enhanced Interactive Python. Type '?' for help.
 
 ```
 
@@ -55,10 +55,10 @@ IPython 6.0.0 -- An enhanced Interactive Python. Type '?' for help.
 ```
 [~]
 vagrant@jessie-i386:
-$ mkvirtualenv --python=/usr/local/bin/python3.6 pyneng-py3
-Running virtualenv with interpreter /usr/local/bin/python3.6
+$ mkvirtualenv --python=/usr/local/bin/python3.7 pyneng-py3
+Running virtualenv with interpreter /usr/local/bin/python3.7
 Using base prefix '/usr/local'
-New python executable in /home/vagrant/venv/pyneng-py3/bin/python3.6
+New python executable in /home/vagrant/venv/pyneng-py3/bin/python3.7
 Also creating executable in /home/vagrant/venv/pyneng-py3/bin/python
 Installing setuptools, pip, wheel...done.
 virtualenvwrapper.user_scripts creating /home/vagrant/venv/pyneng-py3/bin/predeactivate

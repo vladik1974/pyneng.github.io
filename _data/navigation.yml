@@ -39,10 +39,6 @@ docs:
         url: /docs/pyneng-book/
       - title: Дополнительные ресурсы по Python
         url: /docs/python-docs/
-      - title: Продленка PyNEng
-        url: /pyneng-bonus/
-      - title: Продленка 2 PyNEng
-        url: /pyneng-bonus-2/
   - title: Архив
     children:
       - title: PyNEng Online 2
@@ -51,4 +47,12 @@ docs:
         url: /pyneng-online-3/
       - title: PyNEng Online 4
         url: /pyneng-online-4/
+      - title: PyNEng Online 5
+        url: /pyneng-online-5/
+      - title: PyNEng Online 6
+        url: /pyneng-online-6/
+      - title: Продленка PyNEng
+        url: /pyneng-bonus/
+      - title: Продленка 2 PyNEng
+        url: /pyneng-bonus-2/
 

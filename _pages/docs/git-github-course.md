@@ -4,8 +4,6 @@ permalink: /docs/git-github-course/
 excerpt: "Git and GitHub"
 ---
 
-Перед началом настройки Git и GitHub, прочитайте [основы Git](https://pyneng.github.io/docs/git-basics/).
-
 Для работы с заданиями на курсе используются Git и GitHub.
 
 * Git - позволяет хранить историю изменений, кто выполнил изменения и позволяет посмотреть какие именно изменения были внесены.
@@ -13,11 +11,11 @@ excerpt: "Git and GitHub"
 
 Для каждого участника курса создан свой приватный репозиторий на GitHub, доступ к которому есть только у инструктора и участника.
 
-Для выполнения заданий на курсе надо:
+Для выполнения заданий на курсе надо выполнить по очереди инструкции/прочитать руководства:
 
-* [Разобраться с основами Git](https://pyneng.github.io/docs/git-basics/)
-* [Выполнить базовую настройку Git и GitHub](https://pyneng.github.io/docs/git-github-setup/)
-* [Разобраться как добавлять изменения в Git/GitHub](https://pyneng.github.io/docs/git-github/)
+1. [Разобраться с основами Git](https://pyneng.github.io/docs/git-basics/)
+2. [Выполнить базовую настройку Git и GitHub](https://pyneng.github.io/docs/git-github-setup/)
+3. [Разобраться как добавлять изменения в Git/GitHub](https://pyneng.github.io/docs/git-github/)
 
 Кроме того, надо разобраться с тем как сдавать задания на проверку:
 

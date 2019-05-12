@@ -1,13 +1,12 @@
 ---
-title: "Курс"
-permalink: /course/
+title: "Ссылки по курсу PyNEng Online 5"
+permalink: /pyneng-online-5/
 sidebar:
   nav: "docs"
 ---
 
-По ходу курса, на этой странице будут добавляться ссылки на анонсы по каждому уроку.
 
-Все занятия начинаются в 7:00 UTC и, в зависимости от длительности занятия, заканчиваются в 9:00-11:00 UTC.
+* [Архив постов](https://pyneng.github.io/categories/#pyneng-5)
 
 <br>
 

@@ -19,12 +19,10 @@ docs:
         url: /docs/tasks/
       - title: Как учиться
         url: /docs/learning/
-      - title: Тесты
-        url: /tests/
+      - title: Вопросы
+        url: /quiz/
   - title: Инструменты
     children:
-      - title: Основы Git
-        url: /docs/git-basics/
       - title: Работа с Git и GitHub
         url: /docs/git-github-course/
       - title: Репозиторий курса

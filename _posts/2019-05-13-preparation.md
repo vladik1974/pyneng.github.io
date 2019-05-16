@@ -24,7 +24,7 @@ category:
 * Подготовить виртуальную машину
 
 
-### Регистрирация в GitHub и Slack
+### Регистрация в GitHub и Slack
 
 * GitHub будет использоваться на курсе для заданий. Ссылка для регистрации https://github.com/join
 * Slack - основной чат на курсе. Ссылка для регистрации https://pyneng-slack.herokuapp.com/

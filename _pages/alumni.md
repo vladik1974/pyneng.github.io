@@ -77,6 +77,7 @@ permalink: /alumni/
 18. [Ольга Ермолова](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Olga%20Ermolova.png)
 19. [Евгений Лисовенко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Evgeny%20Lisovenko.png)
 20. [Кайрат Нисанов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Kairat%20Nissanov.png)
+21. [Денис Сероштанов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Denis%20Seroshtanov.png)
 
 ## PyNEng online 6. 12.01.19 - 20.04.19
 

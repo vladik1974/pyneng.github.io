@@ -79,7 +79,7 @@ permalink: /alumni/
 20. [Кайрат Нисанов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Kairat%20Nissanov.png)
 21. [Денис Сероштанов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Denis%20Seroshtanov.png)
 22. [Станислав Никитин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Stanislav%20Nikitin.png)
-23. [Денис Гаврюшенко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Denis%20Gavryuchenko.png)
+23. [Денис Гаврюшенко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-5/Denis%20Gavryushenko.png)
 
 ## PyNEng online 6. 12.01.19 - 20.04.19
 

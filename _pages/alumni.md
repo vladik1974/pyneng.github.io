@@ -102,4 +102,7 @@ permalink: /alumni/
 19. [Александр Акилин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Alexander%20Akilin.png)
 20. [Александр Коленко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Aleksandr%20Kolenko.png)
 21. [Сергей Федоров](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Sergey%20Fedorov.png)
+22. [Сергей Михайловский](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Sergey%20Mikhaylovskiy.png)
+23. [Олег Зюзин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Oleg%20Zyuzin.png)
+24. [Роман Илюткин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Roman%20Ilyutkin.png)
 

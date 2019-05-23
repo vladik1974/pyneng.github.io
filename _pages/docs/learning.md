@@ -115,7 +115,6 @@ __Книга "Python для сетевых инженеров"__
 * [study_actively.pdf](https://github.com/pyneng/pyneng-online-jun-jul-2017/blob/master/study/study_actively.pdf) - документ, в котором описаны несколько советов как учиться активно. Особенно обратите внимание на диаграмму в конце документа ([Источник](www.dartmouth.edu/~acskills/docs/study_actively.doc))
 * [ActiveStudyStrategies.pdf](https://github.com/pyneng/pyneng-online-jun-jul-2017/blob/master/study/ActiveStudyStrategies.pdf) - документ описывает примеры активных и пассивных методов обучения ([Источник](https://spu.edu/depts/cfl/documents/ActiveStudyStrategies.pdf))
 * [Active Learning](http://www.studygs.net/activelearn.htm) - на этом сайте описано не только активное обучение в целом, но и подробнее расписаны его составляющие
-* [Strategies for Active Studying](http://www.uwec.edu/ASC/resources/ActiveStudy.htm)
 
 
 ### Books

@@ -110,4 +110,5 @@ permalink: /alumni/
 24. [Роман Илюткин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Roman%20Ilyutkin.png)
 25. [Владимир Панаскин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Vladimir%20Panaskin.png)
 26. [Максим Крамаренко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Maksim%20Kramarenko.png)
+27. [Тимур Кравченко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Timur%20Kravchenko.png)
 

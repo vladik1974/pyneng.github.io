@@ -6,123 +6,162 @@ excerpt: "PyNEng book"
 
 Книга "Python для сетевых инженеров" будет полезна в повторении информации после лекций или поиске нужных моментов:
 
-* [Online версия книги для Python 3.6](https://www.gitbook.com/book/natenka/pyneng/details)
+* [Online версия книги для Python 3.7](https://pyneng.readthedocs.io/ru/latest/contents.html)
+
 
 <table border="1" cellpadding="4" cellspacing="0">
  <tr>
     <th align="center">Неделя</th>
-    <th align="center">Дата (лекция)</th>
-    <th align="center">Тема в книге</th>
+    <th align="center">Лекция</th>
+    <th align="center">Дата</th>
+    <th align="center">Тема (длительность лекции)</th>
+    <th align="center">Разделы в книге</th>
  </tr>
  <tr>
-    <td align="center">-</td>
-    <td align="center">26.08.17</td>
-    <td>Предварительная встреча: О курсе (2ч)</td>
- </tr>
- <tr>
-    <td align="center">-</td>
-    <td align="center">02.09.17</td>
-    <td>Предварительная встреча: <a href="https://natenka.gitbooks.io/pyneng/content/book/02_git_github/">Git/GitHub</a></td>
- </tr>
- <tr>
-    <td rowspan="2" align="center">1</td>
-    <td align="center">09.09.17 (1)</td>
-    <td>
-Основы. Типы данных в Python (4ч):
-<br>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/03_start/"> Основы</a>
-<br>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/04_data_structures/3_numbers.html"> Числа</a>
-<br>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/04_data_structures/4_strings.html"> Строки</a>
-<br>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/04_data_structures/5_lists.html"> Списки</a>
-
-</td>
- </tr>
- <tr>
-    <td align="center">10.09.17 (2)</td>
-    <td>
-Типы данных в Python (3ч):
-<br>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/04_data_structures/6_dicts.html"> Словари</a><br>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/04_data_structures/7_tuple.html"> Кортежи</a><br>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/04_data_structures/8_set.html"> Множества</a><br>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/04_data_structures/9_convert_type.html"> Преобразование типов</a><br>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/04_data_structures/9a_check_type.html"> Проверка типов</a><br>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/05_basic_scripts/"> Создание базовых скриптов</a><br>
-
-    </td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">25.05.19</td>
+    <td>Вводная лекция: О курсе (2ч)</td>
+    <td><a href="https://pyneng.readthedocs.io/ru/latest/book/01_intro/index.html">1. Подготовка к работе</a></td>
  </tr>
  <tr>
     <td align="center">2</td>
-    <td align="center">16.09.17 (3)</td>
-    <td>
-
-<a href="https://natenka.gitbooks.io/pyneng/content/book/06_control_structures/">Управление ходом программы</a><br>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/07_files/">Работа с файлами (4ч)</a>
-
-</td>
+    <td align="center">2</td>
+    <td align="center">01.06.19</td>
+    <td>Предварительная встреча: Инструменты (3ч)</td>
+    <td><a href="https://pyneng.readthedocs.io/ru/latest/book/02_git_github/index.html">2. Использование Git и GitHub</a></td>
  </tr>
  <tr>
     <td rowspan="2" align="center">3</td>
-    <td align="center">23.09.17 (4)</td>
+    <td align="center">3</td>
+    <td align="center">08.06.19</td>
+    <td>Основы. Типы данных в Python (4ч)</td>
     <td>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/09_functions/">Функции (4ч)</a></td>
- </tr>
- <tr>
-    <td align="center">24.09.17 (5)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/11_modules/">Модули (2ч)</a></td>
+<br><a href="https://pyneng.readthedocs.io/ru/latest/book/03_start/index.html">3. Начало работы с Python</a>
+<br><a href="https://pyneng.readthedocs.io/ru/latest/book/04_data_structures/index.html">4. Типы данных в Python</a>
+    </td>
  </tr>
  <tr>
     <td align="center">4</td>
-    <td align="center">30.09.17 (6)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/Part_III.html">Регулярные выражения (4ч)</a></td>
+    <td align="center">09.06.19</td>
+    <td>Типы данных в Python. Создание базовых скриптов (3ч)</td>
+    <td>
+<br><a href="https://pyneng.readthedocs.io/ru/latest/book/04_data_structures/index.html">4. Типы данных в Python</a>
+<br><a href="https://pyneng.readthedocs.io/ru/latest/book/05_basic_scripts/index.html">5. Создание базовых скриптов</a>
+    </td>
  </tr>
  <tr>
+    <td align="center">4</td>
     <td align="center">5</td>
-    <td align="center">07.10.17 (7)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/16_unicode/">Unicode (2ч)</a></td>
+    <td align="center">15.06.19</td>
+    <td>Управление ходом программы. Работа с файлами (4ч)</td>
+    <td>
+<br><a href="https://pyneng.readthedocs.io/ru/latest/book/06_control_structures/index.html">6. Контроль хода программы</a>
+<br><a href="https://pyneng.readthedocs.io/ru/latest/book/07_files/index.html">7. Работа с файлами</a>
+    </td>
  </tr>
  <tr>
+    <td rowspan="2" align="center">5</td>
     <td align="center">6</td>
-    <td align="center">14.10.17 (8)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/17_serialization/">Обработка данных в форматах YAML, JSON, CSV (3ч)</a></td>
+    <td align="center">22.06.19</td>
+    <td>Функции. Модули (4ч)</td>
+    <td>
+<br><a href="https://pyneng.readthedocs.io/ru/latest/book/09_functions/index.html">9. Функции</a>
+<br><a href="https://pyneng.readthedocs.io/ru/latest/book/11_modules/index.html">11. Модули</a>
+    </td>
  </tr>
  <tr>
     <td align="center">7</td>
-    <td align="center">28.10.17 (9)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/18_db/">Работа с базами данных на примере SQL (SQLite) (4ч)</a></td>
+    <td align="center">23.06.19</td>
+    <td>Полезные функции и модули (3ч)</td>
+    <td>
+<br><a href="https://pyneng.readthedocs.io/ru/latest/book/10_useful_functions/index.html">10. Полезные функции</a>
+<br><a href="https://pyneng.readthedocs.io/ru/latest/book/12_useful_modules/index.html">12. Полезные модули</a>
+    </td>
+ </tr>
+ <tr>
+    <td rowspan="2" align="center">6</td>
+    <td align="center">8</td>
+    <td align="center">29.06.19</td>
+    <td>Регулярные выражения (3ч)</td>
+    <td><a href="https://pyneng.readthedocs.io/ru/latest/book/14_regex/index.html">14. Синтаксис регулярных выражений</a></td>
+ </tr>
+ <tr>
+    <td align="center">9</td>
+    <td align="center">30.06.19</td>
+    <td>Модуль re(3ч)</td>
+    <td><a href="https://pyneng.readthedocs.io/ru/latest/book/15_module_re/index.html">15. Модуль re</a></td>
+ </tr>
+ <tr>
+    <td align="center">7</td>
+    <td align="center">10</td>
+    <td align="center">06.07.19</td>
+    <td>Unicode (2ч)</td>
+    <td><a href="https://pyneng.readthedocs.io/ru/latest/book/16_unicode/index.html">16. Unicode</a></td>
  </tr>
  <tr>
     <td align="center">8</td>
-    <td align="center">04.11.17 (10)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/19_ssh_telnet/">Подключение к сетевым устройствам (Telnet, SSH).</a> <a href="https://natenka.gitbooks.io/pyneng/content/book/20_concurrent_connections/">Параллельное подключение к устройствам (4ч)</a></td>
+    <td align="center">11</td>
+    <td align="center">13.07.19</td>
+    <td>Обработка данных в форматах YAML, JSON, CSV (3ч)</td>
+    <td><a href="https://pyneng.readthedocs.io/ru/latest/book/17_serialization/index.html">17. Работа с файлами в формате CSV, JSON, YAM</a></td>
  </tr>
  <tr>
     <td rowspan="2" align="center">9</td>
-    <td align="center">11.11.17 (11)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/21_jinja2/">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</a></td>
+    <td align="center">12</td>
+    <td align="center">20.07.19</td>
+    <td>Подключение к сетевым устройствам (Telnet, SSH) (3ч)</td>
+    <td><a href="https://pyneng.readthedocs.io/ru/latest/book/19_ssh_telnet/index.html">19. Подключение к оборудованию</a></td>
  </tr>
  <tr>
-    <td align="center">12.11.17 (12)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/22_textfsm/">Обработка неструктурированного вывода команд с помощью TextFSM (2ч)</a></td>
+    <td align="center">13</td>
+    <td align="center">21.07.19</td>
+    <td>Подключение к сетевым устройствам (Telnet, SSH) (2ч)</td>
+    <td><a href="https://pyneng.readthedocs.io/ru/latest/book/19_ssh_telnet/index.html">19. Подключение к оборудованию</a></td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">10</td>
-    <td align="center">18.11.17 (13)</td>
-    <td>
-<a href="https://natenka.gitbooks.io/pyneng/content/book/23_ansible_basics/">Основы Ansible</a>
-</td>
+    <td align="center">10</td>
+    <td align="center">14</td>
+    <td align="center">27.07.19</td>
+    <td>Параллельное подключение к оборудованию (3ч)</td>
+    <td><a href="https://pyneng.readthedocs.io/ru/latest/book/20_concurrent_connections/index.html">20. Одновременное подключение к нескольким устройствам</a></td>
  </tr>
  <tr>
-    <td align="center">19.11.17 (14)</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/book/24_ansible_for_network/">Ansible для сетевого оборудования (3ч)</a></td>
- </tr> 
+    <td rowspan="2" align="center">11</td>
+    <td align="center">15</td>
+    <td align="center">03.08.19</td>
+    <td>Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
+    <td><a href="https://pyneng.readthedocs.io/ru/latest/book/21_jinja2/index.html">21. Шаблоны конфигураций с Jinja2</a></td>
+ </tr>
  <tr>
-    <td align="center">11</td>
-    <td align="center">25.11.17</td>
-    <td><a href="https://natenka.gitbooks.io/pyneng/content/resources/">Завершающая лекция (1ч)</a></td>
+    <td align="center">16</td>
+    <td align="center">04.08.19</td>
+    <td>Обработка вывода команд с помощью TextFSM (3ч)</td>
+    <td><a href="https://pyneng.readthedocs.io/ru/latest/book/22_textfsm/index.html">22. Обработка вывода команд TextFSM</a></td>
+ </tr>
+ <tr>
+    <td rowspan="2" align="center">12</td>
+    <td align="center">17</td>
+    <td align="center">10.08.19</td>
+    <td>ООП. Основы (3ч)</td>
+    <td><a href="https://pyneng.readthedocs.io/ru/latest/book/25_oop_basics/index.html">25. Основы ООП</a></td>
+ </tr>
+ <tr>
+    <td align="center">18</td>
+    <td align="center">11.08.19</td>
+    <td>ООП. Специальные методы (2ч)</td>
+ </tr>
+ <tr>
+    <td align="center">13</td>
+    <td align="center">19</td>
+    <td align="center">17.08.19</td>
+    <td>ООП. Наследование (3ч)</td>
+ </tr>
+ <tr>
+    <td align="center">14</td>
+    <td align="center">20</td>
+    <td align="center">24.08.19</td>
+    <td>Завершающая встреча (2ч)</td>
  </tr>
 </table>
 

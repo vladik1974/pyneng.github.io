@@ -37,7 +37,7 @@ excerpt: "PyNEng book"
     <td align="center">08.06.19</td>
     <td>Основы. Типы данных в Python</td>
     <td>
-<br><a href="https://pyneng.readthedocs.io/ru/latest/book/03_start/index.html">3. Начало работы с Python</a>
+<a href="https://pyneng.readthedocs.io/ru/latest/book/03_start/index.html">3. Начало работы с Python</a>
 <br><a href="https://pyneng.readthedocs.io/ru/latest/book/04_data_structures/index.html">4. Типы данных в Python</a>
     </td>
  </tr>
@@ -46,7 +46,7 @@ excerpt: "PyNEng book"
     <td align="center">09.06.19</td>
     <td>Типы данных в Python. Создание базовых скриптов</td>
     <td>
-<br><a href="https://pyneng.readthedocs.io/ru/latest/book/04_data_structures/index.html">4. Типы данных в Python</a>
+<a href="https://pyneng.readthedocs.io/ru/latest/book/04_data_structures/index.html">4. Типы данных в Python</a>
 <br><a href="https://pyneng.readthedocs.io/ru/latest/book/05_basic_scripts/index.html">5. Создание базовых скриптов</a>
     </td>
  </tr>
@@ -56,7 +56,7 @@ excerpt: "PyNEng book"
     <td align="center">15.06.19</td>
     <td>Управление ходом программы. Работа с файлами</td>
     <td>
-<br><a href="https://pyneng.readthedocs.io/ru/latest/book/06_control_structures/index.html">6. Контроль хода программы</a>
+<a href="https://pyneng.readthedocs.io/ru/latest/book/06_control_structures/index.html">6. Контроль хода программы</a>
 <br><a href="https://pyneng.readthedocs.io/ru/latest/book/07_files/index.html">7. Работа с файлами</a>
     </td>
  </tr>
@@ -66,7 +66,7 @@ excerpt: "PyNEng book"
     <td align="center">22.06.19</td>
     <td>Функции. Модули</td>
     <td>
-<br><a href="https://pyneng.readthedocs.io/ru/latest/book/09_functions/index.html">9. Функции</a>
+<a href="https://pyneng.readthedocs.io/ru/latest/book/09_functions/index.html">9. Функции</a>
 <br><a href="https://pyneng.readthedocs.io/ru/latest/book/11_modules/index.html">11. Модули</a>
     </td>
  </tr>
@@ -75,7 +75,7 @@ excerpt: "PyNEng book"
     <td align="center">23.06.19</td>
     <td>Полезные функции и модули</td>
     <td>
-<br><a href="https://pyneng.readthedocs.io/ru/latest/book/10_useful_functions/index.html">10. Полезные функции</a>
+<a href="https://pyneng.readthedocs.io/ru/latest/book/10_useful_functions/index.html">10. Полезные функции</a>
 <br><a href="https://pyneng.readthedocs.io/ru/latest/book/12_useful_modules/index.html">12. Полезные модули</a>
     </td>
  </tr>

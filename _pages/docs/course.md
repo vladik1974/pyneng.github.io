@@ -22,7 +22,7 @@ excerpt: "Программа курса"
     <td align="center">1</td>
     <td align="center">1</td>
     <td align="center">25.05.19</td>
-    <td>Предварительная встреча: О курсе (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-7/welcome/">Вводная лекция: О курсе (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>
@@ -30,7 +30,7 @@ excerpt: "Программа курса"
     <td align="center">2</td>
     <td align="center">2</td>
     <td align="center">01.06.19</td>
-    <td>Предварительная встреча: Инструменты (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-7/tools">Инструменты(3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

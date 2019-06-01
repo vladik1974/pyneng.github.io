@@ -20,7 +20,7 @@ python3.7 -m pip install virtualenvwrapper
 
 После установки, в .bashrc нужно добавить несколько строк
 ```
-export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3.7
+export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3.7
 export WORKON_HOME=~/venv
 
 . /usr/local/bin/virtualenvwrapper.sh

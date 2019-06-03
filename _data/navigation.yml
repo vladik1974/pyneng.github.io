@@ -29,6 +29,8 @@ docs:
         url: /docs/pyneng-github/
       - title: Slack
         url: /docs/slack/
+      - title: Проверка заданий pytest
+        url: /docs/pytest/
       - title: Подготовка VM
         url: /docs/course-vm/
       - title: Основы Linux

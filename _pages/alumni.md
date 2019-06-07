@@ -112,4 +112,5 @@ permalink: /alumni/
 26. [Максим Крамаренко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Maksim%20Kramarenko.png)
 27. [Тимур Кравченко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Timur%20Kravchenko.png)
 28. [Дмитрий Веров](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Dmitriy%20Verov.png)
+29. [Таисия Тисленко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Taisiya%20Tislenko.png)
 

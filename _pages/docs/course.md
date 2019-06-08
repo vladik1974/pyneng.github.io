@@ -38,16 +38,16 @@ excerpt: "Программа курса"
     <td rowspan="2" align="center">3</td>
     <td align="center">3</td>
     <td align="center">08.06.19</td>
-    <td>Основы. Типы данных в Python (4ч)</td>
-    <td align="center">4.1, 4.2, 4.3</td>
-    <td align="center">4.1, 4.2, 4.3</td>
+    <td><a href="https://pyneng.github.io/pyneng-7/lecture-3">Основы. Типы данных в Python (4ч)</a></td>
+    <td align="center">4.1, 4.2</td>
+    <td align="center">4.1, 4.2</td>
  </tr>
  <tr>
     <td align="center">4</td>
     <td align="center">09.06.19</td>
     <td>Типы данных в Python (3ч)</td>
     <td align="center">18 (04_data_structures, 05_basic_scripts)</td>
-    <td align="center">4.6, 5.1, 5.1a, 5.2, 5.2a</td>
+    <td align="center">4.3, 4.6, 5.1, 5.1a, 5.2, 5.2a</td>
  </tr>
  <tr>
     <td align="center">4</td>

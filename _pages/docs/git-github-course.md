@@ -19,8 +19,11 @@ excerpt: "Git and GitHub"
 
 Кроме того, надо разобраться с тем как сдавать задания на проверку:
 
-* [проверка заданий](https://pyneng.github.io/docs/task-check/)
+* [Сдача задания на проверку](https://pyneng.github.io/docs/task-check/)
 
-А также как [просмотреть проверенные задания в командной строке](https://pyneng.github.io/docs/checked-tasks-git/).
+Как посмотреть проверенные задания:
+
+* [на github](https://pyneng.github.io/docs/task-check-github/)
+* [в командной строке](https://pyneng.github.io/docs/checked-tasks-git/)
 
 

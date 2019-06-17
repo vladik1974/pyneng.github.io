@@ -1,6 +1,6 @@
 ---
-title: "Про смотр проверенных заданий"
-permalink: /docs/task-check-gihub/
+title: "Просмотр проверенных заданий"
+permalink: /docs/task-check-github/
 excerpt: "Проверка заданий"
 ---
 

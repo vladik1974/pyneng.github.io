@@ -61,7 +61,7 @@ excerpt: "Программа курса"
     <td rowspan="2" align="center">5</td>
     <td align="center">6</td>
     <td align="center">22.06.19</td>
-    <td>Функции (4ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-7/lecture-6">Функции (4ч)</a></td>
     <td align="center">8 (09_functions)</td>
     <td align="center">9.1, 9.1a, 9.2, 9.2a, 9.3</td>
  </tr>

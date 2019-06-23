@@ -68,7 +68,7 @@ excerpt: "Программа курса"
  <tr>
     <td align="center">7</td>
     <td align="center">23.06.19</td>
-    <td>Модули (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-7/lecture-7">Модули (3ч)</a></td>
     <td align="center">5 (11_modules, 12_useful_modules)</td>
     <td align="center">11.1, 11.2, 12.1, 12.2</td>
  </tr>

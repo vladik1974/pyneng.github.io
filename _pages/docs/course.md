@@ -76,14 +76,14 @@ excerpt: "Программа курса"
     <td rowspan="2" align="center">6</td>
     <td align="center">8</td>
     <td align="center">29.06.19</td>
-    <td>Регулярные выражения (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-7/lecture-8">Регулярные выражения (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">9</td>
     <td align="center">30.06.19</td>
-    <td>Модуль re(3ч)</td>
+    <td>Модуль re (3ч)</td>
     <td align="center">8 (15_module_re)</td>
     <td align="center">15.1, 15.2, 15.3, 15.4</td>
  </tr>

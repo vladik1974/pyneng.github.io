@@ -115,3 +115,7 @@ permalink: /alumni/
 29. [Таисия Тисленко](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Taisiya%20Tislenko.png)
 30. [Сергей Костин](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-6/Sergey%20Kostin.png)
 
+## PyNEng online 7. 25.05.19 - 24.08.19
+
+1. [Дамир Нугманов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-7/Damir%20Nugmanov.png)
+

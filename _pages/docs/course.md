@@ -91,7 +91,7 @@ excerpt: "Программа курса"
     <td align="center">7</td>
     <td align="center">10</td>
     <td align="center">06.07.19</td>
-    <td>Unicode (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-7/lecture-10">Unicode (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

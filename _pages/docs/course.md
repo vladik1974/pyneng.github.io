@@ -99,7 +99,7 @@ excerpt: "Программа курса"
     <td align="center">8</td>
     <td align="center">11</td>
     <td align="center">13.07.19</td>
-    <td>Обработка данных в форматах YAML, JSON, CSV (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-7/lecture-11">Обработка данных в форматах YAML, JSON, CSV (3ч)</a></td>
     <td align="center">4 (17_serialization)</td>
     <td align="center">17.1, 17.2, 17.2a</td>
  </tr>

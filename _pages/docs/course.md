@@ -107,7 +107,7 @@ excerpt: "Программа курса"
     <td rowspan="2" align="center">9</td>
     <td align="center">12</td>
     <td align="center">20.07.19</td>
-    <td>Подключение к сетевым устройствам (Telnet, SSH) (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-7/lecture-12">Подключение к сетевым устройствам (Telnet, SSH) (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

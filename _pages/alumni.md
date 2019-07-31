@@ -118,4 +118,5 @@ permalink: /alumni/
 ## PyNEng online 7. 25.05.19 - 24.08.19
 
 1. [Дамир Нугманов](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-7/Damir%20Nugmanov.png)
+2. [Виталий Бурбела](https://github.com/pyneng/pyneng.github.io/raw/master/certificates/pyneng-7/Vitaliy%20Burbela.png)
 

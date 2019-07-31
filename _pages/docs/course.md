@@ -122,7 +122,7 @@ excerpt: "Программа курса"
     <td align="center">10</td>
     <td align="center">14</td>
     <td align="center">27.07.19</td>
-    <td>Параллельное подключение к оборудованию (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-7/lecture-14">Параллельное подключение к оборудованию (3ч)</a></td>
     <td align="center">5 (20_concurrent_connections)</td>
     <td align="center">20.1, 20.2, 20.3</td>
  </tr>

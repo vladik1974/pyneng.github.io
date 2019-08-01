@@ -1,6 +1,9 @@
 ---
 title: "Marat Sibgatulin"
 permalink: /alumni/marat_sibgatulin
+author_profile: false
+comments: false
+sidebar: false
 ---
 
 <div style="padding: 20px;">

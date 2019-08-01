@@ -1,6 +1,6 @@
 ---
 title: "Alexey Sidorov"
-permalink: /alumni/alexey_sidorov
+permalink: /alumni/Alexey%20Sidorov
 author_profile: false
 comments: false
 sidebar: false

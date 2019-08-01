@@ -1,6 +1,6 @@
 ---
 title: "Marat Sibgatulin"
-permalink: /alumni/marat_sibgatulin
+permalink: /certificates/marat_sibgatulin
 author_profile: false
 comments: false
 sidebar: false

@@ -265,3 +265,11 @@ defaults:
       comments: true
       sidebar:
         nav: "docs"
+  # _certificates
+  - scope:
+      path: "_certificates"
+      type: pages
+    values:
+      layout: certificate
+      author_profile: false
+      comments: false

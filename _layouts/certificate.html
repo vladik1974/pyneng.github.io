@@ -6,7 +6,24 @@
   <head>
       {% include head.html %}
       {% include head/custom.html %}
+  <meta charset="utf-8">
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@natenka_says" />
+  <meta name="twitter:creator" content="@natenka_says" />
+  <meta name="twitter:url" content="https://pyneng.github.io/" />
+  <meta name="twitter:title" content="Certificate" />
+  <meta name="twitter:description" content="This certificate acknowledges the successfull completion of the Python for network engineers online course." />
+  <meta name="twitter:image"
+  
+    content="https://pybites-certificates.s3.amazonaws.com/yauheni_krylou-alefirenko_95563855-0b8b-41c1-ac58-5daf57d0a74e.png"
+  
+  />
+
   </head>
+{% if page.link %}
+{{page.link}}
+{% endif %}
 
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}

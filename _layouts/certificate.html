@@ -21,9 +21,6 @@
   />
 
   </head>
-{% if page.link %}
-{{page.link}}
-{% endif %}
 
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
@@ -32,6 +29,9 @@
 {% endif %}
 
 <div id="main" role="main">
+{% if page.link %}
+{{page.link}}
+{% endif %}
   {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">

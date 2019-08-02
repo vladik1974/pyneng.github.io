@@ -120,4 +120,5 @@ permalink: /alumni/
 1. [Дамир Нугманов](https://pyneng.github.io/alumni/Damir_Nugmanov)
 2. [Виталий Бурбела](https://pyneng.github.io/alumni/Vitaliy_Burbela)
 3. [Михаил Гарин](https://pyneng.github.io/alumni/Mikhail_Garin)
+4. [Сергей Лукин](https://pyneng.github.io/alumni/Sergey_Lukin)
 

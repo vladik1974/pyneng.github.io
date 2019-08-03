@@ -130,7 +130,7 @@ excerpt: "Программа курса"
     <td rowspan="2" align="center">11</td>
     <td align="center">15</td>
     <td align="center">03.08.19</td>
-    <td>Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-7/lecture-15">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</a></td>
     <td align="center">6 (21_jinja2)</td>
     <td align="center">21.1, 21.2, 21.3</td>
  </tr>

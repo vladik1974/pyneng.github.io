@@ -8,6 +8,8 @@ main:
     url: /testimonials/
   - title: "Преподаватель"
     url: /about/
+  - title: "Записаться на курс"
+    url: https://natenka.github.io/pyneng-online/
 docs:
   - title: Основные ресурсы
     children:

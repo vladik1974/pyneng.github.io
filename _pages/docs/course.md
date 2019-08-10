@@ -145,7 +145,7 @@ excerpt: "Программа курса"
     <td rowspan="2" align="center">12</td>
     <td align="center">17</td>
     <td align="center">10.08.19</td>
-    <td>ООП. Основы (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-7/lecture-17">ООП. Основы (3ч)</a></td>
     <td align="center">9 (все 25_oop_basics)</td>
     <td align="center">25.1, 25.1a, 25.1b, 25.2, 25.2a</td>
  </tr>

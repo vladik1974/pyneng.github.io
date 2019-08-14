@@ -125,4 +125,5 @@ permalink: /alumni/
 5. [Алексей Никитин](https://pyneng.github.io/alumni/Alexey_Nikitin)
 6. [Руслан Фомин](https://pyneng.github.io/alumni/Ruslan_Fomin)
 7. **[Егор Гомзин](https://pyneng.github.io/alumni/Egor_Gomzin)**
+7. [Максим Алов](https://pyneng.github.io/alumni/Maksim_Alov)
 

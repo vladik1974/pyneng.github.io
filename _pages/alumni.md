@@ -42,7 +42,7 @@ permalink: /alumni/
 2. [Дмитрий Шмидт](https://pyneng.github.io/alumni/Dmitriy_Shmidt)
 3. [Алексей Кузик](https://pyneng.github.io/alumni/Alexey_Kuzik)
 4. **[Евгений Титовец](https://pyneng.github.io/alumni/Evgeny_Titovets)**
-5. [Алексей Сидоров](https://pyneng.github.io/alumni/Alexey_Sidorov)
+5. **[Алексей Сидоров](https://pyneng.github.io/alumni/Alexey_Sidorov)**
 6. [Владимир Линд](https://pyneng.github.io/alumni/Vladimir_Lind)
 7. **[Александр Патоцкий](https://pyneng.github.io/alumni/Aliksandr_Patotski)**
 8. [Андрей Ельник](https://pyneng.github.io/alumni/Andy_Yelnik)

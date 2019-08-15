@@ -38,12 +38,12 @@ permalink: /alumni/
 
 ## PyNEng online 4. 13.01.18 - 07.04.18
 
-1. [Михаил Сытьков](https://pyneng.github.io/alumni/Mikhail_Sytkov)
+1. **[Михаил Сытьков](https://pyneng.github.io/alumni/Mikhail_Sytkov)**
 2. [Дмитрий Шмидт](https://pyneng.github.io/alumni/Dmitriy_Shmidt)
 3. [Алексей Кузик](https://pyneng.github.io/alumni/Alexey_Kuzik)
 4. **[Евгений Титовец](https://pyneng.github.io/alumni/Evgeny_Titovets)**
 5. **[Алексей Сидоров](https://pyneng.github.io/alumni/Alexey_Sidorov)**
-6. [Владимир Линд](https://pyneng.github.io/alumni/Vladimir_Lind)
+6. **[Владимир Линд](https://pyneng.github.io/alumni/Vladimir_Lind)**
 7. **[Александр Патоцкий](https://pyneng.github.io/alumni/Aliksandr_Patotski)**
 8. [Андрей Ельник](https://pyneng.github.io/alumni/Andy_Yelnik)
 9. [Сергей Цверов](https://pyneng.github.io/alumni/Sergey_Tsverov)
@@ -52,7 +52,7 @@ permalink: /alumni/
 12. **[Андрей Гиль](https://pyneng.github.io/alumni/Andrew_Gill)**
 13. [Андрей Невоструев](https://pyneng.github.io/alumni/Andrei_Nevostruev)
 14. [Азамат Хакимьянов](https://pyneng.github.io/alumni/Azamat_Khakimyanov)
-15. [Артём Григорьев](https://pyneng.github.io/alumni/Artem_Grigoriev)
+15. **[Артём Григорьев](https://pyneng.github.io/alumni/Artem_Grigoriev)**
 16. [Георгий Владимиров](https://pyneng.github.io/alumni/Georgij_Vladimirov)
 17. [Андрей Мига](https://pyneng.github.io/alumni/Andrej_Miga)
 

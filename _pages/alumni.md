@@ -60,7 +60,7 @@ permalink: /alumni/
 
 1. **[Виктор Машеров](https://pyneng.github.io/alumni/Viktor_Masherov)**
 2. **[Александр Горбунов](https://pyneng.github.io/alumni/Aleksandr_Gorbunov)**
-3. [Сергей Афанасьев](https://pyneng.github.io/alumni/Sergey_Afanasyev)
+3. **[Сергей Афанасьев](https://pyneng.github.io/alumni/Sergey_Afanasyev)**
 4. [Сергей Лысенко](https://pyneng.github.io/alumni/Sergey_Lysenko)
 5. **[Олег Бухалов](https://pyneng.github.io/alumni/Oleg_Bukhalov)**
 6. [Дмитрий Кабак](https://pyneng.github.io/alumni/Dmytro_Kabak)

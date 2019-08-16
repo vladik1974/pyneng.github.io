@@ -17,6 +17,7 @@ comments: false
 6. [Руслан Фомин](https://pyneng.github.io/alumni/Ruslan_Fomin)
 7. **[Егор Гомзин](https://pyneng.github.io/alumni/Egor_Gomzin)**
 8. [Максим Алов](https://pyneng.github.io/alumni/Maksim_Alov)
+9. [Сергей Куликов](https://pyneng.github.io/alumni/Sergei_Kulikov)
 
 ## PyNEng online 6. 12.01.19 - 20.04.19
 

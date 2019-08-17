@@ -19,6 +19,7 @@ comments: false
 8. [Максим Алов](https://pyneng.github.io/alumni/Maksim_Alov)
 9. [Сергей Куликов](https://pyneng.github.io/alumni/Sergei_Kulikov)
 10. [Алексей Хотулев](https://pyneng.github.io/alumni/Alexey_Khotulev)
+11. [Евгений Зайка](https://pyneng.github.io/alumni/Eugene_Zayka)
 
 ## PyNEng online 6. 12.01.19 - 20.04.19
 

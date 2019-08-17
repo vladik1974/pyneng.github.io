@@ -1,5 +1,5 @@
 ---
-title: "Alexey_Khotulev"
+title: "Alexey Khotulev"
 permalink: /alumni/Alexey_Khotulev
 author_profile: false
 comments: false

@@ -22,6 +22,7 @@ comments: false
 11. [Евгений Зайка](https://pyneng.github.io/alumni/Eugene_Zayka)
 12. [Денис Губин](https://pyneng.github.io/alumni/Denis_Gubin)
 13. [Андрей Соколов](https://pyneng.github.io/alumni/Andrey_Sokolov)
+14. [Алексей Леонтьев](https://pyneng.github.io/alumni/Alexey_Leontiev)
 
 ## PyNEng online 6. 12.01.19 - 20.04.19
 

@@ -24,6 +24,7 @@ comments: false
 13. [Андрей Соколов](https://pyneng.github.io/alumni/Andrey_Sokolov)
 14. [Алексей Леонтьев](https://pyneng.github.io/alumni/Alexey_Leontiev)
 15. [Юлия Кудряшова](https://pyneng.github.io/alumni/Yuliya_Kudryashova)
+16. [Роман Гусев](https://pyneng.github.io/alumni/Roman_Gusev)
 
 ## PyNEng online 6. 12.01.19 - 20.04.19
 

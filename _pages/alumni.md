@@ -10,25 +10,28 @@ comments: false
 ## PyNEng online 7. 25.05.19 - 24.08.19
 
 1. [Дамир Нугманов](https://pyneng.github.io/alumni/Damir_Nugmanov)
-2. **[Виталий Бурбела](https://pyneng.github.io/alumni/Vitaliy_Burbela)**
-3. **[Михаил Гарин](https://pyneng.github.io/alumni/Mikhail_Garin)**
-4. **[Сергей Лукин](https://pyneng.github.io/alumni/Sergey_Lukin)**
-5. [Алексей Никитин](https://pyneng.github.io/alumni/Alexey_Nikitin)
-6. [Руслан Фомин](https://pyneng.github.io/alumni/Ruslan_Fomin)
-7. **[Егор Гомзин](https://pyneng.github.io/alumni/Egor_Gomzin)**
-8. [Максим Алов](https://pyneng.github.io/alumni/Maksim_Alov)
-9. [Сергей Куликов](https://pyneng.github.io/alumni/Sergei_Kulikov)
-10. [Алексей Хотулев](https://pyneng.github.io/alumni/Alexey_Khotulev)
-11. [Евгений Зайка](https://pyneng.github.io/alumni/Eugene_Zayka)
-12. [Денис Губин](https://pyneng.github.io/alumni/Denis_Gubin)
-13. [Андрей Соколов](https://pyneng.github.io/alumni/Andrey_Sokolov)
-14. [Алексей Леонтьев](https://pyneng.github.io/alumni/Alexey_Leontiev)
-15. [Юлия Кудряшова](https://pyneng.github.io/alumni/Yuliya_Kudryashova)
-16. [Роман Гусев](https://pyneng.github.io/alumni/Roman_Gusev)
-17. [Дмитрий Тихонов](https://pyneng.github.io/alumni/Dmitriy_Tikhonov)
-18. **[Виталий Нестеров](https://pyneng.github.io/alumni/Vitaly_Nesterov)**
-19. [Дмитрий Алтухов](https://pyneng.github.io/alumni/Dmitrii_Altukhov)
-20. [Дмитрий Владимиров](https://pyneng.github.io/alumni/Dmitry_Vladimirov)
+2. **[Кайрат Ниссанов](https://pyneng.github.io/alumni/Kairat_Nissanov)**
+3. **[Виталий Бурбела](https://pyneng.github.io/alumni/Vitaliy_Burbela)**
+4. **[Михаил Гарин](https://pyneng.github.io/alumni/Mikhail_Garin)**
+5. **[Сергей Лукин](https://pyneng.github.io/alumni/Sergey_Lukin)**
+6. [Алексей Никитин](https://pyneng.github.io/alumni/Alexey_Nikitin)
+7. [Руслан Фомин](https://pyneng.github.io/alumni/Ruslan_Fomin)
+8. **[Егор Гомзин](https://pyneng.github.io/alumni/Egor_Gomzin)**
+9. [Максим Алов](https://pyneng.github.io/alumni/Maksim_Alov)
+10. [Сергей Куликов](https://pyneng.github.io/alumni/Sergei_Kulikov)
+11. [Алексей Хотулев](https://pyneng.github.io/alumni/Alexey_Khotulev)
+12. [Евгений Зайка](https://pyneng.github.io/alumni/Eugene_Zayka)
+13. [Денис Губин](https://pyneng.github.io/alumni/Denis_Gubin)
+14. [Андрей Соколов](https://pyneng.github.io/alumni/Andrey_Sokolov)
+15. [Алексей Леонтьев](https://pyneng.github.io/alumni/Alexey_Leontiev)
+16. [Юлия Кудряшова](https://pyneng.github.io/alumni/Yuliya_Kudryashova)
+17. [Роман Гусев](https://pyneng.github.io/alumni/Roman_Gusev)
+18. [Дмитрий Тихонов](https://pyneng.github.io/alumni/Dmitriy_Tikhonov)
+19. **[Виталий Нестеров](https://pyneng.github.io/alumni/Vitaly_Nesterov)**
+20. [Дмитрий Алтухов](https://pyneng.github.io/alumni/Dmitrii_Altukhov)
+21. **[Максим Хайнацкий](https://pyneng.github.io/alumni/Maxim_Khainatskiy)**
+22. [Дмитрий Владимиров](https://pyneng.github.io/alumni/Dmitry_Vladimirov)
+
 
 
 ## PyNEng online 6. 12.01.19 - 20.04.19

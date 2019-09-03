@@ -25,6 +25,11 @@ comments: false
 14. [Алексей Леонтьев](https://pyneng.github.io/alumni/Alexey_Leontiev)
 15. [Юлия Кудряшова](https://pyneng.github.io/alumni/Yuliya_Kudryashova)
 16. [Роман Гусев](https://pyneng.github.io/alumni/Roman_Gusev)
+17. [Дмитрий Тихонов](https://pyneng.github.io/alumni/Dmitriy_Tikhonov)
+18. **[Виталий Нестеров](https://pyneng.github.io/alumni/Vitaly_Nesterov)**
+19. [Дмитрий Алтухов](https://pyneng.github.io/alumni/Dmitrii_Altukhov)
+20. [Дмитрий Владимиров](https://pyneng.github.io/alumni/Dmitry_Vladimirov)
+
 
 ## PyNEng online 6. 12.01.19 - 20.04.19
 

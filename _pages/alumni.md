@@ -10,7 +10,7 @@ comments: false
 ## PyNEng online 7. 25.05.19 - 24.08.19
 
 1. [Дамир Нугманов](https://pyneng.github.io/alumni/Damir_Nugmanov)
-2. **[Кайрат Ниссанов](https://pyneng.github.io/alumni/Kairat_Nissanov)**
+2. **[Кайрат Нисанов](https://pyneng.github.io/alumni/Kairat_Nissanov)**
 3. **[Виталий Бурбела](https://pyneng.github.io/alumni/Vitaliy_Burbela)**
 4. **[Михаил Гарин](https://pyneng.github.io/alumni/Mikhail_Garin)**
 5. **[Сергей Лукин](https://pyneng.github.io/alumni/Sergey_Lukin)**

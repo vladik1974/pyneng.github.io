@@ -1,8 +1,8 @@
 ---
-title: "Программа курса"
-permalink: /docs/course/
-excerpt: "Программа курса"
-comments: false
+title: "Ссылки по курсу PyNEng Online 7"
+permalink: /pyneng-online-7/
+sidebar:
+  nav: "docs"
 ---
 
 Все занятия начинаются в 7:00 UTC и, в зависимости от длительности занятия, заканчиваются в 9:00-11:00 UTC.

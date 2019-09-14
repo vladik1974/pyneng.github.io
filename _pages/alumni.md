@@ -15,7 +15,7 @@ comments: false
 4. **[Михаил Гарин](https://pyneng.github.io/alumni/Mikhail_Garin)**
 5. **[Сергей Лукин](https://pyneng.github.io/alumni/Sergey_Lukin)**
 6. [Алексей Никитин](https://pyneng.github.io/alumni/Alexey_Nikitin)
-7. [Руслан Фомин](https://pyneng.github.io/alumni/Ruslan_Fomin)
+7. **[Руслан Фомин](https://pyneng.github.io/alumni/Ruslan_Fomin)**
 8. **[Егор Гомзин](https://pyneng.github.io/alumni/Egor_Gomzin)**
 9. [Максим Алов](https://pyneng.github.io/alumni/Maksim_Alov)
 10. [Сергей Куликов](https://pyneng.github.io/alumni/Sergei_Kulikov)

@@ -32,6 +32,7 @@ comments: false
 21. **[Максим Хайнацкий](https://pyneng.github.io/alumni/Maksim_Khainatskiy)**
 22. [Дмитрий Владимиров](https://pyneng.github.io/alumni/Dmitry_Vladimirov)
 23. **[Алексей Дмитриев](https://pyneng.github.io/alumni/Alexei_Dmitriev)**
+24. [Алексей Леонов](https://pyneng.github.io/alumni/Alexey_Leonov)
 
 
 

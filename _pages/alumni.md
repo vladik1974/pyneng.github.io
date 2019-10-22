@@ -24,7 +24,7 @@ comments: false
 13. [Денис Губин](https://pyneng.github.io/alumni/Denis_Gubin)
 14. [Андрей Соколов](https://pyneng.github.io/alumni/Andrey_Sokolov)
 15. [Алексей Леонтьев](https://pyneng.github.io/alumni/Alexey_Leontiev)
-16. [Юлия Кудряшова](https://pyneng.github.io/alumni/Yuliya_Kudryashova)
+16. **[Юлия Кудряшова](https://pyneng.github.io/alumni/Yuliya_Kudryashova)**
 17. [Роман Гусев](https://pyneng.github.io/alumni/Roman_Gusev)
 18. [Дмитрий Тихонов](https://pyneng.github.io/alumni/Dmitriy_Tikhonov)
 19. **[Виталий Нестеров](https://pyneng.github.io/alumni/Vitaly_Nesterov)**

@@ -13,6 +13,8 @@ main:
 docs:
   - title: Основные ресурсы
     children:
+      - title: "Как учиться на курсе у Наташи Самойленко"
+        url: /docs/natasha/
       - title: "Программа курса"
         url: /docs/course/
       - title: Календарь

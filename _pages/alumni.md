@@ -36,6 +36,7 @@ comments: false
 25. [Вячеслав Мокин](https://pyneng.github.io/alumni/Vyacheslav_Mokin)
 26. **[Олег Олежек](https://pyneng.github.io/alumni/Oleh_Olezhek)**
 27. [Владимир Пономарев](https://pyneng.github.io/alumni/Vladimir_Ponomarev)
+28. **[Алексей Лукиных](https://pyneng.github.io/alumni/Aleksey_Lukinykh)**
 
 
 

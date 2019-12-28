@@ -39,6 +39,7 @@ comments: false
 28. **[Алексей Лукиных](https://pyneng.github.io/alumni/Aleksey_Lukinykh)**
 29. [Расул Ризванов](https://pyneng.github.io/alumni/Rasul_Rizvanov)
 30. **[Александр Розес](https://pyneng.github.io/alumni/Alexander_Rozes)**
+31. [Дмитрий Гончаров](https://pyneng.github.io/alumni/Dmitry_Goncharov)
 
 
 

@@ -77,6 +77,7 @@ comments: false
 29. **[Таисия Тисленко](https://pyneng.github.io/alumni/Taisiya_Tislenko)**
 30. [Сергей Костин](https://pyneng.github.io/alumni/Sergey_Kostin)
 31. **[Антон Зайчик](https://pyneng.github.io/alumni/Anton_Zaychik)**
+32. [Николай Мишко](https://pyneng.github.io/alumni/Nikolay_Mishko)
 
 ## PyNEng online 5. 16.06.18 - 13.10.18
 

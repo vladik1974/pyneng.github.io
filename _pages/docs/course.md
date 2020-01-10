@@ -168,7 +168,7 @@ comments: false
  <tr>
     <td align="center">14</td>
     <td align="center">20</td>
-    <td align="center">24.08.20</td>
+    <td align="center">11.04.20</td>
     <td>Завершающая встреча (2ч)</td>
     <td align="center">-</td>
     <td align="center">-</td>

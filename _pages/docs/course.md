@@ -102,7 +102,7 @@ comments: false
     <td align="center">29.02.20</td>
     <td>Обработка данных в форматах YAML, JSON, CSV (3ч)</td>
     <td align="center">4 (17_serialization)</td>
-    <td align="center">17.1, 17.2, 17.2a</td>
+    <td align="center">17.1, 17.2, 17.3</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">9</td>

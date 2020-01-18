@@ -31,6 +31,8 @@ docs:
         url: /docs/git-github-course/
       - title: Репозиторий курса
         url: /docs/pyneng-github/
+      - title: Редактор Mu
+        url: /docs/mu/
       - title: Slack
         url: /docs/slack/
       - title: Проверка заданий pytest

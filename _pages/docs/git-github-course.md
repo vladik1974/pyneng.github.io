@@ -26,4 +26,6 @@ excerpt: "Git and GitHub"
 * [на github](https://pyneng.github.io/docs/task-check-github/)
 * [в командной строке](https://pyneng.github.io/docs/checked-tasks-git/)
 
+Как разобраться с конфликтом
 
+* [как разобраться с конфликтом](https://pyneng.github.io/docs/git-conflict/)

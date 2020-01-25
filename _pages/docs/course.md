@@ -23,7 +23,7 @@ comments: false
     <td align="center">1</td>
     <td align="center">1</td>
     <td align="center">11.01.20</td>
-    <td>Вводная лекция: О курсе (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/welcome/">Вводная лекция: О курсе (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>
@@ -31,7 +31,7 @@ comments: false
     <td align="center">2</td>
     <td align="center">2</td>
     <td align="center">18.01.20</td>
-    <td>Инструменты(3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/tools">Инструменты(3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>
@@ -39,7 +39,7 @@ comments: false
     <td rowspan="2" align="center">3</td>
     <td align="center">3</td>
     <td align="center">25.01.20</td>
-    <td>Основы. Типы данных в Python (4ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-3">Основы. Типы данных в Python (4ч)</a></td>
     <td align="center">4.1, 4.2</td>
     <td align="center">4.1, 4.2</td>
  </tr>

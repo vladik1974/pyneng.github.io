@@ -23,7 +23,7 @@ comments: false
     <td align="center">1</td>
     <td align="center">1</td>
     <td align="center">11.01.20</td>
-    <td><a href="https://pyneng.github.io/pyneng-8/welcome/">Вводная лекция: О курсе (2ч)</a></td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-1/">Вводная лекция: О курсе (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

@@ -31,7 +31,7 @@ comments: false
     <td align="center">2</td>
     <td align="center">2</td>
     <td align="center">18.01.20</td>
-    <td><a href="https://pyneng.github.io/pyneng-8/tools">Инструменты(3ч)</a></td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-2">Инструменты(3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

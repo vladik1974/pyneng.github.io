@@ -46,7 +46,7 @@ comments: false
  <tr>
     <td align="center">4</td>
     <td align="center">26.01.20</td>
-    <td>Типы данных в Python (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-4">Типы данных в Python (3ч)</a></td>
     <td align="center">18 (04_data_structures, 05_basic_scripts)</td>
     <td align="center">4.3, 4.6, 5.1, 5.1a, 5.2, 5.2a</td>
  </tr>

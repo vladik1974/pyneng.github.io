@@ -14,6 +14,21 @@ excerpt: "mu"
 * [Использование debugger в  Mu](https://youtu.be/s9Lskg37xss)
 
 
+## Открыть Mu
+
+Открыть Mu:
+
+```
+mu-editor
+```
+
+Открыть какойєто файл в Mu:
+```
+mu-editor task_4_1.py
+```
+
+Или нажать "Load" в графическом интерфейсе.
+
 ## Полезные ссылки
 
 * [Keyboard Shortcuts](https://codewith.mu/en/tutorials/1.0/shortcuts)

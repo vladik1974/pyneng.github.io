@@ -54,7 +54,7 @@ comments: false
     <td align="center">4</td>
     <td align="center">5</td>
     <td align="center">01.02.20</td>
-    <td>Управление ходом программы. Работа с файлами (4ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-5">Управление ходом программы. Работа с файлами (4ч)</a></td>
     <td align="center">13 (06_control_structures, 07_files)</td>
     <td align="center">6.1, 6.2, 6.3, 7.1, 7.2, 7.3</td>
  </tr>

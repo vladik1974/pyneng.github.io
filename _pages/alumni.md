@@ -10,6 +10,7 @@ comments: false
 ## PyNEng online 8. 11.01.20 - 11.04.20
 
 1. **[Сергей Орлик](https://pyneng.github.io/alumni/Sergey_Orlik)**
+2. [Павел Шеметов](https://pyneng.github.io/alumni/Pavel_Shemetov)
 
 ## PyNEng online 7. 25.05.19 - 24.08.19
 

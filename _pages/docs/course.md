@@ -77,14 +77,14 @@ comments: false
     <td rowspan="2" align="center">6</td>
     <td align="center">8</td>
     <td align="center">15.02.20</td>
-    <td>Регулярные выражения (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-8">Регулярные выражения (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">9</td>
     <td align="center">16.02.20</td>
-    <td>Модуль re (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-9">Модуль re (3ч)</a></td>
     <td align="center">8 (15_module_re)</td>
     <td align="center">15.1, 15.2, 15.3, 15.4</td>
  </tr>
@@ -92,7 +92,7 @@ comments: false
     <td align="center">7</td>
     <td align="center">10</td>
     <td align="center">22.02.20</td>
-    <td>Unicode (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-10">Unicode (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

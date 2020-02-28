@@ -11,6 +11,8 @@ comments: false
 
 1. **[Сергей Орлик](https://pyneng.github.io/alumni/Sergey_Orlik)**
 2. [Павел Шеметов](https://pyneng.github.io/alumni/Pavel_Shemetov)
+3. **[Николай Абросимов](https://pyneng.github.io/alumni/Nikolay_Abrosimov)**
+4. **[Андрей Колов](https://pyneng.github.io/alumni/Andrey_Kolov)**
 
 ## PyNEng online 7. 25.05.19 - 24.08.19
 

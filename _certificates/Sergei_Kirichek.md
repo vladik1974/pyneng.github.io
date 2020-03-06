@@ -1,5 +1,5 @@
---
-title: "Sergei  Kirichek"
+---
+title: "Sergei Kirichek"
 permalink: /alumni/Sergei_Kirichek
 author_profile: false
 comments: false

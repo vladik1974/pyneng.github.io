@@ -108,14 +108,14 @@ comments: false
     <td rowspan="2" align="center">9</td>
     <td align="center">12</td>
     <td align="center">07.03.20</td>
-    <td>Подключение к сетевым устройствам (Telnet, SSH) (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-12">Подключение к сетевым устройствам (Telnet, SSH) (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">13</td>
     <td align="center">08.03.20</td>
-    <td>Подключение к сетевым устройствам (Telnet, SSH) (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-13">Подключение к сетевым устройствам (Telnet, SSH) (2ч)</a></td>
     <td align="center">8 (19_ssh_telnet)</td>
     <td align="center">19.1, 19.1a, 19.2, 19.2a, 19.2b, 19.3</td>
  </tr>
@@ -123,7 +123,7 @@ comments: false
     <td align="center">10</td>
     <td align="center">14</td>
     <td align="center">14.03.20</td>
-    <td>Параллельное подключение к оборудованию (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-14">Параллельное подключение к оборудованию (3ч)</a></td>
     <td align="center">5 (20_concurrent_connections)</td>
     <td align="center">20.1, 20.2, 20.3</td>
  </tr>

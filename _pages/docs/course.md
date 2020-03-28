@@ -131,14 +131,14 @@ comments: false
     <td rowspan="2" align="center">11</td>
     <td align="center">15</td>
     <td align="center">21.03.20</td>
-    <td>Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-15">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</a></td>
     <td align="center">6 (21_jinja2)</td>
     <td align="center">21.1, 21.2, 21.3</td>
  </tr>
  <tr>
     <td align="center">16</td>
     <td align="center">22.03.20</td>
-    <td>Обработка вывода команд с помощью TextFSM (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-16">Обработка вывода команд с помощью TextFSM (3ч)</a></td>
     <td align="center">6 (22_textfsm)</td>
     <td align="center">22.1, 22.1a, 22.2, 22.3, 22.4</td>
  </tr>
@@ -146,7 +146,7 @@ comments: false
     <td rowspan="2" align="center">12</td>
     <td align="center">17</td>
     <td align="center">28.03.20</td>
-    <td>ООП. Основы (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-17">ООП. Основы (3ч)</a></td>
     <td align="center">9 (все 25_oop_basics)</td>
     <td align="center">25.1, 25.1a, 25.1b, 25.2, 25.2a</td>
  </tr>

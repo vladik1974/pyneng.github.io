@@ -153,7 +153,7 @@ comments: false
  <tr>
     <td align="center">18</td>
     <td align="center">29.03.20</td>
-    <td>ООП. Специальные методы (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-18">ООП. Специальные методы (2ч)</a></td>
     <td align="center">5 (все 26_oop_spec_methods)</td>
     <td align="center">26.1, 26.1a, 26.2</td>
  </tr> 

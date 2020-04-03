@@ -14,6 +14,7 @@ comments: false
 3. **[Николай Абросимов](https://pyneng.github.io/alumni/Nikolay_Abrosimov)**
 4. **[Андрей Колов](https://pyneng.github.io/alumni/Andrey_Kolov)**
 5. **[Сергей Киричек](https://pyneng.github.io/alumni/Sergei_Kirichek)**
+6. [Олег Босюк](https://pyneng.github.io/alumni/Oleh_Bosiuk)
 
 ## PyNEng online 7. 25.05.19 - 24.08.19
 

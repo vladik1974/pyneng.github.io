@@ -22,6 +22,7 @@ comments: false
 11. [Егор Залицкий](https://pyneng.github.io/alumni/Egor_Zalitskiy)
 12. **[Федор Редечкин](https://pyneng.github.io/alumni/Fedor_Redechkin)**
 13. **[Евгений Спасских](https://pyneng.github.io/alumni/Evgeniy_Spasskikh)**
+14. **[Олег Ушакин](https://pyneng.github.io/alumni/Oleg_Ushakin)**
 
 ## PyNEng online 7. 25.05.19 - 24.08.19
 

@@ -23,6 +23,7 @@ comments: false
 12. **[Федор Редечкин](https://pyneng.github.io/alumni/Fedor_Redechkin)**
 13. **[Евгений Спасских](https://pyneng.github.io/alumni/Evgeniy_Spasskikh)**
 14. **[Олег Ушакин](https://pyneng.github.io/alumni/Oleg_Ushakin)**
+15. **[Александр Шевчук](https://pyneng.github.io/alumni/Alexander_Shevchuk)**
 
 ## PyNEng online 7. 25.05.19 - 24.08.19
 

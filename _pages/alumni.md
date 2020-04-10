@@ -20,6 +20,7 @@ comments: false
 9. [Александр Широков](https://pyneng.github.io/alumni/Alexander_Shirokov)
 10. **[Дмитрий Бубнов](https://pyneng.github.io/alumni/Dmitry_Bubnov)**
 11. [Егор Залицкий](https://pyneng.github.io/alumni/Egor_Zalitskiy)
+12. **[Федор Редечкин](https://pyneng.github.io/alumni/Fedor_Redechkin)**
 
 ## PyNEng online 7. 25.05.19 - 24.08.19
 

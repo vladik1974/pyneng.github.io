@@ -25,6 +25,7 @@ comments: false
 14. **[Олег Ушакин](https://pyneng.github.io/alumni/Oleg_Ushakin)**
 15. **[Александр Шевчук](https://pyneng.github.io/alumni/Alexander_Shevchuk)**
 16. [Виктор Кавецкий](https://pyneng.github.io/alumni/Viktor_Kavetskiy)
+17. [Антон Попов](https://pyneng.github.io/alumni/Anton_Popov)
 
 ## PyNEng online 7. 25.05.19 - 24.08.19
 

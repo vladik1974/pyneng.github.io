@@ -18,6 +18,7 @@ comments: false
 7. **[Лев Щекалев](https://pyneng.github.io/alumni/Lev_Shchekalev)**
 8. **[Павел Буцик](https://pyneng.github.io/alumni/Pavel_Butsik)**
 9. [Александр Широков](https://pyneng.github.io/alumni/Alexander_Shirokov)
+10. **[Дмитрий Бубнов](https://pyneng.github.io/alumni/Dmitry_Bubnov)**
 
 ## PyNEng online 7. 25.05.19 - 24.08.19
 

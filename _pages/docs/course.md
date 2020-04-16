@@ -161,7 +161,7 @@ comments: false
     <td align="center">13</td>
     <td align="center">19</td>
     <td align="center">04.04.20</td>
-    <td>ООП. Наследование (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-19">ООП. Наследование (3ч)</a></td>
     <td align="center">7 (все 27_oop_inheritance)</td>
     <td align="center">27.1, 27.2, 27.2a</td>
  </tr> 
@@ -169,7 +169,7 @@ comments: false
     <td align="center">14</td>
     <td align="center">20</td>
     <td align="center">11.04.20</td>
-    <td>Завершающая встреча (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-8/lecture-20">Завершающая встреча (2ч)</td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>  

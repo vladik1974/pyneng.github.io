@@ -8,7 +8,7 @@ permalink: /
   {% capture month %}{{ post.date | date: '%m' }}{% endcapture %}
   {% capture day %}{{ post.date | date: '%d' }}{% endcapture %}
   {% capture category %}{{ post.category }}{% endcapture %}
-  {% if year == '2020' and month >= '04' and category != "pyneng-8" %}
+  {% if year == '2020' and month >= '04' and category == "pyneng-9" %}
   {% include archive-single.html %}
   {% endif %}
 {% endfor %}

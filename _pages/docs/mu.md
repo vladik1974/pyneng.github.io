@@ -63,3 +63,34 @@ pip install mu-editor
 Mu читает файлы с данными из специального каталога mu_code, который находится в домашнем каталоге пользователя.
 Если необходимо читать файлы из других каталогов, надо указывать полный путь к файлу.
 
+[Изменение каталога по умолчанию](https://codewith.mu/en/tutorials/1.0/configuration).
+
+## Настройка приложения в Debian
+
+```
+cd /usr/share/applications
+```
+
+Добавить в файл mu.editor.desktop:
+```
+[Desktop Entry]
+Name=mu-editor
+Comment=Simple Python editor
+Exec=mu-editor
+Icon=/usr/share/pixmaps/mu.png
+Terminal=false
+Type=Application
+MimeType=text/plain
+Categories=GTK;Development;TextEditor;
+Keywords=Python;text;editor;
+InitialPreference=6
+```
+
+Добавить иконку
+```
+cd /usr/share/pixmaps
+sudo wget https://codewith.mu/img/brand.png
+sudo mv brand.png mu.png
+```
+
+[Source](https://madewith.mu/mu/users/2019/04/11/crossing-river-feeling-stones.html).

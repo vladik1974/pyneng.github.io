@@ -33,7 +33,7 @@ comments: false
 22. [Максим Морозов](https://pyneng.github.io/alumni/Maksim_Morozov)
 23. [Никита Щинников](https://pyneng.github.io/alumni/Nikita_Schinnikov)
 24. **[Вадим Павлухин](https://pyneng.github.io/alumni/Vadim_Pavlukhin)**
-25. [Лилия Метелёва](https://pyneng.github.io/alumni/)
+25. [Лилия Метелёва](https://pyneng.github.io/alumni/Liliia_Meteleva)
 26. **[Сергей Казанцев](https://pyneng.github.io/alumni/Sergei_Kazantsev)**
 27. **[Алексей Старовойтов](https://pyneng.github.io/alumni/Aleksey_Starovoitov)**
 28. [Андрей Александров](https://pyneng.github.io/alumni/Andrey_Alexandrov)

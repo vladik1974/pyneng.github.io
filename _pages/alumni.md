@@ -31,6 +31,12 @@ comments: false
 20. [Сергей Федоров](https://pyneng.github.io/alumni/Sergey_Fedorov)
 21. **[Айдар Хайруллин](https://pyneng.github.io/alumni/Aidar_Khairullin)**
 22. [Максим Морозов](https://pyneng.github.io/alumni/Maksim_Morozov)
+23. [Никита Щинников](https://pyneng.github.io/alumni/)
+24. **[Вадим Павлухин](https://pyneng.github.io/alumni/)**
+25. [Лилия Метелёва](https://pyneng.github.io/alumni/)
+26. **[Сергей Казанцев](https://pyneng.github.io/alumni/)**
+27. **[Алексей Старовойтов](https://pyneng.github.io/alumni/)**
+28. [Андрей Александров](https://pyneng.github.io/alumni/)
 
 ## PyNEng online 7. 25.05.19 - 24.08.19
 

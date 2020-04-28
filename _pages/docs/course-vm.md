@@ -27,6 +27,6 @@ permalink: /docs/course-vm/
 
 ## Подготовка виртуальной машины/хоста самостоятельно
 
-* [Инструкция для подготовки Linux](/docs/linux_course/)
-* [Инструкция для подготовки Windows](/docs/windows_course/)
+* [Инструкция для подготовки Linux](/docs/pynenglinux/)
+* [Инструкция для подготовки Windows](/docs/pynengwindows/)
 

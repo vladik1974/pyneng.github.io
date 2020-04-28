@@ -1,6 +1,6 @@
 ---
 title: "Подготовка Windows для работы на курсе"
-permalink: /docs/windows-course/
+permalink: /docs/pynengwindows/
 ---
 
 ## Установка Python 3.7

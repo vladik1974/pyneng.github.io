@@ -1,6 +1,6 @@
 ---
 title: "Подготовка Windows для работы на курсе"
-permalink: /docs/linux-course/
+permalink: /docs/windows-course/
 ---
 
 ## Установка Python 3.7

@@ -3,6 +3,9 @@ title: "Подготовка Windows для работы на курсе"
 permalink: /docs/pynengwindows/
 ---
 
+До курса нужно только установить Python и Cmder!
+Остальное это шпаргалка с нюансами работы на Windows.
+
 ## Установка Python 3.7
 
 Скачать и установить [Python 3.7](https://www.python.org/downloads/release/python-377/).

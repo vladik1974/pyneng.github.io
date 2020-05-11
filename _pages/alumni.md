@@ -41,6 +41,14 @@ comments: false
 30. [Сергей Праведников](https://pyneng.github.io/alumni/Sergey_Pravednikov)
 31. **[Артем Агаян](https://pyneng.github.io/alumni/Artem_Agayan)**
 32. **[Сергей Новицкий](https://pyneng.github.io/alumni/Sergey_Nowitzki)**
+33. [Аркадий Крылов](https://pyneng.github.io/alumni/Arkadii_Krylov)
+34. **[Евгений Кулагин](https://pyneng.github.io/alumni/Evgeniy_Kulagin)**
+35. [> Александр Малышев](https://pyneng.github.io/alumni/)
+36. [Артем Козлов](https://pyneng.github.io/alumni/Artem_Kozlov)
+37. [> Назар Троценко](https://pyneng.github.io/alumni/)
+38. **[Геннадий Тарада](https://pyneng.github.io/alumni/Gennadiy_Tarada)**
+39. [Александр Шутов](https://pyneng.github.io/alumni/Alexander_Shutov)
+
 
 ## PyNEng online 7. 25.05.19 - 24.08.19
 

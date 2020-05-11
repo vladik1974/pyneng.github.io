@@ -45,7 +45,7 @@ comments: false
 34. **[Евгений Кулагин](https://pyneng.github.io/alumni/Evgeniy_Kulagin)**
 35. [> Александр Малышев](https://pyneng.github.io/alumni/)
 36. [Артем Козлов](https://pyneng.github.io/alumni/Artem_Kozlov)
-37. [> Назар Троценко](https://pyneng.github.io/alumni/)
+37. [Назар Троценко](https://pyneng.github.io/alumni/Nazar_Trotsenko)
 38. **[Геннадий Тарада](https://pyneng.github.io/alumni/Gennadiy_Tarada)**
 39. [Александр Шутов](https://pyneng.github.io/alumni/Alexander_Shutov)
 

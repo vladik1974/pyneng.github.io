@@ -48,6 +48,7 @@ comments: false
 37. [Назар Троценко](https://pyneng.github.io/alumni/Nazar_Trotsenko)
 38. **[Геннадий Тарада](https://pyneng.github.io/alumni/Gennadiy_Tarada)**
 39. [Александр Шутов](https://pyneng.github.io/alumni/Alexander_Shutov)
+40. [Александр Малышев](https://pyneng.github.io/alumni/Alexander_Malyshev)
 
 
 ## PyNEng online 7. 25.05.19 - 24.08.19

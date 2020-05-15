@@ -83,6 +83,6 @@ code to paste
 
 Или выбрав форматирование в slack:
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/slack_add_code_block.png.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/slack_add_code_block.png)
 
 Такой вариант лучше использовать для небольших кусков кода.

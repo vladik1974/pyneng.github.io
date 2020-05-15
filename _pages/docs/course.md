@@ -61,14 +61,14 @@ comments: false
     <td rowspan="2" align="center">4</td>
     <td align="center">6</td>
     <td align="center">06.06.20</td>
-    <td>Управление ходом программы. Работа с файлами (4ч)</td>
+    <td>Управление ходом программы. Работа с файлами (3ч)</td>
     <td align="center">5 (06_control_structures, 07_files)</td>
     <td align="center">6.1, 6.2, 6.3</td>
  </tr>
  <tr>
     <td align="center">7</td>
     <td align="center">07.06.20</td>
-    <td>Работа с файлами (4ч)</td>
+    <td>Работа с файлами (2ч)</td>
     <td align="center">8 (07_files)</td>
     <td align="center">7.1, 7.2, 7.3</td>
  </tr>

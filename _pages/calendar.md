@@ -11,4 +11,4 @@ excerpt: "Расписание лекций"
 > Если вы добавите этот календарь в свои календари, все события будут в вашем локальном часовом поясе.
 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=ddaq9v3kmicpn4d350316f90go%40group.calendar.google.com&ctz=UTC" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=bckk6uvl0124oddr14005n42fs%40group.calendar.google.com&ctz=UTC" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

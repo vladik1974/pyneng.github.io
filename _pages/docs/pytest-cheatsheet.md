@@ -55,13 +55,13 @@ platform linux -- Python 3.6.3, pytest-4.6.2, py-1.5.2, pluggy-0.12.0
 rootdir: /home/vagrant/repos/pyneng-7/pyneng-online-may-aug-2019/exercises/09_functions
 collected 21 items
 
-test_task_9_1.py ..F                         [ 14%]
-test_task_9_1a.py FFF                        [ 28%]
-test_task_9_2.py FFF                         [ 42%]
-test_task_9_2a.py FFF                        [ 57%]
-test_task_9_3.py FFF                         [ 71%]
-test_task_9_3a.py FFF                        [ 85%]
-test_task_9_4.py FFF                         [100%]
+test_task_9_1.py ..F                                       [ 14%]
+test_task_9_1a.py FFF                                      [ 28%]
+test_task_9_2.py FFF                                       [ 42%]
+test_task_9_2a.py FFF                                      [ 57%]
+test_task_9_3.py FFF                                       [ 71%]
+test_task_9_3a.py FFF                                      [ 85%]
+test_task_9_4.py FFF                                       [100%]
 
 ...
 ```
@@ -74,9 +74,16 @@ $ pytest --tb=line
 
 ## pytest-clarity
 
+Плагин pytest-clarity улучшает отображение отличий необходимого результата с решением задания.
+Его не обязательно использовать, но очень рекомендую попробовать.
+
+Установка:
 ```
 pip install pytest-clarity
 ```
+
+Плагин pytest-clarity отрабатывает только в том случае, когда тест вызывается с флагом `-vv`.
+Также по умолчанию у него довольно объемный вывод, поэтому лучше вызывать его с аргументом `--no-hints`:
 
 ```
 $ pytest test_task_9_3.py -vv --no-hints
@@ -89,31 +96,7 @@ test_task_9_3.py::test_function_return_value FAILED          [100%]
 ======================== FAILURES ==================================
 __________ test_function_return_value ______________________________
 
-    def test_function_return_value():
-        """
-        Проверка работы функции
-        """
-        correct_return_value = (
-            {
-                "FastEthernet0/0": 10,
-                "FastEthernet0/2": 20,
-                "FastEthernet1/0": 20,
-                "FastEthernet1/1": 30,
-            },
-            {
-                "FastEthernet0/1": [100, 200],
-                "FastEthernet0/3": [100, 300, 400, 500, 600],
-                "FastEthernet1/2": [400, 500, 600],
-            },
-        )
-
-        return_value = task_9_3.get_int_vlan_map("config_sw1.txt")
-        assert return_value != None, "Функция ничего не возвращает"
-        assert type(return_value) == tuple, f"По заданию функция должна возвращать кортеж, а возвращает {type(return_value).__name__}"
-        assert len(return_value) == 2 and all(
-            type(item) == dict for item in return_value
-        ), "Функция должна возвращать кортеж с двумя словарями"
-
+...
         access, trunk = return_value
 >       assert (
             return_value == correct_return_value
@@ -137,7 +120,7 @@ E             'FastEthernet1/2': [400, 500, 600]})
 test_task_9_3.py:59: AssertionError
 ```
 
-
+Так как агументы `-vv` и `--no-hints` надо постоянно передавать, можно запистаь их в pytest.ini:
 ```
 [pytest]
 addopts = -vv --no-hints

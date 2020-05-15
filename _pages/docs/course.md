@@ -66,7 +66,6 @@ comments: false
     <td align="center">6.1, 6.2, 6.3</td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">4</td>
     <td align="center">7</td>
     <td align="center">07.06.20</td>
     <td>Работа с файлами (4ч)</td>

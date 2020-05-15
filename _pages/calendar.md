@@ -6,7 +6,7 @@ excerpt: "Расписание лекций"
 
 В календаре отмечены все лекции курса (часовой пояс - UTC), а также настроены напоминания за час до лекции и за 1 день до лекции.
 
-Календарь в [формате ics](https://calendar.google.com/calendar/ical/ddaq9v3kmicpn4d350316f90go%40group.calendar.google.com/public/basic.ics).
+Календарь в [формате ics](https://calendar.google.com/calendar/ical/bckk6uvl0124oddr14005n42fs%40group.calendar.google.com/public/basic.ics).
 
 > Если вы добавите этот календарь в свои календари, все события будут в вашем локальном часовом поясе.
 

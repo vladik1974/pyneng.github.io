@@ -18,7 +18,7 @@ excerpt: "pytest"
 
 ## Короткая шпаргалка по pytest
 
-[Шпаркалка по pytest для курса](https://pyneng.github.io/docs/pytest-cheatsheet/)
+[Шпаргалка по pytest для курса](https://pyneng.github.io/docs/pytest-cheatsheet/)
 
 ## Основы pytest
 

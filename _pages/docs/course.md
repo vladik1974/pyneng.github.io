@@ -81,7 +81,7 @@ comments: false
     <td align="center">-</td>
  </tr>
  <tr>
-    <td align="center">7</td>
+    <td align="center">9</td>
     <td align="center">14.06.20</td>
     <td>Функции. Полезные функции (3ч)</td>
     <td align="center">8 (09_functions)</td>

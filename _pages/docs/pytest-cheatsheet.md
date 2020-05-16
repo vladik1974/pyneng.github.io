@@ -4,22 +4,6 @@ permalink: /docs/pytest-cheatsheet/
 excerpt: "pytest cheatsheet"
 ---
 
-Запуск тестов:
-
-```
-[~/repos/pyneng-7/pyneng-online-may-aug-2019/exercises/09_functions]
-vagrant: [master|✔]
-$ pytest test_task_9_1.py
-========================= test session starts ==========================
-platform linux -- Python 3.7.3, pytest-4.6.2, py-1.5.2, pluggy-0.12.0
-rootdir: /home/vagrant/repos/pyneng-7/pyneng-online-may-aug-2019/exercises/09_functions
-collected 3 items
-
-test_task_9_1.py ...                                       [100%]
-...
-```
-
-
 ### pytest.ini
 
 Это конфигурационный файл pytest.
@@ -35,7 +19,16 @@ addopts = -vv
 Запуск одного теста:
 
 ```
+[~/repos/pyneng-7/pyneng-online-may-aug-2019/exercises/09_functions]
+vagrant: [master|✔]
 $ pytest test_task_9_1.py
+========================= test session starts ==========================
+platform linux -- Python 3.7.3, pytest-4.6.2, py-1.5.2, pluggy-0.12.0
+rootdir: /home/vagrant/repos/pyneng-7/pyneng-online-may-aug-2019/exercises/09_functions
+collected 3 items
+
+test_task_9_1.py ...                                       [100%]
+...
 ```
 
 Запуск одного теста с более подробным выводом информации (показывает diff между данными в тесте и тем, что получено из функции):

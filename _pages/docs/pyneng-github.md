@@ -3,7 +3,7 @@ title: "Репозиторий курса"
 permalink: /docs/pyneng-github/
 ---
 
-В [репозитории курса](https://github.com/pyneng/pyneng-online-jan-apr-2020) выложены задания и примеры, которые будут рассматриваться на курсе.
+В [репозитории курса](https://github.com/pyneng/pyneng-online-9-may-aug-2020) выложены задания и примеры, которые будут рассматриваться на курсе.
 
 
 Перед тем, как читать дальше, прочитайте документы:
@@ -21,8 +21,8 @@ permalink: /docs/pyneng-github/
 
 Для копирования репозитория с GitHub, выполните команду git clone:
 ```
-$ git clone https://github.com/pyneng/pyneng-online-jan-apr-2020
-Cloning into 'pyneng-online-jan-apr-2020'...
+$ git clone https://github.com/pyneng/pyneng-online-9-may-aug-2020
+Cloning into 'pyneng-online-9-may-aug-2020'...
 remote: Counting objects: 500, done.
 remote: Compressing objects: 100% (41/41), done.
 remote: Total 500 (delta 20), reused 47 (delta 10), pack-reused 443
@@ -32,11 +32,11 @@ Resolving deltas: 100% (116/116), done.
 
 ### Обновление локальной копии репозитория
 
-При необходимости обновить локальную версию репозитория, чтобы синхронизировать её с версией на GitHub, надо выполнить git pull внутри созданного каталога pyneng-online-jan-apr-2020.
+При необходимости обновить локальную версию репозитория, чтобы синхронизировать её с версией на GitHub, надо выполнить git pull внутри созданного каталога pyneng-online-9-may-aug-2020.
 
 Если обновлений не было, вывод будет таким:
 ```
-$ cd pyneng-online-jan-apr-2020/
+$ cd pyneng-online-9-may-aug-2020/
 
 $ git pull
 Already up-to-date.
@@ -49,7 +49,7 @@ remote: Counting objects: 3, done.
 remote: Compressing objects: 100% (1/1), done.
 remote: Total 3 (delta 2), reused 3 (delta 2), pack-reused 0
 Unpacking objects: 100% (3/3), done.
-From https://github.com/pyneng/pyneng-online-jan-apr-2020
+From https://github.com/pyneng/pyneng-online-9-may-aug-2020
    49e9f1b..1eb82ad  master     -> origin/master
 Updating 49e9f1b..1eb82ad
 Fast-forward
@@ -75,10 +75,10 @@ index 8435c23..f6c1583 100644
 --- a/README.md
 +++ b/README.md
 @@ -7,5 +7,5 @@
- * [exercises](https://github.com/pyneng/pyneng-online-jan-apr-2020/tree/master/exercises) - домашние задания
- * [study](https://github.com/pyneng/pyneng-online-jan-apr-2020/tree/master/study) - ссылки и документы по обучению
--* [tools](https://github.com/pyneng/pyneng-online-jan-apr-2020/tree/master/tools) - howto по использованию инструментов курса (будут позже)
-+* [tools](https://github.com/pyneng/pyneng-online-jan-apr-2020/tree/master/tools) - PDF версии howto по использованию инструментов курса (будут позже)
+ * [exercises](https://github.com/pyneng/pyneng-online-9-may-aug-2020/tree/master/exercises) - домашние задания
+ * [study](https://github.com/pyneng/pyneng-online-9-may-aug-2020/tree/master/study) - ссылки и документы по обучению
+-* [tools](https://github.com/pyneng/pyneng-online-9-may-aug-2020/tree/master/tools) - howto по использованию инструментов курса (будут позже)
++* [tools](https://github.com/pyneng/pyneng-online-9-may-aug-2020/tree/master/tools) - PDF версии howto по использованию инструментов курса (будут позже)
 ```
 
 В этой команде флаг ```-p``` указывает, что мы хотим посмотреть diff изменений, а не только сообщение commit, а ```-1``` указывает, что надо показать только один commit (самый свежий).

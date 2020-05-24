@@ -1,7 +1,7 @@
 ---
 title: "Сетевое оборудование"
 permalink: /docs/network_devices/
-excerpt: "network"
+excerpt: "Настройка сетевого оборудования"
 ---
 
 Обратите внимание, что к 10 неделе курса, нужно подготовить виртуальное или реальное сетевое оборудование.
@@ -67,7 +67,7 @@ alias exec desc sh int desc | ex down
 alias exec bgp sh run | s ^router bgp
 ```
 
-[EEM applet](http://xgu.ru/wiki/Embedded_Event_Manager) для вывода команд, которые вводит пользователь:
+При желании можно настроить [EEM applet](http://xgu.ru/wiki/Embedded_Event_Manager) для вывода команд, которые вводит пользователь:
 ```
 !
 event manager applet COMM_ACC

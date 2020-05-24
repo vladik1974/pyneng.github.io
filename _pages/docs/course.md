@@ -31,14 +31,14 @@ comments: false
     <td rowspan="2" align="center">2</td>
     <td align="center">2</td>
     <td align="center">23.05.20</td>
-    <td>Инструменты(3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-9/lecture-2/">Инструменты (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">3</td>
     <td align="center">24.05.20</td>
-    <td>Выбор редактора. Основы Python (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-9/lecture-3/">Выбор редактора. Основы Python (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

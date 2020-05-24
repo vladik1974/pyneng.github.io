@@ -19,3 +19,8 @@ $ which python
 И копируем этот путь в Build > Set Build Commands > Execute commands > Execute:
 
 ![geany cfg](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/geany_set_build.png)
+
+
+### Настройка перехода в каталог файла в терминале
+
+![geany cfg](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/geany_terminal_follow_path.png)

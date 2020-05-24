@@ -33,6 +33,8 @@ docs:
         url: /docs/pyneng-github/
       - title: Редактор Mu
         url: /docs/mu/
+      - title: Редактор Geany
+        url: /docs/geany/
       - title: ipython
         url: /docs/ipython/
       - title: Slack

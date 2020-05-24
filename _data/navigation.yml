@@ -13,14 +13,14 @@ main:
 docs:
   - title: Основные ресурсы
     children:
-      - title: "Как учиться на курсе у Наташи Самойленко"
-        url: /docs/natasha/
       - title: "Программа курса"
         url: /docs/course/
       - title: Календарь
         url: /calendar/
       - title: Задания
         url: /docs/tasks/
+      - title: Сетевое оборудование
+        url: /docs/network/
       - title: Как учиться
         url: /docs/learning/
       - title: Вопросы
@@ -53,6 +53,8 @@ docs:
         url: /docs/pytest/
   - title: Дополнительные ресурсы
     children:
+      - title: "Как учиться на курсе у Наташи Самойленко"
+        url: /docs/natasha/
       - title: Книга "Python для сетевых инженеров"
         url: /docs/pyneng-book/
       - title: Дополнительные ресурсы по Python

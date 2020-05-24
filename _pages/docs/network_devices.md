@@ -1,6 +1,6 @@
 ---
 title: "Сетевое оборудование"
-permalink: /docs/network/
+permalink: /docs/network_devices/
 excerpt: "network"
 ---
 

@@ -25,26 +25,32 @@ docs:
         url: /docs/learning/
       - title: Вопросы
         url: /quiz/
-  - title: Инструменты
+  - title: Подготовка к курсу
+    children:
+      - title: Подготовка VM
+        url: /docs/course-vm/
+      - title: Основы Linux
+        url: /docs/linux/
+      - title: Slack
+        url: /docs/slack/
+  - title: Редакторы
+    children:
+      - title: Редактор Mu
+        url: /docs/mu/
+      - title: Редактор Geany
+        url: /docs/geany/
+  - title: Git, Github
     children:
       - title: Работа с Git и GitHub
         url: /docs/git-github-course/
       - title: Репозиторий курса
         url: /docs/pyneng-github/
-      - title: Редактор Mu
-        url: /docs/mu/
-      - title: Редактор Geany
-        url: /docs/geany/
+  - title: IPython, pytest
+    children:
       - title: ipython
         url: /docs/ipython/
-      - title: Slack
-        url: /docs/slack/
       - title: Проверка заданий pytest
         url: /docs/pytest/
-      - title: Подготовка VM
-        url: /docs/course-vm/
-      - title: Основы Linux
-        url: /docs/linux/
   - title: Дополнительные ресурсы
     children:
       - title: Книга "Python для сетевых инженеров"

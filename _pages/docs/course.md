@@ -61,8 +61,8 @@ comments: false
     <td rowspan="2" align="center">4</td>
     <td align="center">6</td>
     <td align="center">06.06.20</td>
-    <td>Управление ходом программы. Работа с файлами (3ч)</td>
-    <td align="center">5 (06_control_structures, 07_files)</td>
+    <td>Управление ходом программы (3ч)</td>
+    <td align="center">5 (06_control_structures)</td>
     <td align="center">6.1, 6.2, 6.3</td>
  </tr>
  <tr>

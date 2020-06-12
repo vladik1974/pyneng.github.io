@@ -76,14 +76,14 @@ comments: false
     <td rowspan="2" align="center">5</td>
     <td align="center">8</td>
     <td align="center">13.06.20</td>
-    <td>Примеры использования основ (3ч)</td>
+    <td>Функции. Проверка заданий тестами (3ч)</td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">9</td>
     <td align="center">14.06.20</td>
-    <td>Функции. Полезные функции (3ч)</td>
+    <td>Полезные функции. Примеры использования основ (3ч)</td>
     <td align="center">8 (09_functions)</td>
     <td align="center">9.1, 9.1a, 9.2, 9.2a, 9.3</td>
  </tr>

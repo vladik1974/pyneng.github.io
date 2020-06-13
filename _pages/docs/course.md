@@ -76,7 +76,7 @@ comments: false
     <td rowspan="2" align="center">5</td>
     <td align="center">8</td>
     <td align="center">13.06.20</td>
-    <td>Функции. Проверка заданий тестами (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-9/lecture-8/">Функции. Проверка заданий тестами (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

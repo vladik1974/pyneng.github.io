@@ -77,15 +77,15 @@ comments: false
     <td align="center">8</td>
     <td align="center">13.06.20</td>
     <td><a href="https://pyneng.github.io/pyneng-9/lecture-8/">Функции. Проверка заданий тестами (3ч)</a></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">8 (09_functions)</td>
+    <td align="center">9.1, 9.1a, 9.2, 9.2a, 9.3</td>
  </tr>
  <tr>
     <td align="center">9</td>
     <td align="center">14.06.20</td>
     <td>Полезные функции. Примеры использования основ (3ч)</td>
-    <td align="center">8 (09_functions)</td>
-    <td align="center">9.1, 9.1a, 9.2, 9.2a, 9.3</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">6</td>

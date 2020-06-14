@@ -83,7 +83,7 @@ comments: false
  <tr>
     <td align="center">9</td>
     <td align="center">14.06.20</td>
-    <td>Полезные функции. Примеры использования основ (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-9/lecture-9/">Полезные функции. Примеры использования основ (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

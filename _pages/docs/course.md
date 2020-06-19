@@ -77,7 +77,7 @@ comments: false
     <td align="center">8</td>
     <td align="center">13.06.20</td>
     <td><a href="https://pyneng.github.io/pyneng-9/lecture-8/">Функции. Проверка заданий тестами (3ч)</a></td>
-    <td align="center">8 (09_functions)</td>
+    <td align="center">7 (09_functions)</td>
     <td align="center">9.1, 9.1a, 9.2, 9.2a, 9.3</td>
  </tr>
  <tr>

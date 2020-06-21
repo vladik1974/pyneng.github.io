@@ -98,7 +98,7 @@ comments: false
  <tr>
     <td align="center">11</td>
     <td align="center">21.06.20</td>
-    <td>Полезные модули (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-9/lecture-11/">Полезные модули (3ч)</a></td>
     <td align="center">3 (12_useful_modules)</td>
     <td align="center">12.1, 12.2</td>
  </tr>

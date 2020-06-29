@@ -86,6 +86,8 @@ comments: false
 32. **[Тимофей Привалов](https://pyneng.github.io/alumni/Timofey_Privalov)**
 33. **[Андрей Черняков](https://pyneng.github.io/alumni/Andrey_Chernyakov)**
 34. [Руслан Штен](https://pyneng.github.io/alumni/Ruslan_Shten)
+35. **[Тарас Мочичук](https://pyneng.github.io/alumni/Taras_Mochychuk)**
+36. **[Владислав Чаплышкин](https://pyneng.github.io/alumni/Vladislav_Chaplyshkin)**
 
 
 

@@ -106,14 +106,14 @@ comments: false
     <td rowspan="2" align="center">7</td>
     <td align="center">12</td>
     <td align="center">27.06.20</td>
-    <td>Регулярные выражения (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-9/lecture-12/">Регулярные выражения (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">13</td>
     <td align="center">28.06.20</td>
-    <td>Модуль re (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-9/lecture-13/">Модуль re (3ч)</a></td>
     <td align="center">8 (15_module_re)</td>
     <td align="center">15.1, 15.2, 15.3, 15.4</td>
  </tr>

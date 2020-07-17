@@ -11,6 +11,7 @@ comments: false
 ## PyNEng online 9. 16.05.20 - 22.08.20
 
 1. **[Алексей Каранкевич](https://pyneng.github.io/alumni/Aleksey_Karankevich)**
+2. **[Ирина Кокшарова](https://pyneng.github.io/alumni/Irina_Koksharova)**
 
 ## PyNEng online 8. 11.01.20 - 11.04.20
 

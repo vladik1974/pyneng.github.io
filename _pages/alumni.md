@@ -55,6 +55,7 @@ comments: false
 38. **[Геннадий Тарада](https://pyneng.github.io/alumni/Gennadiy_Tarada)**
 39. [Александр Шутов](https://pyneng.github.io/alumni/Alexander_Shutov)
 40. [Максим Чигин](https://pyneng.github.io/alumni/Maksim_Chigin)
+41. [Матвей Зубов](https://pyneng.github.io/alumni/Matvey_Zubov)
 
 
 ## PyNEng online 7. 25.05.19 - 24.08.19

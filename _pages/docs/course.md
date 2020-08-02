@@ -160,14 +160,14 @@ comments: false
     <td rowspan="2" align="center">12</td>
     <td align="center">19</td>
     <td align="center">01.08.20</td>
-    <td>Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-9/lecture-19/">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</a></td>
     <td align="center">6 (21_jinja2)</td>
     <td align="center">21.1, 21.2, 21.3</td>
  </tr>
  <tr>
     <td align="center">20</td>
     <td align="center">02.08.20</td>
-    <td>Обработка вывода команд с помощью TextFSM (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-9/lecture-20/">Обработка вывода команд с помощью TextFSM (3ч)</a></td>
     <td align="center">6 (22_textfsm)</td>
     <td align="center">22.1, 22.1a, 22.2, 22.3, 22.4</td>
  </tr>

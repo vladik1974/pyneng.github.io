@@ -30,3 +30,8 @@ permalink: /docs/course-vm/
 * [Инструкция для подготовки Linux](/docs/pynenglinux/)
 * [Инструкция для подготовки Windows](/docs/pynengwindows/)
 
+Список модулей, которые нужно установить:
+
+```
+pip install pytest pytest-clarity pyyaml tabulate jinja2 textfsm pexpect netmiko
+```

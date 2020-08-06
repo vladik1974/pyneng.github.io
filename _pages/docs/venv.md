@@ -56,6 +56,12 @@ IPython 6.4.0 -- An enhanced Interactive Python. Type '?' for help.
 pip install pytest pytest-clarity pyyaml tabulate jinja2 textfsm pexpect netmiko
 ```
 
+Также надо установить graphviz принятым способом в ОС (пример для debian):
+
+```
+apt-get install graphvix
+```
+
 ### Дополнительные возможности
 
 При создании виртуального окружения, вывод будет таким:

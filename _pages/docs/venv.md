@@ -50,6 +50,12 @@ IPython 6.4.0 -- An enhanced Interactive Python. Type '?' for help.
 
 ```
 
+### Список модулей, которые нужно установить для курса
+
+```
+pip install pytest pytest-clarity pyyaml tabulate jinja2 textfsm pexpect netmiko
+```
+
 ### Дополнительные возможности
 
 При создании виртуального окружения, вывод будет таким:

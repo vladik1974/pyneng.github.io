@@ -175,7 +175,7 @@ comments: false
     <td rowspan="2" align="center">13</td>
     <td align="center">21</td>
     <td align="center">08.08.20</td>
-    <td>ООП. Основы (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-9/lecture-21/">ООП. Основы (3ч)</a></td>
     <td align="center">9 (все 25_oop_basics)</td>
     <td align="center">25.1, 25.1a, 25.1b, 25.2, 25.2a</td>
  </tr>

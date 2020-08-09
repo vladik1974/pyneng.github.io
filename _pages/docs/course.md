@@ -183,7 +183,7 @@ comments: false
     <td align="center">22</td>
     <td align="center">09.08.20</td>
     <td>ООП. Специальные методы (2ч)</td>
-    <td align="center">5 (все 26_oop_spec_methods)</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-9/lecture-22/">5 (все 26_oop_spec_methods)</a></td>
     <td align="center">26.1, 26.1a, 26.2</td>
  </tr> 
  <tr>

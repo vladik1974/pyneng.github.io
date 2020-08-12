@@ -39,5 +39,5 @@ pip install pytest pytest-clarity pyyaml tabulate jinja2 textfsm pexpect netmiko
 Также надо установить graphviz принятым способом в ОС (пример для debian):
 
 ```
-apt-get install graphvix
+apt-get install graphviz
 ```

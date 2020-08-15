@@ -191,7 +191,7 @@ comments: false
     <td align="center">23</td>
     <td align="center">15.08.20</td>
     <td>ООП. Наследование (3ч)</td>
-    <td align="center">7 (все 27_oop_inheritance)</td>
+    <td align="center"><a href="https://pyneng.github.io/pyneng-9/lecture-23/">7 (все 27_oop_inheritance)</a></td>
     <td align="center">27.1, 27.2, 27.2a</td>
  </tr> 
  <tr>

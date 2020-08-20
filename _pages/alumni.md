@@ -12,6 +12,11 @@ comments: false
 
 1. **[Алексей Каранкевич](https://pyneng.github.io/alumni/Aleksey_Karankevich)**
 2. **[Ирина Кокшарова](https://pyneng.github.io/alumni/Irina_Koksharova)**
+3. **[Владимир Кузнецов](https://pyneng.github.io/alumni/Vladimir_Kuznetsov)**
+4. **[Игорь Гурин](https://pyneng.github.io/alumni/Igor_Gurin)**
+5. **[Юлия Романова](https://pyneng.github.io/alumni/Julya_Romanova)**
+6. [Оксана Квітка](https://pyneng.github.io/alumni/Oksana_Kvitka)
+
 
 ## PyNEng online 8. 11.01.20 - 11.04.20
 

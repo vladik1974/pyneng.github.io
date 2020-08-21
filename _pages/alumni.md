@@ -16,6 +16,10 @@ comments: false
 4. **[Игорь Гурин](https://pyneng.github.io/alumni/Igor_Gurin)**
 5. **[Юлия Романова](https://pyneng.github.io/alumni/Julya_Romanova)**
 6. [Оксана Квітка](https://pyneng.github.io/alumni/Oksana_Kvitka)
+7. [Евгений Загородских](https://pyneng.github.io/alumni/)
+8. [Константин Соловьев](https://pyneng.github.io/alumni/Kostiantyn_Soloviov)
+9. **[Григорий Иваньков](https://pyneng.github.io/alumni/Grigory_Ivankov)**
+10. **[Игорь Серов](https://pyneng.github.io/alumni/Igor_Serov)**
 
 
 ## PyNEng online 8. 11.01.20 - 11.04.20

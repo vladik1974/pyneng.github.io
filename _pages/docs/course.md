@@ -198,14 +198,14 @@ comments: false
     <td align="center">23</td>
     <td align="center">15.08.20</td>
     <td><a href="https://pyneng.github.io/pyneng-9/lecture-23/">ООП. Наследование (3ч)</a></td>
-    <td align="center">7 (все 27_oop_inheritance)</a></td>
+    <td align="center">7 (все 27_oop_inheritance)</td>
     <td align="center">27.1, 27.2, 27.2a</td>
  </tr> 
  <tr>
     <td align="center">15</td>
     <td align="center">24</td>
     <td align="center">22.08.20</td>
-    <td>Завершающая встреча (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-9/lecture-24/">""Завершающая встреча (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>  

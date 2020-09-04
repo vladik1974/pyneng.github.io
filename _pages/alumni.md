@@ -20,6 +20,10 @@ comments: false
 8. **[Константин Соловьев](https://pyneng.github.io/alumni/Kostiantyn_Soloviov)**
 9. **[Григорий Иваньков](https://pyneng.github.io/alumni/Grigory_Ivankov)**
 10. **[Игорь Серов](https://pyneng.github.io/alumni/Igor_Serov)**
+11. **[Станислав Перелюбский](https://pyneng.github.io/alumni/Stanislav_Pereliubskii)**
+12. **[Иннокентий Солнцев](https://pyneng.github.io/alumni/Innokentiy_Solntsev)**
+13. **[Бауржан Усунов](https://pyneng.github.io/alumni/Baurzhan_Ussunov)**
+14. **[Станислав Терновский](https://pyneng.github.io/alumni/Stanislau_Tsiarnouski)**
 
 
 ## PyNEng online 8. 11.01.20 - 11.04.20
@@ -63,8 +67,10 @@ comments: false
 37. [Назар Троценко](https://pyneng.github.io/alumni/Nazar_Trotsenko)
 38. **[Геннадий Тарада](https://pyneng.github.io/alumni/Gennadiy_Tarada)**
 39. [Александр Шутов](https://pyneng.github.io/alumni/Alexander_Shutov)
-40. [Максим Чигин](https://pyneng.github.io/alumni/Maksim_Chigin)
-41. [Матвей Зубов](https://pyneng.github.io/alumni/Matvey_Zubov)
+40. [Юлия Петрова](https://pyneng.github.io/alumni/Yulia_Petrova)
+41. [Максим Чигин](https://pyneng.github.io/alumni/Maksim_Chigin)
+42. [Матвей Зубов](https://pyneng.github.io/alumni/Matvey_Zubov)
+43. [Елена Еремеева](https://pyneng.github.io/alumni/Elena_Eremeeva)
 
 
 ## PyNEng online 7. 25.05.19 - 24.08.19

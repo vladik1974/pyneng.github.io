@@ -24,6 +24,11 @@ comments: false
 12. **[Иннокентий Солнцев](https://pyneng.github.io/alumni/Innokentiy_Solntsev)**
 13. **[Бауржан Усунов](https://pyneng.github.io/alumni/Baurzhan_Ussunov)**
 14. **[Станислав Терновский](https://pyneng.github.io/alumni/Stanislau_Tsiarnouski)**
+15. [Константин Мовчан](https://pyneng.github.io/alumni/Kostiantyn_Movchan)
+16. **[Антон Одиноченко](https://pyneng.github.io/alumni/Anton_Odinochenko)**
+17. [Богдан Наумец](https://pyneng.github.io/alumni/Bogdan_Naumets)
+18. **[Игорь Деревянко](https://pyneng.github.io/alumni/Igor_Derevianko)**
+
 
 
 ## PyNEng online 8. 11.01.20 - 11.04.20

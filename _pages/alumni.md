@@ -26,7 +26,7 @@ comments: false
 14. **[Станислав Терновский](https://pyneng.github.io/alumni/Stanislau_Tsiarnouski)**
 15. [Константин Мовчан](https://pyneng.github.io/alumni/Kostiantyn_Movchan)
 16. **[Антон Одиноченко](https://pyneng.github.io/alumni/Anton_Odinochenko)**
-17. [Богдан Наумец](https://pyneng.github.io/alumni/Bogdan_Naumets)
+17. **[Богдан Наумец](https://pyneng.github.io/alumni/Bogdan_Naumets)**
 18. **[Игорь Деревянко](https://pyneng.github.io/alumni/Igor_Derevianko)**
 19. **[Сергей Браславец](https://pyneng.github.io/alumni/Serhii_Braslavets)**
 20. [Владимир Фиронов](https://pyneng.github.io/alumni/Vladimir_Fironov)

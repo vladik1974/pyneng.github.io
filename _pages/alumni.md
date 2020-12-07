@@ -30,6 +30,7 @@ comments: false
 18. **[Игорь Деревянко](https://pyneng.github.io/alumni/Igor_Derevianko)**
 19. **[Сергей Браславец](https://pyneng.github.io/alumni/Serhii_Braslavets)**
 20. [Владимир Фиронов](https://pyneng.github.io/alumni/Vladimir_Fironov)
+21. **[Алексей Алейников](https://pyneng.github.io/alumni/Aleksey_Aleynikov)**
 
 
 

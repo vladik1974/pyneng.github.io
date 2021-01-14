@@ -31,6 +31,8 @@ comments: false
 19. **[Сергей Браславец](https://pyneng.github.io/alumni/Serhii_Braslavets)**
 20. [Владимир Фиронов](https://pyneng.github.io/alumni/Vladimir_Fironov)
 21. **[Алексей Алейников](https://pyneng.github.io/alumni/Aleksey_Aleynikov)**
+22. **[Юрий Юрин](https://pyneng.github.io/alumni/Yury_Yurin)**
+23. [Алишер Фазилов](https://pyneng.github.io/alumni/Alisher_Fazilov)
 
 
 

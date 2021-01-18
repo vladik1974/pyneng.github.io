@@ -53,7 +53,7 @@ comments: false
     <td align="center">5</td>
     <td align="center">31.01.21</td>
     <td>Типы данных в Python. Создание базовых скриптов (3ч)</td>
-    <td align="center">18 (04_data_structures, 05_basic_scripts)</td>
+    <td align="center">17 (04_data_structures, 05_basic_scripts)</td>
     <td align="center">4.3, 4.6, 5.1, 5.1a, 5.2, 5.2a</td>
  </tr>
  <tr>
@@ -68,7 +68,7 @@ comments: false
     <td align="center">7</td>
     <td align="center">07.02.21</td>
     <td>Работа с файлами (2ч)</td>
-    <td align="center">8 (07_files)</td>
+    <td align="center">7 (07_files)</td>
     <td align="center">7.1, 7.2, 7.3</td>
  </tr>
  <tr>
@@ -91,7 +91,7 @@ comments: false
     <td align="center">10</td>
     <td align="center">20.02.21</td>
     <td>Модули (2ч)</td>
-    <td align="center">2 (11_modules)</td>
+    <td align="center">3 (11_modules)</td>
     <td align="center">11.1, 11.2</td>
  </tr>
  <tr>

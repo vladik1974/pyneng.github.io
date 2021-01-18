@@ -4,7 +4,7 @@ permalink: /docs/geany/
 excerpt: "geany"
 ---
 
-[Редактор/IDE Genay](https://www.geany.org/).
+[Редактор/IDE Geany](https://www.geany.org/).
 
 Geany работает на разных ОС (macOS, Windows, Linux).
 

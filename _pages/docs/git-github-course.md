@@ -4,6 +4,8 @@ permalink: /docs/git-github-course/
 excerpt: "Git and GitHub"
 ---
 
+### Git и Github
+
 Для работы с заданиями на курсе используются Git и GitHub.
 
 * Git - позволяет хранить историю изменений, кто выполнил изменения и позволяет посмотреть какие именно изменения были внесены.
@@ -17,15 +19,14 @@ excerpt: "Git and GitHub"
 2. [Выполнить базовую настройку Git и GitHub](https://pyneng.github.io/docs/git-github-setup/)
 3. [Разобраться как добавлять изменения в Git/GitHub](https://pyneng.github.io/docs/git-github/)
 
-Кроме того, надо разобраться с тем как сдавать задания на проверку:
+### Как проверять задания, смотреть варианты решения и сдавать на проверку
 
-* [Сдача задания на проверку](https://pyneng.github.io/docs/task-check/)
+Кроме того, надо разобраться с тем как проверять задания тестами, смотреть варианты решения
+и сдавать задания на проверку. Все эти операции выполняет скрипт ptest. Пдоробнее:
 
-Как посмотреть проверенные задания:
+* [Установка и подготовка к работе с ptest](https://pyneng.github.io/docs/ptest-prepare/)
+* [Как проверять задания, смотреть варианты решения и сдавать на проверку](https://pyneng.github.io/docs/ptest/)
 
-* [на github](https://pyneng.github.io/docs/task-check-github/)
-* [в командной строке](https://pyneng.github.io/docs/checked-tasks-git/)
-
-Как разобраться с конфликтом
+### Как разобраться с конфликтом
 
 * [как разобраться с конфликтом](https://pyneng.github.io/docs/git-conflict/)

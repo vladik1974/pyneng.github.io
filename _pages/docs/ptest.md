@@ -47,6 +47,21 @@ pip install .
 
 Создать токен нужно [по ссылке](https://github.com/settings/tokens)
 
+Нажать "Generate new token"
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/github_token_1.png)
+
+Выбрать имя и нажать галочку "repo", чтобы дать права на работу с репозиториями:
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/github_token_2.png)
+
+Внизу нажать "Generate token":
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/github_token_3.png)
+
+Затем скопировать token:
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/github_token_4.png)
 
 ## Проверка заданий тестами
 

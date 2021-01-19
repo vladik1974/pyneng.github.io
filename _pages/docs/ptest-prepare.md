@@ -59,11 +59,26 @@ pip install .
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/github_token_4.png)
 
 
-И сохранить его в файл github_token_stored.py в переменую GITHUB_TOKEN
+И сохранить его в переменной окружения GITHUB_TOKEN.
+
+### Для linux
+
+Создание переменной окружения
 
 ```
-GITHUB_TOKEN = "aaabbbccc1213213"
+export GITHUB_TOKEN=aaabbbccc1213213
 ```
+
+По умолчанию переменная окружения доступна только в текущей сесии, чтобы ее не надо было
+создавать заново каждый раз, можно записать переменную в файл ``~/.bashrc`` в таком виде:
+
+```
+GITHUB_TOKEN=aaabbbccc1213213
+```
+
+### Для Windows
+
+Напишу чуть позже
 
 ## Сообщение о проверенных заданиях
 

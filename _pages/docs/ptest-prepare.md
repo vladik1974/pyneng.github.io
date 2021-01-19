@@ -63,3 +63,5 @@ pip install .
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/github_token_4.png)
 
+
+## [Как проверять задания, смотреть варианты решения и сдавать на проверку](https://pyneng.github.io/docs/ptest/)

@@ -10,8 +10,8 @@ excerpt: "Как разобраться с конфликтом в git"
 
 ```
 $ git status
-On branch master
-Your branch is up-to-date with 'origin/master'.
+On branch main
+Your branch is up-to-date with 'origin/main'.
 Changes not staged for commit:
 (use "git add <file>..." to update what will be committed)
 (use "git checkout -- <file>..." to discard changes in working directory)
@@ -27,15 +27,15 @@ $ git add .
 и делаю commit
 ```
 $ git commit -m "update"
-[master 9c2c81b] update
+[main 9c2c81b] update
 1 file changed, 2 insertions(+)
 ```
 
 при попытке сделать Push получаю сообщение
 ```
-$ git push origin master
+$ git push origin main
 To git@github.com:pyneng/online-6-natasha-samoylenko.git
-! [rejected]        master -> master (fetch first)
+! [rejected]        main -> main (fetch first)
 error: failed to push some refs to 'git@github.com:pyneng/online-6-natasha-samoylenko.git'
 hint: Updates were rejected because the remote contains work that you do
 hint: not have locally. This is usually caused by another repository pushing
@@ -55,7 +55,7 @@ remote: Compressing objects: 100% (2/2), done.
 Unpacking objects: 100% (3/3), done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 From github.com:pyneng/online-6-natasha-samoylenko
-6d864e7..eec8b0b  master     -> origin/master
+6d864e7..eec8b0b  main     -> origin/main
 Auto-merging README.md
 CONFLICT (content): Merge conflict in README.md
 Automatic merge failed; fix conflicts and then commit the result.
@@ -87,11 +87,11 @@ Test conflict
 $ git add README.md
 $ git commit -m "update after conflict"
 
-$ git push origin master
+$ git push origin main
 Counting objects: 6, done.
 Compressing objects: 100% (5/5), done.
 Writing objects: 100% (6/6), 631 bytes | 0 bytes/s, done.
 Total 6 (delta 0), reused 0 (delta 0)
 To git@github.com:pyneng/online-6-natasha-samoylenko.git
-eec8b0b..dfcf490  master -> master
+eec8b0b..dfcf490  main -> main
 ```

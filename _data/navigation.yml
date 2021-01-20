@@ -17,10 +17,6 @@ docs:
         url: /docs/course/
       - title: Календарь
         url: /calendar/
-      - title: Задания
-        url: /docs/tasks/
-      - title: Сетевое оборудование
-        url: /docs/network_devices/
       - title: Вопросы
         url: /quiz/
   - title: Подготовка к курсу
@@ -33,6 +29,17 @@ docs:
         url: /docs/slack/
       - title: Прохождение курса на Windows
         url: /docs/pynengwindows/
+  - title: Задания
+    children:
+      - title: Подготовка к работе с заданиями
+        url: /docs/ptest-prepare/
+      - title: Работа с ptest
+        url: /docs/ptest/
+      - title: О заданиях
+        url: /docs/tasks/
+      - title: Сетевое оборудование
+        url: /docs/network_devices/
+
   - title: Редакторы
     children:
       - title: Редактор Mu

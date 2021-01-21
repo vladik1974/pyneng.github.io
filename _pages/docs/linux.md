@@ -4,6 +4,34 @@ permalink: /docs/linux/
 excerpt: "Linux"
 ---
 
+## Полезные команды
+
+Создать каталог
+
+```
+mkdir repos
+```
+
+Перейти в каталог
+
+```
+cd repos
+```
+
+Вернуться в домашний каталог
+
+```
+cd
+```
+
+Подняться на один уровень выше:
+
+```
+cs ..
+```
+
+## Полезные ссылки
+
 Для курса, в принципе, не требуется знать Linux, но базовые знания пригодятся.
 
 Несколько ссылок, которые позволят освежить знания:
@@ -12,8 +40,5 @@ excerpt: "Linux"
 * [Listing files and directories](http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html)
 * [Работа с файлами: копирование, перемещение. Утилиты grep, wc](http://www.ee.surrey.ac.uk/Teaching/Unix/unix2.html)
 
-
-
-### Дополнительная информация
 
 Ссылки выше были из [отличной методички для начинающих](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html).

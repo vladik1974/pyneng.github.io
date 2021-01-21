@@ -11,6 +11,16 @@ permalink: /docs/git-github/
 Для этого используется команда git clone:
 ```
 $ git clone ssh://git@github.com/pyneng/online-10-natasha-samoylenko.git
+```
+
+В этой команде вам нужно сменить имя репозитория "online-10-natasha-samoylenko" на свой репозиторий.
+
+> Команду git clone надо делать в каталоге, который не является репозиторием git.
+
+Пример вывода
+
+```
+$ git clone ssh://git@github.com/pyneng/online-10-natasha-samoylenko.git
 Cloning into 'online-10-natasha-samoylenko'...
 remote: Counting objects: 241, done.
 remote: Compressing objects: 100% (191/191), done.
@@ -18,9 +28,6 @@ remote: Total 241 (delta 43), reused 239 (delta 41), pack-reused 0
 Receiving objects: 100% (241/241), 119.60 KiB | 0 bytes/s, done.
 Resolving deltas: 100% (43/43), done.
 Checking connectivity... done.
-```
-
-В этой команде вам нужно сменить имя репозитория "online-10-natasha-samoylenko" на свой репозиторий.
 
 В итоге, в текущем каталоге, в котором была выполнена команда git clone, появится каталог с именем равным имени репозитория.
 В моем случае - online-10-natasha-samoylenko.
@@ -100,7 +107,7 @@ $ git add README.md
 Будет лучше, если сообщение будет со смыслом, а не просто "update" или подобное:
 
 ```
-$ git commit -m "Сделал задания 4.1-4.3"
+$ git commit -m "Сделаны задания 4.1-4.3"
 ```
 
 ### Push на GitHub

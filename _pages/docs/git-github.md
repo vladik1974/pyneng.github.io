@@ -9,6 +9,7 @@ permalink: /docs/git-github/
 
 Для работы с ним локально, его нужно скопировать.
 Для этого используется команда git clone:
+
 ```
 $ git clone ssh://git@github.com/pyneng/online-10-natasha-samoylenko.git
 ```

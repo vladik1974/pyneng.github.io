@@ -30,6 +30,12 @@ cd
 cs ..
 ```
 
+## Отслючить logout по таймауту на вм
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/linux_screen_1.png)
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/linux_screen_2.png)
+
 ## Полезные ссылки
 
 Для курса, в принципе, не требуется знать Linux, но базовые знания пригодятся.

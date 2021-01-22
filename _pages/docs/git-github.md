@@ -28,6 +28,7 @@ remote: Total 241 (delta 43), reused 239 (delta 41), pack-reused 0
 Receiving objects: 100% (241/241), 119.60 KiB | 0 bytes/s, done.
 Resolving deltas: 100% (43/43), done.
 Checking connectivity... done.
+```
 
 В итоге, в текущем каталоге, в котором была выполнена команда git clone, появится каталог с именем равным имени репозитория.
 В моем случае - online-10-natasha-samoylenko.

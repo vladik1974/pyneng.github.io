@@ -77,6 +77,9 @@ export GITHUB_TOKEN=aaabbbccc1213213
 GITHUB_TOKEN=aaabbbccc1213213
 ```
 
+Можно записать переменную только в .bashrc, но важно перезагрузить bash (cli), так как .bashrc считывается
+только при старте.
+
 > Если у Вас не bash или MacOS, как сделать переменную окружения, надо найти самостоятельно.
 
 ### Для Windows
@@ -85,6 +88,7 @@ GITHUB_TOKEN=aaabbbccc1213213
 2. Нажать Advanced system settings и затем Environment Variables
 3. В секции User Variables нажать New
 4. Введите имя переменной GITHUB_TOKEN и значение - ваш токен и нажмите OK.
+5. Если cli было открыта, надо закрыть и открыть заново
 
 
 ## Сообщение о проверенных заданиях

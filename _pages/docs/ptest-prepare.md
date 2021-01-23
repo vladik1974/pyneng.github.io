@@ -74,7 +74,7 @@ export GITHUB_TOKEN=aaabbbccc1213213
 создавать заново каждый раз, нужно записать переменную в файл ``~/.bashrc`` в таком виде:
 
 ```
-GITHUB_TOKEN=aaabbbccc1213213
+export GITHUB_TOKEN=aaabbbccc1213213
 ```
 
 Можно записать переменную только в .bashrc, но важно перезагрузить bash (cli), так как .bashrc считывается

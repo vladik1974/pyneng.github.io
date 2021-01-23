@@ -30,7 +30,7 @@ comments: false
     <td rowspan="2" align="center">2</td>
     <td align="center">2</td>
     <td align="center">23.01.21</td>
-    <td>Инструменты (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-2/">Git, Github, ptest (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

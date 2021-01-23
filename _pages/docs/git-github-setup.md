@@ -82,6 +82,8 @@ $ cat ~/.ssh/id_rsa.pub
 $ ssh -T git@github.com
 ```
 
+Если появился запрос "Are you sure you want to continue connecting (yes/no)", надо набрать "yes".
+
 Вывод будет таким:
 ```
 Hi natenka! You've successfully authenticated, but GitHub does not provide shell access.

@@ -41,7 +41,13 @@ cd
 cs ..
 ```
 
-## Отслючить logout по таймауту на вм
+## Поменять цвета в терминале
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/linux_terminal_color_1.png)
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/linux_terminal_color_2.png)
+
+## Отключить logout по таймауту на вм
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/linux_screen_1.png)
 

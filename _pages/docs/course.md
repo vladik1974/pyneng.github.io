@@ -45,7 +45,7 @@ comments: false
     <td rowspan="2" align="center">3</td>
     <td align="center">4</td>
     <td align="center">30.01.21</td>
-    <td>Типы данных в Python (4ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-4/">Типы данных в Python (4ч)</a></td>
     <td align="center">4.1, 4.2</td>
     <td align="center">4.1, 4.2</td>
  </tr>

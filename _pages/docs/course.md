@@ -60,7 +60,7 @@ comments: false
     <td rowspan="2" align="center">4</td>
     <td align="center">6</td>
     <td align="center">06.02.21</td>
-    <td>Управление ходом программы (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-6/"Управление ходом программы (3ч)</a></td>
     <td align="center">5 (06_control_structures)</td>
     <td align="center">6.1, 6.2, 6.3</td>
  </tr>

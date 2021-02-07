@@ -67,7 +67,7 @@ comments: false
  <tr>
     <td align="center">7</td>
     <td align="center">07.02.21</td>
-    <td>Работа с файлами (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-7/">Работа с файлами (2ч)</a></td>
     <td align="center">7 (07_files)</td>
     <td align="center">7.1, 7.2, 7.3</td>
  </tr>

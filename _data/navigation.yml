@@ -52,12 +52,10 @@ docs:
         url: /docs/git-github-course/
       - title: Репозиторий курса
         url: /docs/pyneng-github/
-  - title: IPython, pytest
+  - title: IPython
     children:
       - title: ipython
         url: /docs/ipython/
-      - title: Проверка заданий pytest
-        url: /docs/pytest/
   - title: Дополнительные ресурсы
     children:
       - title: Как учиться

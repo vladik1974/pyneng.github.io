@@ -90,7 +90,7 @@ comments: false
     <td rowspan="2" align="center">6</td>
     <td align="center">10</td>
     <td align="center">20.02.21</td>
-    <td>Модули (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-10/">Модули (2ч)</a></td>
     <td align="center">3 (11_modules)</td>
     <td align="center">11.1, 11.2</td>
  </tr>

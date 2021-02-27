@@ -105,7 +105,7 @@ comments: false
     <td rowspan="2" align="center">7</td>
     <td align="center">12</td>
     <td align="center">27.02.21</td>
-    <td>Регулярные выражения (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-12/">Регулярные выражения (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

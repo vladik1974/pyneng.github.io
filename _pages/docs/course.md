@@ -120,7 +120,7 @@ comments: false
     <td align="center">8</td>
     <td align="center">14</td>
     <td align="center">06.03.21</td>
-    <td>Unicode (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-14/">Unicode (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

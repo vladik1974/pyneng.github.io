@@ -24,21 +24,18 @@ pip install requests
 In [1]: import requests
 ```
 
-И указать логин и пароль вашего пользователя на GitHub:
+И указать логин и токен для подключения на GitHub (берется тот же токен, который используется для ptest):
 ```python
-In [2]: from getpass import getpass
+In [2]: import os
 
 In [3]: username = 'natenka'
 
-In [4]: password = getpass.getpass()
+In [4]: token = os.environ.get("GITHUB_TOKEN")
 ```
-
-> getpass запросит пароль, как функция input, но вводимые символы не будут отображаться.
-
 
 Этот запрос позволяет получить [информацию о пользователе](https://developer.github.com/v3/users/#get-the-authenticated-user):
 ```python
-In [5]: r = requests.get('https://api.github.com/user', auth=(username, password))
+In [5]: r = requests.get('https://api.github.com/user', auth=(username, token))
 ```
 
 > Все ссылки, которые используются для работы с GitHub API описаны в [документации](https://developer.github.com/v3/)
@@ -99,7 +96,7 @@ Out[7]:
 
 Для получения [всех ваших репозиториев](https://developer.github.com/v3/repos/#list-your-repositories), используется ссылка `https://api.github.com/user/repos`
 ```python
-In [8]: repos = requests.get('https://api.github.com/user/repos', auth=(username, password))
+In [8]: repos = requests.get('https://api.github.com/user/repos', auth=(username, token))
 ```
 
 Пример информации о репозитории (сокращенный):
@@ -183,7 +180,7 @@ In [13]: file_path = 'exercises/10_serialization/task_10_2c.py'
 
 In [14]: github_api_file_url = 'https://api.github.com/repos/natenka/pyneng-examples-exercises/contents/'
 
-In [15]: file_response = requests.get(github_api_file_url+file_path, auth=(username, password))
+In [15]: file_response = requests.get(github_api_file_url+file_path, auth=(username, token))
 ```
 
 Результат:
@@ -304,8 +301,8 @@ In [32]: f = {'path':'',
 И передать его как строку в параметр data:
 ```python
 In [33]: f_resp = requests.put('https://api.github.com/repos/natenka/My_Scripts/contents/try_gh_api.md',
-    ...:                       auth=(username, password),
-    ...:                       headers={ "Content-Type": "application/json" },
+    ...:                       auth=(username, token),
+    ...:                       headers={"Content-Type": "application/json"},
     ...:                       data=json.dumps(f))
     ...:
 ```

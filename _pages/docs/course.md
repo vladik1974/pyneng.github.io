@@ -136,7 +136,7 @@ comments: false
     <td rowspan="2" align="center">10</td>
     <td align="center">16</td>
     <td align="center">20.03.21</td>
-    <td>Подключение к сетевым устройствам (Telnet, SSH) (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-16/">Подключение к сетевым устройствам (Telnet, SSH) (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

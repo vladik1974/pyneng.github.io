@@ -143,7 +143,7 @@ comments: false
  <tr>
     <td align="center">17</td>
     <td align="center">21.03.21</td>
-    <td>Подключение к сетевым устройствам (Telnet, SSH) (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-17/">Подключение к сетевым устройствам (Telnet, SSH) (2ч)</a></td>
     <td align="center">8 (18_ssh_telnet)</td>
     <td align="center">18.1, 18.1a, 18.2, 18.2a, 18.2b, 18.3</td>
  </tr>

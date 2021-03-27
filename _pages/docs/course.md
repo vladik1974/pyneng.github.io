@@ -151,7 +151,7 @@ comments: false
     <td align="center">11</td>
     <td align="center">18</td>
     <td align="center">27.03.21</td>
-    <td>Параллельное подключение к оборудованию (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-18/">Параллельное подключение к оборудованию (3ч)</a></td>
     <td align="center">5 (19_concurrent_connections)</td>
     <td align="center">19.1, 19.2, 19.3</td>
  </tr>

@@ -159,7 +159,7 @@ comments: false
     <td rowspan="2" align="center">12</td>
     <td align="center">19</td>
     <td align="center">03.04.21</td>
-    <td>Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-19/">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</a></td>
     <td align="center">6 (20_jinja2)</td>
     <td align="center">20.1, 20.2, 20.3</td>
  </tr>

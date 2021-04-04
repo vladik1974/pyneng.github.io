@@ -166,7 +166,7 @@ comments: false
  <tr>
     <td align="center">20</td>
     <td align="center">04.04.21</td>
-    <td>Обработка вывода команд с помощью TextFSM (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-20/">Обработка вывода команд с помощью TextFSM (3ч)</a></td>
     <td align="center">6 (21_textfsm)</td>
     <td align="center">21.1, 21.1a, 21.2, 21.3, 21.4</td>
  </tr>

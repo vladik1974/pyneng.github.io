@@ -7,6 +7,12 @@ comments: false
 После завершения курса слушатели, которые выполнили необходимый минимум заданий, получают сертификаты. В пределах каждого курса, слушатели перечислены в порядке сдачи заданий.
 Те, кто сделал все задания курса, а не только минимум на сертификат, отмечены жирным шрифтом.
 
+## PyNEng online 10. 16.01.21 - 24.04.21
+
+1. **[Константин Воронежцев](https://pyneng.github.io/alumni/Konstantin_Voronezhtsev)**
+2. **[Владимир Панков](https://pyneng.github.io/alumni/Vladimir_Pankov)**
+3. **[Максим Архипов](https://pyneng.github.io/alumni/Maksim_Arkhipov)**
+
 
 ## PyNEng online 9. 16.05.20 - 22.08.20
 
@@ -33,6 +39,7 @@ comments: false
 21. **[Алексей Алейников](https://pyneng.github.io/alumni/Aleksey_Aleynikov)**
 22. **[Юрий Юрин](https://pyneng.github.io/alumni/Yury_Yurin)**
 23. [Алишер Фазилов](https://pyneng.github.io/alumni/Alisher_Fazilov)
+24. **[Сергей Конев](https://pyneng.github.io/alumni/Sergey_Konev)**
 
 
 

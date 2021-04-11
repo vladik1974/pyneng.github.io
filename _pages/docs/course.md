@@ -181,7 +181,7 @@ comments: false
  <tr>
     <td align="center">22</td>
     <td align="center">11.04.21</td>
-    <td>ООП. Специальные методы (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-21/">ООП. Специальные методы (2ч)</a></td>
     <td align="center">5 (все 23_oop_spec_methods)</td>
     <td align="center">23.1, 23.1a, 23.2</td>
  </tr> 

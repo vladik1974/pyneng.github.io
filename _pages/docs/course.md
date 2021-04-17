@@ -181,7 +181,7 @@ comments: false
  <tr>
     <td align="center">22</td>
     <td align="center">11.04.21</td>
-    <td><a href="https://pyneng.github.io/pyneng-10/lecture-21/">ООП. Специальные методы (2ч)</a></td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-22/">ООП. Специальные методы (2ч)</a></td>
     <td align="center">5 (все 23_oop_spec_methods)</td>
     <td align="center">23.1, 23.1a, 23.2</td>
  </tr> 
@@ -189,7 +189,7 @@ comments: false
     <td align="center">14</td>
     <td align="center">23</td>
     <td align="center">17.04.21</td>
-    <td>ООП. Наследование (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-23/">ООП. Наследование (3ч)</a></td>
     <td align="center">7 (все 24_oop_inheritance)</td>
     <td align="center">24.1, 24.2, 24.2a</td>
  </tr> 

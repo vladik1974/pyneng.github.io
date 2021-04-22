@@ -19,9 +19,9 @@ permalink: /bonus-lectures/
 <iframe src="https://calendar.google.com/calendar/embed?src=tbrecv5n6236rajk4t5bogtlo0%40group.calendar.google.com&ctz=UTC" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
-## Бонусные лекции в записи
+# Бонусные лекции в записи
 
-### Новые возможности в Python 3.x
+## Новые возможности в Python 3.x
 
 В этом каталоге находятся лекции с информацией об обновлениях в Python 3.7
 и Python 3.8. После выхода Python 3.9, добавится новая лекция.
@@ -29,7 +29,7 @@ permalink: /bonus-lectures/
 * [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRlmf6BeA-7Bx-1NvmqnSIOD)
 
 
-### Работа с базами данных в Python
+## Работа с базами данных в Python
 
 Лекция, которая соответствует [25 разделу в книге](https://pyneng.readthedocs.io/ru/latest/book/25_db/index.html).
 Задания по этой лекции находятся в каталоге exercises/25_db в ваших репозиториях. Это
@@ -37,7 +37,7 @@ permalink: /bonus-lectures/
 проверку так же как и основные задания курса. 
 
 
-### Руководство стилю кода PEP8
+## Руководство стилю кода PEP8
 
 Лекция в которой рассматривается PEP 8 - руководство по стилю в Python.
 Рекомендуется к просмотру всем. Хотя при желании можно ограничиться прочтением
@@ -45,7 +45,7 @@ permalink: /bonus-lectures/
 
 * [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
 
-### Аннотация типов
+## Аннотация типов
 
 Аннотация типов - это дополнительное описание в классах, функциях, переменных,
 которое указывает какой тип данных должен быть в этом месте.
@@ -56,7 +56,7 @@ permalink: /bonus-lectures/
 * [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRlrzKmbAwxyitvmXjCN4BM9)
 
 
-### Ansible
+## Ansible
 
 Серия лекций по основам Ansible для сетевых инженеров. Рассматриваются основы
 Ansible и базовое использование Ansible для работы с сетевым оборудованием.
@@ -70,7 +70,7 @@ Ansible и базовое использование Ansible для работы
 * [Задания по Ansible](https://github.com/natenka/ansible-example-exercises)
 * [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRnuI_K5-GV4FdAO9dVkRIGF)
 
-### Python полезно знать
+## Python полезно знать
 
 Это набор лекций по разным темам, которые полезно знать всем, хотя бы на уровне того, что такие возможности есть в Python. Сюда входят лекции по таким темам:
 
@@ -93,11 +93,11 @@ Ansible и базовое использование Ansible для работы
   [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/04_pytest_basics), [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/04_pytest_basics), [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/04_pytest_basics/index.html).
 * python package - организация нескольких файлов Python в один модуль
 
-### Python продвинутые темы
+## Python продвинутые темы
 
 Тут собраны темы, которые немного сложнее. Сюда входят темы:
 
-#### Генераторы
+### Генераторы
 
 Генераторы - очень рекомендую всем, без исключения, послушать про генераторы.
 
@@ -106,7 +106,7 @@ Ansible и базовое использование Ansible для работы
 * [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/14_generators/index.html).
 * [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
 
-#### Декораторы
+### Декораторы
 
 Основы декораторов (closure) и декораторы - декораторы довольно непростая тема
 и при этом, их редко нужно будет создавать самостоятельно. При этом, они довольно
@@ -119,7 +119,7 @@ Ansible и базовое использование Ansible для работы
 * [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/Part_II.html)
 * [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
 
-#### ООП: classmethod, staticmethod, property, namedtuple
+### ООП: classmethod, staticmethod, property, namedtuple
 
 Если ООП нормально воспринималось на курсе и вы уже начали использовать ООП в своих скриптах,
 это полезная тема. Иначе, можно пропустить.
@@ -129,7 +129,7 @@ Ansible и базовое использование Ansible для работы
 * [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/11_oop_method_decorators/index.html)
 * [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
 
-### Vim, tmux
+## Vim, tmux
 
 Не имеют отношения к Python напрямую, но очень рекомендую разобраться с tmux всем, кто работает на Linux/Unix.
 

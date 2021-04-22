@@ -8,7 +8,8 @@ permalink: /bonus-lectures/
 | Дата     |     Время       | Тема |
 |:--------:|:---------------:|------|
 | 16.05.21 | 7:00-9:00 UTC   | [Новые возможности в Python 3.9](https://docs.python.org/3/whatsnew/3.9.html) |
-| 22.05.21 | 7:00-9:00 UTC   | Создание интерфейса командной строки с помощью [Typer](https://github.com/tiangolo/typer) |
+| 22.05.21 | 7:00-10:00 UTC  | Создание интерфейса командной строки с помощью [Typer](https://github.com/tiangolo/typer) |
+| x.10.21  | 7:00-9:00 UTC   | Новые возможности в Python 3.10 |
 
 
 ## Календарь лекций
@@ -25,6 +26,9 @@ permalink: /bonus-lectures/
 В этом каталоге находятся лекции с информацией об обновлениях в Python 3.7
 и Python 3.8. После выхода Python 3.9, добавится новая лекция.
 
+* [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRlmf6BeA-7Bx-1NvmqnSIOD)
+
+
 ### Работа с базами данных в Python
 
 Лекция, которая соответствует [25 разделу в книге](https://pyneng.readthedocs.io/ru/latest/book/25_db/index.html).
@@ -39,6 +43,8 @@ permalink: /bonus-lectures/
 Рекомендуется к просмотру всем. Хотя при желании можно ограничиться прочтением
 самого PEP 8, мне нравится как он оформлен на [этом сайте](https://pep8.org/).
 
+* [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
+
 ### Аннотация типов
 
 Аннотация типов - это дополнительное описание в классах, функциях, переменных,
@@ -47,6 +53,7 @@ permalink: /bonus-lectures/
 * [задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/01_type_annotations)
 * [раздел в книге Advanced Python для сетевых инженеров](https://advpyneng.readthedocs.io/ru/latest/book/01_type_annotations/index.html)
 * [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/01_type_annotations)
+* [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRlrzKmbAwxyitvmXjCN4BM9)
 
 
 ### Ansible
@@ -61,6 +68,7 @@ Ansible и базовое использование Ansible для работы
 * [документация](https://docs.ansible.com/ansible/latest/index.html)
 * Этот же материал почти полностью продублирован в книге [Ansible для сетевых инженеров](https://ansible-for-network-engineers.readthedocs.io/ru/latest/).
 * [Задания по Ansible](https://github.com/natenka/ansible-example-exercises)
+* [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRnuI_K5-GV4FdAO9dVkRIGF)
 
 ### Python полезно знать
 
@@ -70,14 +78,17 @@ Ansible и базовое использование Ansible для работы
   софт такого рода в Python, другой пример - [yapf](https://github.com/google/yapf). Использовать не обязательно,
   но полезно знать, что такого рода модули существуют. Также, если black не нравится,
   можно посмотреть в сторону модулей типа [flake8](https://flake8.pycqa.org/en/latest/index.html#) (часто используют и black и flake8).
+  [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR).
 * [click](https://click.palletsprojects.com/en) - модуль для создания интерфейса командной строки. Несмотря на то, что
   в стандартной библиотеке Python есть модуль argparse, который делает то же самое,
   модуль click использует немного другой подход и, возможно, понравится больше.
   [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/03_click), [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/03_click), [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/03_click/index.html).
+  [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM)
 * [logging](https://docs.python.org/3/library/logging.html) - модуль, который позволяет настраивать логирование для скрипта
   с огромным количеством возможностей.
-  [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/03_click), [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/03_click), [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/05_logging/index.html).
-* [pdb](https://docs.python.org/3/library/pdb.html) - встроенный дебагер в Python
+  [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/03_click), [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/03_click), [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/05_logging/index.html), [запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
+* [pdb](https://docs.python.org/3/library/pdb.html) - встроенный дебагер в Python.
+  [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
 * [pytest](https://docs.pytest.org/en/stable/) - фреймворк для написания тестов (тесты для заданий написаны на Pytest).
   [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/04_pytest_basics), [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/04_pytest_basics), [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/04_pytest_basics/index.html).
 * python package - организация нескольких файлов Python в один модуль
@@ -93,6 +104,7 @@ Ansible и базовое использование Ansible для работы
 * [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/14_generators)
 * [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/14_generators)
 * [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/14_generators/index.html).
+* [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
 
 #### Декораторы
 
@@ -105,6 +117,7 @@ Ansible и базовое использование Ansible для работы
 * [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/08_decorators)
 * [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/08_decorators)
 * [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/Part_II.html)
+* [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
 
 #### ООП: classmethod, staticmethod, property, namedtuple
 
@@ -114,8 +127,12 @@ Ansible и базовое использование Ansible для работы
 * [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/11_oop_method_decorators)
 * [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/11_oop_method_decorators)
 * [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/11_oop_method_decorators/index.html)
+* [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
 
 ### Vim, tmux
 
 Не имеют отношения к Python напрямую, но очень рекомендую разобраться с tmux всем, кто работает на Linux/Unix.
+
+* [Запись лекции tmux (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRkSAPJyzlk_wU7iVLzGFMAi)
+* [Запись лекции vim (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRkiQXDuElo_JW9OfmbEXRpj)
 

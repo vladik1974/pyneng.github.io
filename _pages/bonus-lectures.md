@@ -20,7 +20,6 @@ permalink: /bonus-lectures/
 
 ## Бонусные лекции в записи
 
-
 ### Новые возможности в Python 3.x
 
 В этом каталоге находятся лекции с информацией об обновлениях в Python 3.7
@@ -40,6 +39,15 @@ permalink: /bonus-lectures/
 Рекомендуется к просмотру всем. Хотя при желании можно ограничиться прочтением
 самого PEP 8, мне нравится как он оформлен на [этом сайте](https://pep8.org/).
 
+### Аннотация типов
+
+Аннотация типов - это дополнительное описание в классах, функциях, переменных,
+которое указывает какой тип данных должен быть в этом месте.
+
+* [задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/01_type_annotations)
+* [раздел в книге Advanced Python для сетевых инженеров](https://advpyneng.readthedocs.io/ru/latest/book/01_type_annotations/index.html)
+* [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/01_type_annotations)
+
 
 ### Ansible
 
@@ -49,8 +57,6 @@ Ansible и базовое использование Ansible для работы
 полноценно работать с Ansible, надо изучать его дальше, в принципе, по любой
 книге/курсу по Ansible или [по документации](https://docs.ansible.com/ansible/latest/index.html).
 Рассматривается версия Ansible 2.9.
-
-Ссылки:
 
 * [документация](https://docs.ansible.com/ansible/latest/index.html)
 * Этот же материал почти полностью продублирован в книге [Ansible для сетевых инженеров](https://ansible-for-network-engineers.readthedocs.io/ru/latest/).
@@ -80,18 +86,34 @@ Ansible и базовое использование Ansible для работы
 
 Тут собраны темы, которые немного сложнее. Сюда входят темы:
 
-* генераторы - очень рекомендую всем, без исключения, послушать про генераторы.
-  [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/14_generators), [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/14_generators), [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/14_generators/index.html).
-* основы декораторов (closure) и декораторы - декораторы довольно непростая тема
-  и при этом, их редко нужно будет создавать самостоятельно. При этом, они довольно
-  часто используются в Python. Использовать декораторы очень просто, а вот разобраться
-  как они работают и как их создавать - нет. Лекция как раз для того чтобы
-  разобраться как именно работают декораторы и как создавать.
-  [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/08_decorators), [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/08_decorators), [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/Part_II.html).
-* ООП: classmethod, staticmethod, property, namedtuple - если ООП нормально
-  воспринималось на курсе и вы уже начали использовать ООП в своих скриптах,
-  это полезная тема. Иначе, можно пропустить.
-  [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/11_oop_method_decorators), [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/11_oop_method_decorators), [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/11_oop_method_decorators/index.html).
+#### Генераторы
+
+Генераторы - очень рекомендую всем, без исключения, послушать про генераторы.
+
+* [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/14_generators)
+* [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/14_generators)
+* [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/14_generators/index.html).
+
+#### Декораторы
+
+Основы декораторов (closure) и декораторы - декораторы довольно непростая тема
+и при этом, их редко нужно будет создавать самостоятельно. При этом, они довольно
+часто используются в Python. Использовать декораторы очень просто, а вот разобраться
+как они работают и как их создавать - нет. Лекция как раз для того чтобы
+разобраться как именно работают декораторы и как создавать.
+
+* [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/08_decorators)
+* [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/08_decorators)
+* [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/Part_II.html)
+
+#### ООП: classmethod, staticmethod, property, namedtuple
+
+Если ООП нормально воспринималось на курсе и вы уже начали использовать ООП в своих скриптах,
+это полезная тема. Иначе, можно пропустить.
+
+* [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/11_oop_method_decorators)
+* [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/11_oop_method_decorators)
+* [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/11_oop_method_decorators/index.html)
 
 ### Vim, tmux
 

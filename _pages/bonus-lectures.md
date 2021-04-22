@@ -19,7 +19,7 @@ permalink: /bonus-lectures/
 <iframe src="https://calendar.google.com/calendar/embed?src=tbrecv5n6236rajk4t5bogtlo0%40group.calendar.google.com&ctz=UTC" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
-# Бонусные лекции в записи
+## Бонусные лекции в записи
 
 ## Новые возможности в Python 3.x
 
@@ -74,24 +74,52 @@ Ansible и базовое использование Ansible для работы
 
 Это набор лекций по разным темам, которые полезно знать всем, хотя бы на уровне того, что такие возможности есть в Python. Сюда входят лекции по таким темам:
 
-* [black](https://github.com/psf/black) - автоматически форматирует код в одном и том же стиле. Не единственный
-  софт такого рода в Python, другой пример - [yapf](https://github.com/google/yapf). Использовать не обязательно,
-  но полезно знать, что такого рода модули существуют. Также, если black не нравится,
-  можно посмотреть в сторону модулей типа [flake8](https://flake8.pycqa.org/en/latest/index.html#) (часто используют и black и flake8).
-  [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR).
-* [click](https://click.palletsprojects.com/en) - модуль для создания интерфейса командной строки. Несмотря на то, что
-  в стандартной библиотеке Python есть модуль argparse, который делает то же самое,
-  модуль click использует немного другой подход и, возможно, понравится больше.
-  [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/03_click), [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/03_click), [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/03_click/index.html).
-  [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM)
-* [logging](https://docs.python.org/3/library/logging.html) - модуль, который позволяет настраивать логирование для скрипта
-  с огромным количеством возможностей.
-  [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/03_click), [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/03_click), [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/05_logging/index.html), [запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
-* [pdb](https://docs.python.org/3/library/pdb.html) - встроенный дебагер в Python.
-  [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
-* [pytest](https://docs.pytest.org/en/stable/) - фреймворк для написания тестов (тесты для заданий написаны на Pytest).
-  [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/04_pytest_basics), [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/04_pytest_basics), [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/04_pytest_basics/index.html).
-* python package - организация нескольких файлов Python в один модуль
+### black
+
+[black](https://github.com/psf/black) - автоматически форматирует код в одном и том же стиле. Не единственный
+софт такого рода в Python, другой пример - [yapf](https://github.com/google/yapf). Использовать не обязательно,
+но полезно знать, что такого рода модули существуют. Также, если black не нравится,
+можно посмотреть в сторону модулей типа [flake8](https://flake8.pycqa.org/en/latest/index.html#) (часто используют и black и flake8).
+
+* [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
+
+### click
+
+[click](https://click.palletsprojects.com/en) - модуль для создания интерфейса командной строки. Несмотря на то, что
+в стандартной библиотеке Python есть модуль argparse, который делает то же самое,
+модуль click использует немного другой подход и, возможно, понравится больше.
+
+* [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/03_click)
+* [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/03_click)
+* [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/03_click/index.html)
+* [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM)
+
+### logging
+
+[logging](https://docs.python.org/3/library/logging.html) - модуль, который позволяет настраивать логирование для скрипта
+с огромным количеством возможностей.
+
+* [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/03_click)
+* [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/03_click)
+* [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/05_logging/index.html)
+* [запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
+
+### pdb
+
+* [pdb](https://docs.python.org/3/library/pdb.html) - встроенный дебагер в Python
+* [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
+
+### pytest
+
+* [pytest](https://docs.pytest.org/en/stable/) - фреймворк для написания тестов (тесты для заданий написаны на Pytest)
+* [Задания](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises/04_pytest_basics)
+* [примеры](https://github.com/natenka/advpyneng-examples-exercises/tree/master/examples/04_pytest_basics)
+* [описание в книге](https://advpyneng.readthedocs.io/ru/latest/book/04_pytest_basics/index.html)
+
+
+### Python package
+
+Python package - организация нескольких файлов Python в один модуль
 
 ## Python продвинутые темы
 

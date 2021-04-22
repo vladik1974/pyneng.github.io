@@ -64,8 +64,6 @@ docs:
         url: /docs/learning/
       - title: "Как учиться на курсе у Наташи Самойленко"
         url: /docs/natasha/
-      - title: Книга "Python для сетевых инженеров"
-        url: /docs/pyneng-book/
       - title: Дополнительные ресурсы по Python
         url: /docs/python-docs/
   - title: Архив
@@ -86,8 +84,5 @@ docs:
         url: /pyneng-online-8/
       - title: PyNEng Online 9
         url: /pyneng-online-9/
-      - title: Продленка PyNEng
-        url: /pyneng-bonus/
-      - title: Продленка 2 PyNEng
-        url: /pyneng-bonus-2/
-
+      - title: PyNEng Online 10
+        url: /pyneng-online-10/

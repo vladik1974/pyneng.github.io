@@ -1,6 +1,7 @@
 ---
 title: "Бонусные лекции"
 permalink: /bonus-lectures/
+toc: true
 ---
 
 ## Расписание предстоящих бонусных лекций

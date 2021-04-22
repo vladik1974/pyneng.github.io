@@ -7,32 +7,25 @@ toc: true
 Тут собраны ссылки на бонусные лекции, которые проводились за все время
 существования курса. Плюс, если есть предстоящие лекции, расписание и
 календарь этих лекций.
-
 Выложены только ссылки в свободном доступе, ссылки на запись лекций на Google Drive
 даю в slack.
 
 Список бонусных лекций:
 
-* Новые возможности в Python 3.x
 * Работа с базами данных в Python
+* Новые возможности в Python 3.x
 * Руководство стилю кода PEP8
 * Аннотация типов
 * Ansible
-* Python полезно знать
-
-    * black
-    * click
-    * logging
-    * pdb
-    * pytest
-
+* black
+* click
+* logging
+* pdb
+* pytest
 * Python package
-* Python продвинутые темы
-
-    * Генераторы
-    * Декораторы
-    * ООП: classmethod, staticmethod, property, namedtuple
-
+* Генераторы
+* Декораторы
+* ООП: classmethod, staticmethod, property, namedtuple
 * Vim, tmux
 
 ## Расписание предстоящих бонусных лекций

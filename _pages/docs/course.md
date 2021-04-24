@@ -197,7 +197,7 @@ comments: false
     <td align="center">15</td>
     <td align="center">24</td>
     <td align="center">24.04.21</td>
-    <td>Завершающая встреча (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-10/lecture-24/">Завершающая встреча (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>  

@@ -14,13 +14,14 @@ comments: false
 3. **[Максим Архипов](https://pyneng.github.io/alumni/Maksim_Arkhipov)**
 4. **[Сергей Сахаров](https://pyneng.github.io/alumni/Sergey_Sakharov)**
 5. **[Евгений Николаев](https://pyneng.github.io/alumni/Evgeniy_Nikolaev)**
-6. **[Евгений Дерновой](https://pyneng.github.io/alumni/Evgeniy_Dernovoy)**
+6. **[Евгений Дерновой](https://pyneng.github.io/alumni/Yevhenii_Dernovyi)**
 7. [Артём Долгий](https://pyneng.github.io/alumni/Artem_Dolgiy)
 8. [Борис Кулинов](https://pyneng.github.io/alumni/Boris_Kulinov)
 9. **[Евгений Алыхов](https://pyneng.github.io/alumni/Evgeniy_Alykhov)**
 10. [Денис Листраденко](https://pyneng.github.io/alumni/Denis_Listradenko)
 11. **[Константин Ким](https://pyneng.github.io/alumni/Konstantin_Kim)**
 12. [Илья Матвейкин](https://pyneng.github.io/alumni/Ilya_Matveykin)
+13. [Ричард Василяускас](https://pyneng.github.io/alumni/Richardas_Vasiliauskas)
 
 
 ## PyNEng online 9. 16.05.20 - 22.08.20

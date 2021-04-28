@@ -15,7 +15,7 @@ comments: false
 4. **[Сергей Сахаров](https://pyneng.github.io/alumni/Sergey_Sakharov)**
 5. **[Евгений Николаев](https://pyneng.github.io/alumni/Evgeniy_Nikolaev)**
 6. **[Евгений Дерновой](https://pyneng.github.io/alumni/Yevhenii_Dernovyi)**
-7. [Артём Долгий](https://pyneng.github.io/alumni/Artem_Dolgiy)
+7. **[Артём Долгий](https://pyneng.github.io/alumni/Artem_Dolgiy)**
 8. [Борис Кулинов](https://pyneng.github.io/alumni/Boris_Kulinov)
 9. **[Евгений Алыхов](https://pyneng.github.io/alumni/Evgeniy_Alykhov)**
 10. [Денис Листраденко](https://pyneng.github.io/alumni/Denis_Listradenko)

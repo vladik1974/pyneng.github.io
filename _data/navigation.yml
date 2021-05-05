@@ -32,9 +32,9 @@ docs:
   - title: Задания
     children:
       - title: Подготовка к работе с заданиями
-        url: /docs/ptest-prepare/
-      - title: Работа с ptest
-        url: /docs/ptest/
+        url: /docs/pyneng-prepare/
+      - title: Работа с pyneng
+        url: /docs/pyneng/
       - title: О заданиях
         url: /docs/tasks/
       - title: Сетевое оборудование

@@ -31,7 +31,7 @@ permalink: /bonus-lectures/
 
 | Дата     |     Время       | Тема |
 |:--------:|:---------------:|------|
-| 16.05.21 | 7:00-9:00 UTC   | [Новые возможности в Python 3.9](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39) |
+| 16.05.21 | 7:00-9:00 UTC   | ~~[Новые возможности в Python 3.9](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39)~~ |
 | 22.05.21 | 7:00-10:00 UTC  | Создание интерфейса командной строки с помощью [Typer](https://github.com/tiangolo/typer) |
 | x.10.21  | 7:00-9:00 UTC   | Новые возможности в Python 3.10 |
 
@@ -48,10 +48,10 @@ permalink: /bonus-lectures/
 ## Новые возможности в Python 3.x
 
 В этом каталоге находятся лекции с информацией об обновлениях в Python 3.7,
-Python 3.8, Python 3.9.
+Python 3.8, [Python 3.9](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39).
 
 * [Запись лекции (youtube)](https://youtube.com/playlist?list=PLah0HUih_ZRlmf6BeA-7Bx-1NvmqnSIOD)
-
+* [Примеры кода, слайды по лекции Python 3.9](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39)
 
 ## Работа с базами данных в Python
 

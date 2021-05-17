@@ -31,7 +31,7 @@ permalink: /bonus-lectures/
 
 | Дата     |     Время       | Тема |
 |:--------:|:---------------:|------|
-| 16.05.21 | 7:00-9:00 UTC   | ~~[Новые возможности в Python 3.9](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39)~~ |
+| 16.05.21 | 7:00-9:00 UTC   | [~~Новые возможности в Python 3.9~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39) |
 | 22.05.21 | 7:00-10:00 UTC  | Создание интерфейса командной строки с помощью [Typer](https://github.com/tiangolo/typer) |
 | x.10.21  | 7:00-9:00 UTC   | Новые возможности в Python 3.10 |
 

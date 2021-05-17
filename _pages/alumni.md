@@ -25,7 +25,7 @@ comments: false
 14. **[Эдуард Арабян](https://pyneng.github.io/alumni/Eduard_Arabian)**
 15. **[Олег Кубуз](https://pyneng.github.io/alumni/Oleg_Kubuz)**
 16. [Роман Волков](https://pyneng.github.io/alumni/Roman_Volkov)
-17. [Руслан Морозевич](https://pyneng.github.io/alumni/)
+17. [Руслан Морозевич](https://pyneng.github.io/alumni/Ruslan_Marazevich)
 18. [Олег Вильковский](https://pyneng.github.io/alumni/Oleg_Vilkovsky)
 19. [Марина Храпова](https://pyneng.github.io/alumni/Marina_Khrapova)
 

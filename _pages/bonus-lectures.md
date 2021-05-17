@@ -36,10 +36,11 @@ permalink: /bonus-lectures/
 
 ## ToDo
 
-* Rich
-* tqdm, spinner
-* Scrapli
-* What's new in Python 3.10
+* [Rich](https://github.com/willmcgugan/rich)
+* [tqdm](https://github.com/tqdm/tqdm), [spinners](https://github.com/manrajgrover/halo)
+* [Scrapli](https://github.com/carlmontanari/scrapli)
+* [What's new in Python 3.10](https://docs.python.org/3.10/whatsnew/3.10.html)
+* [pydantic](https://github.com/samuelcolvin/pydantic)
 
 ## Календарь лекций
 

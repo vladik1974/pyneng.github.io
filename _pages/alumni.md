@@ -22,6 +22,12 @@ comments: false
 11. **[Константин Ким](https://pyneng.github.io/alumni/Konstantin_Kim)**
 12. [Илья Матвейкин](https://pyneng.github.io/alumni/Ilya_Matveykin)
 13. [Ричард Василяускас](https://pyneng.github.io/alumni/Richardas_Vasiliauskas)
+14. **[Эдуард Арабян](https://pyneng.github.io/alumni/Eduard_Arabian)**
+15. **[Олег Кубуз](https://pyneng.github.io/alumni/Oleg_Kubuz)**
+16. [Роман Волков](https://pyneng.github.io/alumni/Roman_Volkov)
+17. [Руслан Морозевич](https://pyneng.github.io/alumni/)
+18. [Олег Вильковский](https://pyneng.github.io/alumni/Oleg_Vilkovsky)
+19. [Марина Храпова](https://pyneng.github.io/alumni/Marina_Khrapova)
 
 
 ## PyNEng online 9. 16.05.20 - 22.08.20

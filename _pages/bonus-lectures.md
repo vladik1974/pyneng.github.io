@@ -32,10 +32,13 @@ permalink: /bonus-lectures/
 | Дата     |     Время       | Тема |
 |:--------:|:---------------:|------|
 | 16.05.21 | 7:00-9:00 UTC   | [~~Новые возможности в Python 3.9~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39) |
-| 22.05.21 | 7:00-10:00 UTC  | Создание интерфейса командной строки с помощью [Typer](https://github.com/tiangolo/typer) |
+| 22.05.21 | 7:00-10:00 UTC  | [~~Создание CLI с помощью Typer~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/09_typer) |
 
 ## ToDo
 
+
+* [~~Новые возможности в Python 3.9~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39)
+* [~~Создание CLI с помощью Typer~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/09_typer)
 * [Rich](https://github.com/willmcgugan/rich)
 * [tqdm](https://github.com/tqdm/tqdm), [spinners](https://github.com/manrajgrover/halo)
 * [Scrapli](https://github.com/carlmontanari/scrapli)

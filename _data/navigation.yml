@@ -19,7 +19,8 @@ docs:
         url: /quiz/
       - title: Бонусные лекции
         url: /bonus-lectures/
-  - title: [Подготовка к курсу](https://pyneng.github.io/pyneng-11/preparation/)
+  - title: Подготовка к курсу
+    url: https://pyneng.github.io/pyneng-11/preparation/
     children:
       - title: Подготовка ВМ/ОС
         url: /docs/course-vm/

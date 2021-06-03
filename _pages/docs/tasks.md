@@ -1,5 +1,5 @@
 ---
-title: "О заданиях"
+title: "Задания"
 permalink: /docs/tasks/
 excerpt: "Задания"
 ---

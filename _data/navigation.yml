@@ -19,6 +19,8 @@ docs:
         url: /quiz/
       - title: Бонусные лекции
         url: /bonus-lectures/
+      - title: Slack
+        url: /docs/slack/
   - title: Подготовка к курсу
     url: https://pyneng.github.io/pyneng-11/preparation/
     children:
@@ -26,8 +28,6 @@ docs:
         url: /docs/course-vm/
       - title: Основы Linux
         url: /docs/linux/
-      - title: Slack
-        url: /docs/slack/
       - title: Прохождение курса на Windows
         url: /docs/pynengwindows/
   - title: Задания

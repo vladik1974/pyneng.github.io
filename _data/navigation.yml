@@ -42,6 +42,7 @@ docs:
         url: /docs/network_devices/
 
   - title: Редакторы
+    url: /docs/editors
     children:
       - title: Редактор Mu
         url: /docs/mu/

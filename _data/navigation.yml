@@ -48,9 +48,14 @@ docs:
       - title: Редактор Geany
         url: /docs/geany/
   - title: Git, Github
+    url: /docs/git-github-course/
     children:
-      - title: Работа с Git и GitHub
-        url: /docs/git-github-course/
+      - title: Основы Git
+        url: /docs/git-basics/
+      - title: Базовая настройка Git и GitHub
+        url: /docs/git-github-setup/
+      - title: Добавление изменений
+        url: /docs/git-github/
       - title: Репозиторий курса
         url: /docs/pyneng-github/
   - title: IPython

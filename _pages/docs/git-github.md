@@ -5,24 +5,27 @@ permalink: /docs/git-github/
 
 ## Копирование репозитория с GitHub
 
-Для выполнения заданий вы будете использовать приватный репозиторий, который создан на GitHub.
+Для выполнения заданий вы будете использовать приватный репозиторий, который создан на GitHub,
+имя репозитория online-11-имя-фамилия.
 
 Для работы с ним локально, его нужно скопировать.
-Для этого используется команда git clone:
+Для этого используется команда git clone.
+В этой команде вам нужно сменить имя репозитория "online-11-natasha-samoylenko" на свой репозиторий.
 
 ```
-$ git clone ssh://git@github.com/pyneng/online-10-natasha-samoylenko.git
+$ git clone ssh://git@github.com/pyneng/online-11-natasha-samoylenko.git
 ```
 
-В этой команде вам нужно сменить имя репозитория "online-10-natasha-samoylenko" на свой репозиторий.
 
-> Команду git clone надо делать в каталоге, который не является репозиторием git.
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Команду git clone надо делать в каталоге, который не является репозиторием git.
+</div>""
 
 Пример вывода
 
 ```
-$ git clone ssh://git@github.com/pyneng/online-10-natasha-samoylenko.git
-Cloning into 'online-10-natasha-samoylenko'...
+$ git clone ssh://git@github.com/pyneng/online-11-natasha-samoylenko.git
+Cloning into 'online-11-natasha-samoylenko'...
 remote: Counting objects: 241, done.
 remote: Compressing objects: 100% (191/191), done.
 remote: Total 241 (delta 43), reused 239 (delta 41), pack-reused 0
@@ -32,7 +35,7 @@ Checking connectivity... done.
 ```
 
 В итоге, в текущем каталоге, в котором была выполнена команда git clone, появится каталог с именем равным имени репозитория.
-В моем случае - online-10-natasha-samoylenko.
+В моем случае - online-11-natasha-samoylenko.
 
 Если вы перейдете в этот каталог, то увидите в нем содержимое репозитория на GitHub.
 
@@ -62,7 +65,7 @@ Checking connectivity... done.
 
 ### Синхронизация из GitHub в локальный репозиторий
 
-> Все команды выполняются внутри каталога репозитория (в примере выше - online-10-natasha-samoylenko)
+> Все команды выполняются внутри каталога репозитория (в примере выше - online-11-natasha-samoylenko)
 
 Команда git pull:
 ```
@@ -82,7 +85,7 @@ remote: Counting objects: 5, done.
 remote: Compressing objects: 100% (1/1), done.
 remote: Total 5 (delta 4), reused 5 (delta 4), pack-reused 0
 Unpacking objects: 100% (5/5), done.
-From ssh://github.com/pyneng/online-10-natasha-samoylenko
+From ssh://github.com/pyneng/online-11-natasha-samoylenko
    89c04b6..fc4c721  master     -> origin/master
 Updating 89c04b6..fc4c721
 Fast-forward
@@ -122,7 +125,7 @@ Compressing objects: 100% (5/5), done.
 Writing objects: 100% (5/5), 426 bytes | 0 bytes/s, done.
 Total 5 (delta 4), reused 0 (delta 0)
 remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
-To ssh://git@github.com/pyneng/online-10-natasha-samoylenko.git
+To ssh://git@github.com/pyneng/online-11-natasha-samoylenko.git
    fc4c721..edcf417  master -> master
 ```
 

@@ -89,7 +89,7 @@ remote: Compressing objects: 100% (1/1), done.
 remote: Total 5 (delta 4), reused 5 (delta 4), pack-reused 0
 Unpacking objects: 100% (5/5), done.
 From ssh://github.com/pyneng/online-11-natasha-samoylenko
-   89c04b6..fc4c721  master     -> origin/master
+   89c04b6..fc4c721  main     -> origin/main
 Updating 89c04b6..fc4c721
 Fast-forward
  exercises/03_data_structures/task_3_3.py | 2 ++
@@ -122,15 +122,15 @@ $ git commit -m "Сделаны задания 4.1-4.3"
 
 Для загрузки всех локальных изменений на GitHub, используется git push:
 ```
-$ git push origin master
+$ git push origin main
 Counting objects: 5, done.
 Compressing objects: 100% (5/5), done.
 Writing objects: 100% (5/5), 426 bytes | 0 bytes/s, done.
 Total 5 (delta 4), reused 0 (delta 0)
 remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
 To ssh://git@github.com/pyneng/online-11-natasha-samoylenko.git
-   fc4c721..edcf417  master -> master
+   fc4c721..edcf417  main -> main
 ```
 
-> Перед выполнением git push, можно выполнить команду ```$ git log -p origin/master..``` - она покажет какие изменения вы собираетесь добавлять в свой репозиторий на GitHub.
+> Перед выполнением git push, можно выполнить команду ```$ git log -p origin/main..``` - она покажет какие изменения вы собираетесь добавлять в свой репозиторий на GitHub.
 

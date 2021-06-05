@@ -10,6 +10,7 @@ main:
     url: /about/
 docs:
   - title: Основные ресурсы
+    url: /links/
     children:
       - title: "Программа курса"
         url: /docs/course/

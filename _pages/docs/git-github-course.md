@@ -18,7 +18,7 @@ excerpt: "Git and GitHub"
 
 1. [Разобраться с основами Git](https://pyneng.github.io/docs/git-basics/)
 2. [Выполнить базовую настройку Git и GitHub](https://pyneng.github.io/docs/git-github-setup/)
-3. [Разобраться как добавлять изменения в Git/GitHub](https://pyneng.github.io/docs/git-github/)
+3. [Работа с репозиторием слушателя](https://pyneng.github.io/docs/git-github/)
 
 ### Как проверять задания, смотреть варианты решения и сдавать на проверку
 

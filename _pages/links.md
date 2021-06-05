@@ -1,0 +1,93 @@
+# main links
+main:
+  - title: "Выпускники"
+    url: /alumni/
+  - title: "Отзывы"
+    url: /testimonials/
+  - title: "Записаться на курс"
+    url: https://natenka.github.io/pyneng-online/
+  - title: "Преподаватель"
+    url: /about/
+docs:
+  - title: Основные ресурсы
+    url: /links/
+    children:
+      - title: "Программа курса"
+        url: /docs/course/
+      - title: Календарь
+        url: /calendar/
+      - title: Вопросы
+        url: /quiz/
+      - title: Бонусные лекции
+        url: /bonus-lectures/
+      - title: Slack
+        url: /docs/slack/
+  - title: Подготовка к курсу
+    url: https://pyneng.github.io/pyneng-11/preparation/
+    children:
+      - title: Подготовка ВМ/ОС
+        url: /docs/course-vm/
+      - title: Основы Linux
+        url: /docs/linux/
+      - title: Прохождение курса на Windows
+        url: /docs/pynengwindows/
+  - title: Задания
+    url: /docs/tasks/
+    children:
+      - title: Подготовка к работе с заданиями
+        url: /docs/pyneng-prepare/
+      - title: Работа с pyneng
+        url: /docs/pyneng/
+      - title: Сетевое оборудование
+        url: /docs/network_devices/
+
+  - title: Редакторы
+    url: /docs/editors
+    children:
+      - title: Редактор Mu
+        url: /docs/mu/
+      - title: Редактор Geany
+        url: /docs/geany/
+  - title: Git, Github
+    url: /docs/git-github-course/
+    children:
+      - title: Основы Git
+        url: /docs/git-basics/
+      - title: Настройка Git и GitHub
+        url: /docs/git-github-setup/
+      - title: Добавление изменений
+        url: /docs/git-github/
+      - title: Репозиторий курса
+        url: /docs/pyneng-github/
+  - title: IPython
+    children:
+      - title: ipython
+        url: /docs/ipython/
+  - title: Дополнительные ресурсы
+    children:
+      - title: Как учиться
+        url: /docs/learning/
+      - title: "Как учиться на курсе у Наташи Самойленко"
+        url: /docs/natasha/
+      - title: Дополнительные ресурсы по Python
+        url: /docs/python-docs/
+  - title: Архив
+    children:
+      - title: PyNEng Online 2
+        url: /pyneng-online-2/
+      - title: PyNEng Online 3
+        url: /pyneng-online-3/
+      - title: PyNEng Online 4
+        url: /pyneng-online-4/
+      - title: PyNEng Online 5
+        url: /pyneng-online-5/
+      - title: PyNEng Online 6
+        url: /pyneng-online-6/
+      - title: PyNEng Online 7
+        url: /pyneng-online-7/
+      - title: PyNEng Online 8
+        url: /pyneng-online-8/
+      - title: PyNEng Online 9
+        url: /pyneng-online-9/
+      - title: PyNEng Online 10
+        url: /pyneng-online-10/

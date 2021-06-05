@@ -52,7 +52,7 @@ docs:
     children:
       - title: Основы Git
         url: /docs/git-basics/
-      - title: Базовая настройка Git и GitHub
+      - title: Настройка Git и GitHub
         url: /docs/git-github-setup/
       - title: Добавление изменений
         url: /docs/git-github/

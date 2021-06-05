@@ -16,16 +16,7 @@ permalink: /docs/git-github/
 $ git clone ssh://git@github.com/pyneng/online-11-natasha-samoylenko.git
 ```
 
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Команду git clone надо делать в каталоге, который не является репозиторием git.
-</div>
-
----
-**Предупреждение**
-
-Команду git clone надо делать в каталоге, который не является репозиторием git.
----
+> Команду git clone надо делать в каталоге, который не является репозиторием git.
 
 Пример вывода
 

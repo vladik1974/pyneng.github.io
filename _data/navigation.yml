@@ -55,7 +55,7 @@ docs:
         url: /docs/git-basics/
       - title: Настройка Git и GitHub
         url: /docs/git-github-setup/
-      - title: Добавление изменений
+      - title: Работа с репозиторием слушателя
         url: /docs/git-github/
       - title: Репозиторий курса
         url: /docs/pyneng-github/

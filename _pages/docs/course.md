@@ -37,7 +37,7 @@ comments: false
  <tr>
     <td align="center">3</td>
     <td align="center">06.06.21</td>
-    <td>Выбор редактора. Основы Python (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-11/lecture-3/">Выбор редактора. Основы Python (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

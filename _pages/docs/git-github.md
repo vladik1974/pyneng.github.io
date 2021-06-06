@@ -19,7 +19,7 @@ permalink: /docs/git-github/
 В этой команде вам нужно сменить имя "natasha-samoylenko" на имя в своем репозитории.
 
 ```
-$ git clone ssh://git@github.com/pyneng/online-11-natasha-samoylenko.git
+$ git clone git@github.com:pyneng/online-11-natasha-samoylenko.git
 ```
 
 > Команду git clone надо делать в каталоге, который не является репозиторием git.
@@ -27,7 +27,7 @@ $ git clone ssh://git@github.com/pyneng/online-11-natasha-samoylenko.git
 Пример вывода
 
 ```
-$ git clone ssh://git@github.com/pyneng/online-11-natasha-samoylenko.git
+$ git clone git@github.com:pyneng/online-11-natasha-samoylenko.git
 Cloning into 'online-11-natasha-samoylenko'...
 remote: Counting objects: 241, done.
 remote: Compressing objects: 100% (191/191), done.

@@ -1,36 +1,24 @@
-# main links
-main:
-  - title: "Выпускники"
-    url: /alumni/
-  - title: "Отзывы"
-    url: /testimonials/
-  - title: "Записаться на курс"
-    url: https://natenka.github.io/pyneng-online/
-  - title: "Преподаватель"
-    url: /about/
-docs:
-  - title: Основные ресурсы
-    url: /links/
-    children:
-      - title: "Программа курса"
-        url: /docs/course/
-      - title: Календарь
-        url: /calendar/
-      - title: Вопросы
-        url: /quiz/
-      - title: Бонусные лекции
-        url: /bonus-lectures/
-      - title: Slack
-        url: /docs/slack/
-  - title: Подготовка к курсу
-    url: https://pyneng.github.io/pyneng-11/preparation/
-    children:
-      - title: Подготовка ВМ/ОС
-        url: /docs/course-vm/
-      - title: Основы Linux
-        url: /docs/linux/
-      - title: Прохождение курса на Windows
-        url: /docs/pynengwindows/
+---
+title: "Основные ресурсы"
+permalink: /links/
+comments: false
+---
+
+Основые ресурсы по курсу:
+
+* [Программа курса](/docs/course/)
+* [Календарь](/calendar/)
+* [Вопросы](/quiz/)
+* [Бонусные лекции](/bonus-lectures/)
+* [Slack](/docs/slack/)
+
+
+[Подготовка к курсу](https://pyneng.github.io/pyneng-11/preparation/):
+
+* [Подготовка ВМ/ОС](/docs/course-vm/)
+* [Основы Linux](/docs/linux/)
+* [Прохождение курса на Windows](/docs/pynengwindows/)
+
   - title: Задания
     url: /docs/tasks/
     children:

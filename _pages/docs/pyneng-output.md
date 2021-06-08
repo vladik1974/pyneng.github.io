@@ -33,18 +33,23 @@ assert correct_output in return_output
 assert correct_return_value == return_value
 ```
 
-В этом случае, тест выводит Left как правильный ответ зеленого цвета, а Right как вывод задания красного цвета:
+В этом случае, тест выводит Left как правильный ответ зеленого цвета, а Right как вывод задания красного цвета.
+В этом задании надо было вывести строку с GigabitEthernet, а была выведена FastEthernet:
 
-![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/ptest_output_2.png)
+![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/pyneng_output_1.png)
 
 Другие примеры вывода, с разными отличиями, но тут во всех случаях left (зеленое) это правильный результат,
 а rigth (красное) то что было получено при запуске задания:
 
-![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/pyneng_output_1.png)
+Тут отличие в том, что надо вывести MAC-адрес с точками, а выведен с двоеточиями:
 
 ![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/pyneng_output_3.png)
 
+В задании надо получить список с вланами, где каждый влан отдельный элемент списка, а получен список с одной строкой, в которой написаны все вланы:
+
 ![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/pyneng_output_2.png)
+
+Отличие с правильным результатом в том, что в правильном выводе не должно быть квадратных скобок `[]`:
 
 ![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/pyneng_output_4.png)
 

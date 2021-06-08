@@ -67,3 +67,10 @@ assert correct_stdout in out.strip()
 
 ![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/ptest_output_1.png)
 
+
+### Неправильный тип данных
+
+Кроме отличий в результате, может также отличаться тип данных. Например, по заданию надо получить список,
+а получена строка. В этом случае проще всего читать сообщение ошибки (выделено):
+
+![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/pyneng_output_5.png)

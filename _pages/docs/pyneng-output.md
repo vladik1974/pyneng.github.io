@@ -12,7 +12,7 @@ excerpt: "Вывод pyneng"
 
 ## Тесты прошли успешно
 
-![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/pyneng_output_5.png)
+![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/ptest_output_5.png)
 
 ## Тесты не прошли
 
@@ -28,7 +28,7 @@ assert correct_stdout in out.strip()
 
 В этом случае Left это правильный вывод, right вывод задания:
 
-![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/pyneng_output_1.png)
+![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/ptest_output_1.png)
 
 
 или так:
@@ -39,6 +39,6 @@ return_value == correct_return_value
 
 В этом случае Right это правильный вывод, Left вывод задания:
 
-![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/pyneng_output_2.png)
+![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/ptest_output_2.png)
 
 

@@ -74,3 +74,14 @@ assert correct_stdout in out.strip()
 а получена строка. В этом случае проще всего читать сообщение ошибки (выделено):
 
 ![passed](https://raw.githubusercontent.com/pyneng/pyneng.github.io/master/assets/images/pyneng_output_5.png)
+
+В тесте проверка типа данных выглядит так
+
+```python
+assert (
+    type(task_4_3.result) == list
+), f"По заданию в переменной result должен быть список, а в ней {type(task_4_3.result).__name__}"
+```
+
+И для проверки типов left это то что получено в задании, а right то что должно быть. При этом,
+так как в этом случае генерируется понятное сообщение, проще читать его.

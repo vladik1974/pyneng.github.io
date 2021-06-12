@@ -53,7 +53,7 @@ IPython 6.4.0 -- An enhanced Interactive Python. Type '?' for help.
 ### Список модулей, которые нужно установить для курса
 
 ```
-pip install pytest pytest-clarity pyyaml tabulate jinja2 textfsm pexpect netmiko
+pip install pytest pytest-clarity==0.3.0a0 pyyaml tabulate jinja2 textfsm netmiko
 ```
 
 Также надо установить graphviz принятым способом в ОС (пример для debian):

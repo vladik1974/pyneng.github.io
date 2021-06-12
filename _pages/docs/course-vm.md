@@ -26,7 +26,7 @@ permalink: /docs/course-vm/
 Список модулей, которые нужно установить:
 
 ```
-pip install pytest pytest-clarity pyyaml tabulate jinja2 textfsm pexpect netmiko graphviz
+pip install pytest pytest-clarity==0.3.0a0 pyyaml tabulate jinja2 textfsm pexpect netmiko graphviz
 ```
 
 Также надо установить graphviz принятым способом в ОС (пример для debian):

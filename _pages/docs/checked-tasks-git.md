@@ -37,6 +37,6 @@ git push origin task_check
 
 Чтобы перейти назад в дефолтную ветку, в которой вы делали задания, надо сделать:
 ```
-git checkout master
+git checkout main
 ```
 

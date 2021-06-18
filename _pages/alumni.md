@@ -28,6 +28,8 @@ comments: false
 17. [Руслан Морозевич](https://pyneng.github.io/alumni/Ruslan_Marazevich)
 18. [Олег Вильковский](https://pyneng.github.io/alumni/Oleg_Vilkovsky)
 19. [Марина Храпова](https://pyneng.github.io/alumni/Marina_Khrapova)
+20. **[Евгений Солонин](https://pyneng.github.io/alumni/Evgheni_Solonin)**
+
 
 
 ## PyNEng online 9. 16.05.20 - 22.08.20

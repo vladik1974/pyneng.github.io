@@ -29,6 +29,10 @@ comments: false
 18. [Олег Вильковский](https://pyneng.github.io/alumni/Oleg_Vilkovsky)
 19. [Марина Храпова](https://pyneng.github.io/alumni/Marina_Khrapova)
 20. **[Евгений Солонин](https://pyneng.github.io/alumni/Evgheni_Solonin)**
+21. [Кирилл Адамович](https://pyneng.github.io/alumni/Kirill_Adamovich)
+22. **[Александр Кузнецов](https://pyneng.github.io/alumni/Aleksandr_Kuznetsov)**
+23. **[Владимир Тищенко](https://pyneng.github.io/alumni/Vladimir_Tishchenko)**
+
 
 
 

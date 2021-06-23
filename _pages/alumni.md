@@ -58,6 +58,7 @@ comments: false
 22. **[Юрий Юрин](https://pyneng.github.io/alumni/Yury_Yurin)**
 23. [Алишер Фазилов](https://pyneng.github.io/alumni/Alisher_Fazilov)
 24. **[Сергей Конев](https://pyneng.github.io/alumni/Sergey_Konev)**
+25. **[Владимир Василенко](https://pyneng.github.io/alumni/Vladimir_Vasilenko)**
 
 
 

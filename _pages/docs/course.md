@@ -75,7 +75,7 @@ comments: false
     <td rowspan="2" align="center">5</td>
     <td align="center">8</td>
     <td align="center">26.06.21</td>
-    <td>Функции (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-11/lecture-8/">Функции (3ч)</a></td>
     <td align="center">7 (09_functions)</td>
     <td align="center">9.1, 9.1a, 9.2, 9.2a, 9.3</td>
  </tr>

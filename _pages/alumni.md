@@ -32,7 +32,7 @@ comments: false
 21. [Кирилл Адамович](https://pyneng.github.io/alumni/Kirill_Adamovich)
 22. **[Александр Кузнецов](https://pyneng.github.io/alumni/Aleksandr_Kuznetsov)**
 23. **[Владимир Тищенко](https://pyneng.github.io/alumni/Vladimir_Tishchenko)**
-
+24. **[Сергей Соколов](https://pyneng.github.io/alumni/Sergey_Sokolov)**
 
 
 

@@ -33,6 +33,8 @@ permalink: /bonus-lectures/
 |:--------:|:---------------:|------|
 | 16.05.21 | 7:00-9:00 UTC   | [~~Новые возможности в Python 3.9~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39) |
 | 22.05.21 | 7:00-10:00 UTC  | [~~Создание CLI с помощью Typer~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/09_typer) |
+| 18.07.21 | 7:00-9:00 UTC   | [Модуль Rich](https://github.com/willmcgugan/rich)
+| 08.08.21 | 7:00-10:00 UTC  | [Scrapli](https://github.com/carlmontanari/scrapli)
 
 ## ToDo
 

@@ -42,10 +42,11 @@ permalink: /bonus-lectures/
 * [~~Новые возможности в Python 3.9~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39)
 * [~~Создание CLI с помощью Typer~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/09_typer)
 * [Rich](https://github.com/willmcgugan/rich)
-* [tqdm](https://github.com/tqdm/tqdm), [spinners](https://github.com/manrajgrover/halo)
 * [Scrapli](https://github.com/carlmontanari/scrapli)
+* [TTP](https://github.com/dmulyalin/ttp)
 * [What's new in Python 3.10](https://docs.python.org/3.10/whatsnew/3.10.html)
 * [pydantic](https://github.com/samuelcolvin/pydantic)
+* [tqdm](https://github.com/tqdm/tqdm), [spinners](https://github.com/manrajgrover/halo)
 
 ## Календарь лекций
 

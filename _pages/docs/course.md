@@ -112,7 +112,7 @@ comments: false
  <tr>
     <td align="center">13</td>
     <td align="center">11.07.21</td>
-    <td>Модуль re (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-11/lecture-13/">Модуль re (3ч)</a></td>
     <td align="center">8 (15_module_re)</td>
     <td align="center">15.1, 15.2, 15.3, 15.4</td>
  </tr>

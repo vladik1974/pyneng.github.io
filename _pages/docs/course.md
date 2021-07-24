@@ -128,7 +128,7 @@ comments: false
     <td align="center">9</td>
     <td align="center">15</td>
     <td align="center">24.07.21</td>
-    <td>Обработка данных в форматах YAML, JSON, CSV (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-11/lecture-15/">Обработка данных в форматах YAML, JSON, CSV (3ч)</a></td>
     <td align="center">6 (17_serialization)</td>
     <td align="center">17.1, 17.2, 17.3</td>
  </tr>

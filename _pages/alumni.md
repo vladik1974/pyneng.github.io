@@ -50,7 +50,7 @@ comments: false
 23. **[Владимир Тищенко](https://pyneng.github.io/alumni/Vladimir_Tishchenko)**
 24. **[Сергей Соколов](https://pyneng.github.io/alumni/Sergey_Sokolov)**
 25. **[Сергей Киселев](https://pyneng.github.io/alumni/Sergey_Kiselev)**
-26. **[Илья Булах](https://pyneng.github.io/alumni/Ilya_Bulakh**
+26. **[Илья Булах](https://pyneng.github.io/alumni/Ilya_Bulakh)**
 27. **[Павел Чепайкин](https://pyneng.github.io/alumni/Pavel_Chepaykin)**
 
 

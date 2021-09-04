@@ -1,6 +1,6 @@
 ---
 title: "Pavel Butsik"
-permalink: /alumni/Pavel_Butsik
+permalink: /alumni/Pavel_Butsik_2
 author_profile: false
 comments: false
 sidebar: false

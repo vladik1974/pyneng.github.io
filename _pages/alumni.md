@@ -50,9 +50,8 @@ comments: false
 23. **[Владимир Тищенко](https://pyneng.github.io/alumni/Vladimir_Tishchenko)**
 24. **[Сергей Соколов](https://pyneng.github.io/alumni/Sergey_Sokolov)**
 25. **[Сергей Киселев](https://pyneng.github.io/alumni/Sergey_Kiselev)**
-
-2. [](https://pyneng.github.io/alumni/Ilya_Bulakh.png)
-2. [](https://pyneng.github.io/alumni/Pavel_Chepaykin.png)
+26. **[Илья Булах](https://pyneng.github.io/alumni/Ilya_Bulakh.png)**
+27. **[Павел Чепайкин](https://pyneng.github.io/alumni/Pavel_Chepaykin.png)**
 
 
 ## PyNEng online 9. 16.05.20 - 22.08.20

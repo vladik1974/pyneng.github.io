@@ -40,6 +40,8 @@ docs:
         url: /docs/pyneng/
       - title: Сетевое оборудование
         url: /docs/network_devices/
+      - title: Выполнение заданий на Windows
+        url: /docs/taskswindows/
 
   - title: Редакторы
     url: /docs/editors

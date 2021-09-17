@@ -33,22 +33,18 @@ permalink: /bonus-lectures/
 
 | Дата     |     Время       | Тема |
 |:--------:|:---------------:|------|
-| 16.05.21 | 7:00-9:00 UTC   | [~~Новые возможности в Python 3.9~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39) |
-| 22.05.21 | 7:00-10:00 UTC  | [~~Создание CLI с помощью Typer~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/09_typer) |
-| 18.07.21 | 7:00-9:00 UTC   | [~~Модуль Rich~~](https://github.com/willmcgugan/rich)
-| 08.08.21 | 7:00-10:00 UTC  | [~~Scrapli~~](https://github.com/carlmontanari/scrapli)
+| 10.10.21 | 7:00-9:00 UTC   | Новые возможности в Python 3.10 |
 
 ## ToDo
 
-
+* [What's new in Python 3.10](https://docs.python.org/3.10/whatsnew/3.10.html)
+* Функции
+* [TTP](https://github.com/dmulyalin/ttp)
+* [pydantic](https://github.com/samuelcolvin/pydantic)
 * [~~Новые возможности в Python 3.9~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39)
 * [~~Создание CLI с помощью Typer~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/09_typer)
 * [~~Rich~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/10_rich)
 * [~~Scrapli~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/11_scrapli)
-* Функции
-* [TTP](https://github.com/dmulyalin/ttp)
-* [What's new in Python 3.10](https://docs.python.org/3.10/whatsnew/3.10.html)
-* [pydantic](https://github.com/samuelcolvin/pydantic)
 
 ## Календарь лекций
 

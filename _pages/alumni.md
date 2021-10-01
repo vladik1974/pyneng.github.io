@@ -19,7 +19,7 @@ comments: false
 7. [Михаил Детюченко](https://pyneng.github.io/alumni/Mikhail_Detiuchenko)
 8. **[Александр Никифоров](https://pyneng.github.io/alumni/Aleksandr_Nikiforov)**
 9. **[Дмитрий Новиков](https://pyneng.github.io/alumni/Dmitrii_Novikov)**
-10. [Александр Бирюков](https://pyneng.github.io/alumni/Aleksandr_Biryukov)
+10. **[Александр Бирюков](https://pyneng.github.io/alumni/Aleksandr_Biryukov)**
 11. **[Сергей Казакевич](https://pyneng.github.io/alumni/Sergey_Kazakevich)**
 12. [Геннадий Хаустов](https://pyneng.github.io/alumni/Gennadiy_Khaustov)
 

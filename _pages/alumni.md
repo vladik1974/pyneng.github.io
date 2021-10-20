@@ -26,6 +26,10 @@ comments: false
 14. **[Александр Неудачин](https://pyneng.github.io/alumni/Aleksandr_Neudachin)**
 15. **[Денис Монин](https://pyneng.github.io/alumni/Denis_Monin)**
 16. **[Владимир Закордонец](https://pyneng.github.io/alumni/Vladimir_Zakordonets)**
+17. **[Нарек Мовсесян](https://pyneng.github.io/alumni/Narek_Movsеsyan)**
+18. **[Александр Бембель](https://pyneng.github.io/alumni/Aleksandr_Bembel)**
+19. [Лев Каганер](https://pyneng.github.io/alumni/Lev_Kaganer)
+
 
 ## PyNEng online 10. 16.01.21 - 24.04.21
 
@@ -58,6 +62,8 @@ comments: false
 27. **[Павел Чепайкин](https://pyneng.github.io/alumni/Pavel_Chepaykin)**
 28. [Павел Кулаков](https://pyneng.github.io/alumni/Pavel_Kulakov)
 29. [Марина Шободоева](https://pyneng.github.io/alumni/Marina_Shobodoeva)
+30. **[Максим Бородин](https://pyneng.github.io/alumni/Maksim_Borodin)**
+31. **[Виталий Чистяков](https://pyneng.github.io/alumni/Vitaly_Chistyakov)**
 
 
 ## PyNEng online 9. 16.05.20 - 22.08.20

@@ -17,8 +17,9 @@ excerpt: "Git and GitHub"
 Для выполнения заданий на курсе надо выполнить по очереди инструкции/прочитать руководства:
 
 1. [Разобраться с основами Git](https://pyneng.github.io/docs/git-basics/)
-2. [Выполнить базовую настройку Git и GitHub](https://pyneng.github.io/docs/git-github-setup/)
-3. [Работа с репозиторием слушателя](https://pyneng.github.io/docs/git-github/)
+2. [Отображение статуса репозитория в командной строке (только для Linux/Mac OS)](https://pyneng.github.io/docs/git-prompt/)
+3. [Выполнить базовую настройку Git и GitHub](https://pyneng.github.io/docs/git-github-setup/)
+4. [Работа с репозиторием слушателя](https://pyneng.github.io/docs/git-github/)
 
 ### Как проверять задания, смотреть варианты решения и сдавать на проверку
 

@@ -33,10 +33,11 @@ permalink: /bonus-lectures/
 
 | Дата     |     Время       | Тема |
 |:--------:|:---------------:|------|
-| 10.10.21 | 7:00-9:00 UTC   | Новые возможности в Python 3.10 |
+| 19.12.21 | 7:00-9:00 UTC   | [Аннотация типов: Generics, Protocols, TypeVar](https://github.com/pyneng/all-pyneng-slides/blob/main/bonus/adv_type_annotations.md) |
 
 ## ToDo
 
+* [Аннотация типов: Generics, Protocols, TypeVar](https://github.com/pyneng/all-pyneng-slides/blob/main/bonus/adv_type_annotations.md)
 * [What's new in Python 3.10](https://docs.python.org/3.10/whatsnew/3.10.html)
 * Функции
 * [TTP](https://github.com/dmulyalin/ttp)

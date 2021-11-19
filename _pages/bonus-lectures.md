@@ -34,14 +34,16 @@ permalink: /bonus-lectures/
 | Дата     |     Время       | Тема |
 |:--------:|:---------------:|------|
 | 19.12.21 | 7:00-9:00 UTC   | [Аннотация типов: Generics, Protocols, TypeVar](https://github.com/pyneng/all-pyneng-slides/blob/main/bonus/adv_type_annotations.md) |
+| 15.01.22 | 7:00-9:00 UTC   | Функции |
+| 22.01.22 | 7:00-9:00 UTC   | Pydantic |
 
 ## ToDo
 
 * [Аннотация типов: Generics, Protocols, TypeVar](https://github.com/pyneng/all-pyneng-slides/blob/main/bonus/adv_type_annotations.md)
-* [What's new in Python 3.10](https://docs.python.org/3.10/whatsnew/3.10.html)
 * Функции
 * [TTP](https://github.com/dmulyalin/ttp)
 * [pydantic](https://github.com/samuelcolvin/pydantic)
+* [~~What's new in Python 3.10~~](https://natenka.github.io/python/python-310-lecture/)
 * [~~Новые возможности в Python 3.9~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39)
 * [~~Создание CLI с помощью Typer~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/09_typer)
 * [~~Rich~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/10_rich)

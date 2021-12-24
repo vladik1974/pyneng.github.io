@@ -29,6 +29,10 @@ comments: false
 17. **[Нарек Мовсесян](https://pyneng.github.io/alumni/Narek_Movsеsyan)**
 18. **[Александр Бембель](https://pyneng.github.io/alumni/Aleksandr_Bembel)**
 19. [Лев Каганер](https://pyneng.github.io/alumni/Lev_Kaganer)
+20. [Александр Васильев](https://pyneng.github.io/alumni/Aleksander_Vasiliev)
+21. [Владислав Карпов](https://pyneng.github.io/alumni/Vladislav_Karpov)
+22. [Константин Яковлев](https://pyneng.github.io/alumni/Konstantin_Yakovlev)
+23. [Василий Танцура](https://pyneng.github.io/alumni/Vasiliy_Tantsura)
 
 
 ## PyNEng online 10. 16.01.21 - 24.04.21

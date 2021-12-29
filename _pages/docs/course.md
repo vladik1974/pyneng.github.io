@@ -44,7 +44,7 @@ comments: false
  <tr>
     <td align="center">4</td>
     <td align="center">13.02.22</td>
-    <td>Типы данных в Python (3ч)</td>
+    <td>Типы данных в Python (2ч)</td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>
@@ -52,7 +52,7 @@ comments: false
     <td rowspan="2" align="center">3</td>
     <td align="center">5</td>
     <td align="center">19.02.22</td>
-    <td>Типы данных в Python (4ч)</td>
+    <td>Типы данных в Python (3ч)</td>
     <td align="center">4.1, 4.2, 4.3</td>
     <td align="center">4.1, 4.2, 4.3</td>
  </tr>

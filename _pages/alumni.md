@@ -33,6 +33,7 @@ comments: false
 21. [Владислав Карпов](https://pyneng.github.io/alumni/Vladislav_Karpov)
 22. [Константин Яковлев](https://pyneng.github.io/alumni/Konstantin_Yakovlev)
 23. [Василий Танцура](https://pyneng.github.io/alumni/Vasiliy_Tantsura)
+24. [Виталий Дубов](https://pyneng.github.io/alumni/Vitaliy_Dubov)
 
 
 ## PyNEng online 10. 16.01.21 - 24.04.21

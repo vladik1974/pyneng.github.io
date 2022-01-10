@@ -61,7 +61,7 @@ comments: false
     <td align="center">20.02.22</td>
     <td>Типы данных в Python. Создание базовых скриптов (3ч)</td>
     <td align="center">17 (04_data_structures, 05_basic_scripts)</td>
-    <td align="center">4.1, 4.2, 4.3, 4.6, 5.1, 5.1a, 5.2, 5.2a</td>
+    <td align="center">4.1, 4.2, 4.3, 4.6, 5.1, 5.1a, 5.1b, 5.2</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">4</td>

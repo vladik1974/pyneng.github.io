@@ -16,7 +16,9 @@ docs:
         url: /docs/course/
       - title: Календарь
         url: /calendar/
-      - title: Вопросы
+      - title: Вопросы в FCC
+        url: /qa-fcc/
+      - title: Мини-задания
         url: /quiz/
       - title: Бонусные лекции
         url: /bonus-lectures/

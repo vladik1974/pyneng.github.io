@@ -35,7 +35,7 @@ permalink: /bonus-lectures/
 |:----------:|:---------------:|------|
 | 12.02.2022 | 13:00-15:00 UTC | [Аннотация типов: Generics, Protocols, TypeVar](https://github.com/pyneng/all-pyneng-slides/blob/main/bonus/adv_type_annotations.md) |
 | 19.02.2022 | 13:00-15:00 UTC | Функции |
-| - | 7:00-9:00 UTC | Pydantic |
+| 27.03.2022 | 7:00-9:00 UTC   | Pydantic |
 
 ## ToDo
 

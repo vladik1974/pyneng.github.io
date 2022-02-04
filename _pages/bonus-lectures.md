@@ -31,23 +31,19 @@ permalink: /bonus-lectures/
 
 ## Расписание предстоящих бонусных лекций
 
-| Дата     |     Время       | Тема |
-|:--------:|:---------------:|------|
-| - | 7:00-9:00 UTC   | [Аннотация типов: Generics, Protocols, TypeVar](https://github.com/pyneng/all-pyneng-slides/blob/main/bonus/adv_type_annotations.md) |
-| - | 7:00-9:00 UTC   | Функции |
-| - | 7:00-9:00 UTC   | Pydantic |
+| Дата       |     Время       | Тема |
+|:----------:|:---------------:|------|
+| 12.02.2022 | 13:00-15:00 UTC | [Аннотация типов: Generics, Protocols, TypeVar](https://github.com/pyneng/all-pyneng-slides/blob/main/bonus/adv_type_annotations.md) |
+| 19.02.2022 | 13:00-15:00 UTC | Функции |
+| - | 7:00-9:00 UTC | Pydantic |
 
 ## ToDo
 
 * [Аннотация типов: Generics, Protocols, TypeVar](https://github.com/pyneng/all-pyneng-slides/blob/main/bonus/adv_type_annotations.md)
 * Функции
-* [TTP](https://github.com/dmulyalin/ttp)
 * [pydantic](https://github.com/samuelcolvin/pydantic)
-* [~~What's new in Python 3.10~~](https://natenka.github.io/python/python-310-lecture/)
-* [~~Новые возможности в Python 3.9~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/08_python39)
-* [~~Создание CLI с помощью Typer~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/09_typer)
-* [~~Rich~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/10_rich)
-* [~~Scrapli~~](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/11_scrapli)
+* [What's new in Python 3.11](https://docs.python.org/3.11/whatsnew/3.11.html)
+* [TTP](https://github.com/dmulyalin/ttp)
 
 ## Календарь лекций
 

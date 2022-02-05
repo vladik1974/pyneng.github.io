@@ -45,6 +45,7 @@ permalink: /bonus-lectures/
 * [What's new in Python 3.11](https://docs.python.org/3.11/whatsnew/3.11.html)
 * [TTP](https://github.com/dmulyalin/ttp)
 
+
 ## Календарь лекций
 
 Календарь в формате [ical](https://calendar.google.com/calendar/ical/tbrecv5n6236rajk4t5bogtlo0%40group.calendar.google.com/public/basic.ics)

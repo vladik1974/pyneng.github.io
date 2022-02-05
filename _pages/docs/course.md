@@ -22,7 +22,7 @@ comments: false
     <td rowspan="2" align="center">1</td>
     <td align="center">1</td>
     <td align="center">05.02.22</td>
-    <td>Вводная лекция: О курсе (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-12/lecture-1/">Вводная лекция: О курсе (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

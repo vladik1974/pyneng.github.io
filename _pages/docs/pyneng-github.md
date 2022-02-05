@@ -3,7 +3,7 @@ title: "Репозиторий курса"
 permalink: /docs/pyneng-github/
 ---
 
-В [репозитории курса](https://github.com/pyneng/pyneng-online-11-jun-aug-2021) выложены задания и примеры, которые будут рассматриваться на курсе.
+В [репозитории курса](https://github.com/pyneng/pyneng-online-12-jan-may-2022) выложены задания и примеры, которые будут рассматриваться на курсе.
 
 
 Перед тем, как читать дальше, прочитайте документы:
@@ -21,8 +21,8 @@ permalink: /docs/pyneng-github/
 
 Для копирования репозитория с GitHub, выполните команду git clone:
 ```
-$ git clone https://github.com/pyneng/pyneng-online-11-jun-aug-2021
-Cloning into 'pyneng-online-11-jun-aug-2021'...
+$ git clone https://github.com/pyneng/pyneng-online-12-jan-may-2022
+Cloning into 'pyneng-online-12-jan-may-2022'...
 remote: Counting objects: 500, done.
 remote: Compressing objects: 100% (41/41), done.
 remote: Total 500 (delta 20), reused 47 (delta 10), pack-reused 443
@@ -32,11 +32,11 @@ Resolving deltas: 100% (116/116), done.
 
 ### Обновление локальной копии репозитория
 
-При необходимости обновить локальную версию репозитория, чтобы синхронизировать её с версией на GitHub, надо выполнить git pull внутри созданного каталога pyneng-online-11-jun-aug-2021.
+При необходимости обновить локальную версию репозитория, чтобы синхронизировать её с версией на GitHub, надо выполнить git pull внутри созданного каталога pyneng-online-12-jan-may-2022.
 
 Если обновлений не было, вывод будет таким:
 ```
-$ cd pyneng-online-11-jun-aug-2021/
+$ cd pyneng-online-12-jan-may-2022/
 
 $ git pull
 Already up-to-date.
@@ -49,7 +49,7 @@ remote: Counting objects: 3, done.
 remote: Compressing objects: 100% (1/1), done.
 remote: Total 3 (delta 2), reused 3 (delta 2), pack-reused 0
 Unpacking objects: 100% (3/3), done.
-From https://github.com/pyneng/pyneng-online-11-jun-aug-2021
+From https://github.com/pyneng/pyneng-online-12-jan-may-2022
    49e9f1b..1eb82ad  main     -> origin/main
 Updating 49e9f1b..1eb82ad
 Fast-forward

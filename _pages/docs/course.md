@@ -29,7 +29,7 @@ comments: false
  <tr>
     <td align="center">2</td>
     <td align="center">06.02.22</td>
-    <td>Git, Github, pyneng (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-12/lecture-2/">Git, Github, pyneng (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

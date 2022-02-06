@@ -29,6 +29,11 @@ excerpt: "Git and GitHub"
 * [Установка и подготовка к работе с pyneng](https://pyneng.github.io/docs/pyneng-prepare/)
 * [Как проверять задания, смотреть варианты решения и сдавать на проверку](https://pyneng.github.io/docs/pyneng/)
 
+### Как посмотреть проверку заданий
+
+* [Как посмотреть проверенные задания на github](https://pyneng.github.io/docs/task-check-github/)
+* [Локально на vm/хосте](https://pyneng.github.io/docs/checked-tasks-git/)
+
 ### Как разобраться с конфликтом
 
 * [как разобраться с конфликтом](https://pyneng.github.io/docs/git-conflict/)

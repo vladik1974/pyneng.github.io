@@ -22,6 +22,11 @@ excerpt: "Git and GitHub setup"
 $ sudo apt-get install git
 ```
 
+На Windows git уже установлен, если вы установили [Cmder](https://pyneng.github.io/docs/pynengwindows/)
+
+
+> [Install Git](https://github.com/git-guides/install-git)
+
 ### Первичная настройка Git
 
 Для начала работы с Git необходимо указать имя и email пользователя.

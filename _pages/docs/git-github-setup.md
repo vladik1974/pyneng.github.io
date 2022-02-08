@@ -17,13 +17,7 @@ excerpt: "Git and GitHub setup"
 
 ### Установка Git
 
-Установка Git для Debian/Ubuntu:
-```
-$ sudo apt-get install git
-```
-
 На Windows git уже установлен, если вы установили [Cmder](https://pyneng.github.io/docs/pynengwindows/)
-
 
 > [Install Git](https://github.com/git-guides/install-git)
 
@@ -53,12 +47,13 @@ $ ssh-keygen -t rsa -b 4096 -C "github_email@gmail.com"
 
 На всех вопросах достаточно нажать enter (более безопасно использовать ключ с passphrase, но можно и без, если нажать enter, при вопросе).
 
-Запуск ssh-agent:
+
+Запуск ssh-agent (только для Mac OS/Linux):
 ```
 $ eval "$(ssh-agent -s)"
 ```
 
-Добавить ключ в ssh-agent:
+Добавить ключ в ssh-agent (только для Mac OS/Linux):
 ```
 $ ssh-add ~/.ssh/id_rsa
 ```

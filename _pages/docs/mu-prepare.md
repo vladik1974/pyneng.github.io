@@ -7,194 +7,49 @@ excerpt: "mu"
 [Редактор Mu](https://codewith.mu/) - это редактор для начинающих изучать Python (он поддерживает только Python).
 
 
+# Простой вариант для любой ОС
+
 ## vm курса (vagrant/vmware)
 
-Mu уже установлен, но не самой последней версии.
-Если не обновляться, то все уже готово, Mu можно запускать, он будет работать в виртуальном окружении pyneng-py3-7.
+Все уже готово, Mu можно запускать, он будет работать в виртуальном окружении pyneng-py3-7.
 В этом же окружении делаем все остальное. 
+Установить Python 3.7.
 
+## С нуля на своем хосте/vm
 
-## Windows
+### Windows
 
-Лучше НЕ устанавливать Python отдельно, а если он был установлен, удалить (только для использования Mu).
+Windows - можно работать без вирт окружения.
 
-### Установка
-
-[Ставим Mu используя installer](https://github.com/mu-editor/mu/releases/download/1.1.0-beta.7/Signed-Mu-Editor-1.1.0b7.msi), [подробнее о процессе установки](https://codewith.mu/en/howto/1.1/install_windows)
-
-### Определяем виртуальное окружение Mu
-
-Надо открыть Mu и в любой новый файл вставить такой код
-
-```python
-import sys
-from pprint import pprint
-
-
-pprint(sys.path)
-```
-
-Нажимаем Run. Вывод будет примерно таким:
+Установить Mu
 
 ```
-['c:\\users\\nata\\mu_code',
- 'C:\\Users\\nata\\AppData\\Local\\Programs\\Mu Editor\\Python\\python38.zip',
- 'C:\\Users\\nata\\AppData\\Local\\Programs\\Mu Editor\\Python\\DLLs',
- 'C:\\Users\\nata\\AppData\\Local\\Programs\\Mu Editor\\Python\\lib',
- 'C:\\Users\\nata\\AppData\\Local\\Programs\\Mu Editor\\Python',
- 'C:\\Users\\nata\\AppData\\Local\\python\\mu\\mu_venv-38-20220212-131054',
- 'C:\\Users\\nata\\AppData\\Local\\python\\mu\\mu_venv-38-20220212-131054\\lib\\site-packages',
- 'C:\\Users\\nata\\AppData\\Local\\python\\mu\\mu_venv-38-20220212-131054\\lib\\site-packages\\win32',
- 'C:\\Users\\nata\\AppData\\Local\\python\\mu\\mu_venv-38-20220212-131054\\lib\\site-packages\\win32\\lib',
- 'C:\\Users\\nata\\AppData\\Local\\python\\mu\\mu_venv-38-20220212-131054\\lib\\site-packages\\Pythonwin']
->>> 
+pip install mu-editor
 ```
 
-Нам надо узнать правильный путь к виртуальному окружению Mu. Оно будет называться ``mu_venv-38-...``.
-В данном случае, такой путь:
+### Linux/Mac OS
+
+Создать виртуальное окружение (для Mac OS/Linux):
 
 ```
- 'C:\\Users\\nata\\AppData\\Local\\python\\mu\\mu_venv-38-20220212-131054',
+python3.7 -m venv ~/venv/pyneng-py3-7
 ```
 
-Теперь, для работы в терминале Cmder с Python, надо сначала переходить в это виртуальное окружение так:
+Перейти в вирт окружение (Linux/Mac OS):
 
 ```
-C:\Users\nata\AppData\Local\python\mu\mu_venv-38-20220212-131054\Scripts\activate.bat
+source ~/venv/pyneng-py3-7/bin/activate
 ```
 
-Приглашение изменится на
+Установить Mu
 
 ```
-C:\Users\nata\cmder
-(mu_venv-38-20220212-131054) λ
+pip install mu-editor
 ```
 
-После этого можно переходить в каталог где находится репозиторий и устанавливать pyneng:
+Дальше все время работаем в виртуальном окружении pyneng-py3-7.
+Можно записать переход в вирт. окружение в ``~/.bashrc`` или аналог для ОС.
 
-```
-C:\Users\nata\cmder
-(mu_venv-38-20220212-131054) λ ..\Desktop\pyneng-12\online-12-natasha-samoylenko\
+# Вариант сложнее (плюс только в том что добавится кнопка Tidy для автоформатирования кода)
 
-C:\Users\nata\Desktop\pyneng-12\online-12-natasha-samoylenko(main -> origin)
-(mu_venv-38-20220212-131054) λ pip install .
-```
-
-Установить остальные модули, которые нужны для курса:
-
-```
-pip install -U pytest pytest-clarity pyyaml tabulate jinja2 textfsm netmiko
-```
-
-
-### Работа с терминалом
-
-Дальше запускаем код в Cmder всегда из виртуального окружения.
-
-## Mac OS
-
-Так же как на windows устанавливаем инсталятор, запускаем и смотрим пути (у меня нет Mac поэтому не могу показать пример вывода).
-
-
-## Linux
-
-Устанавливаем mu через pip в Python 3.8.
-
-```
-python3.8 -m pip install mu-editor==1.1.0b7
-```
-
-Запуск mu
-
-```
-mu-editor
-```
-
-### Определяем виртуальное окружение Mu
-
-Надо открыть Mu и в любой новый файл вставить такой код
-
-```python
-import sys
-from pprint import pprint
-
-
-pprint(sys.path)
-```
-
-Нажимаем Run. Вывод будет примерно таким:
-
-```
-['/home/vagrant/mu_code',
- '/home/vagrant/mu_code',
- '/home/vagrant/.local/bin',
- '/usr/local/lib/python38.zip',
- '/usr/local/lib/python3.8',
- '/usr/local/lib/python3.8/lib-dynload',
- '/home/vagrant/.local/share/mu/mu_venv-38-20220212-113653/lib/python3.8/site-packages']
->>> 
-```
-
-Нам надо узнать правильный путь к виртуальному окружению Mu. Оно будет называться ``mu_venv-38-...``.
-В данном случае, такой путь:
-
-```
- '/home/vagrant/.local/share/mu/mu_venv-38-20220212-113653/lib/python3.8/'
-```
-
-Теперь, для работы в терминале Cmder с Python, надо сначала переходить в это виртуальное окружение так:
-
-```
-source /home/vagrant/.local/share/mu/mu_venv-38-20220212-113653/bin/activate
-```
-
-Приглашение изменится на
-
-```
-(mu_venv-38-20220212-113653)
-$
-```
-
-После этого можно переходить в каталог где находится репозиторий и устанавливать pyneng:
-
-```
-cd ~/repos/online-12-natasha-samoylenko
-pip install .
-```
-
-Установить остальные модули, которые нужны для курса:
-
-```
-pip install -U pytest pytest-clarity pyyaml tabulate jinja2 textfsm netmiko
-```
-
-
-## Обновление Mu на vm курса
-
-> Обновляться не обязательно, кроме кнопки Tidy - автоформатирования кода в красивый вид, все остальное работает
-> так же, а из-за обновление многое надо переделывать.
-
-
-Если хочется обновить Mu, чтобы стала доступна фича "Tidy" - запуск автоформатирования кода в красивый вид.
-
-Удаляем старый Mu в вирт окружении pyneng-py3-7 (чтобы потом не было путанницы какой Mu запустился):
-
-```
-pip uninstall mu-editor
-```
-
-Переходим в вирт окружение 3.8
-
-```
-workon pyneng-py3-8
-```
-
-Ставим новый Mu:
-
-```
-pip install mu-editor==1.1.0b7
-```
-
-Будет продолжение ...
-
-> Делаем так, чтобы терминал всегда переходил в вирт окружение 3.8. Меняем в файле ~/.bashrc строку workon 
+[Установка последней версии Mu](https://pyneng.github.io/docs/mu-prepare-new/)

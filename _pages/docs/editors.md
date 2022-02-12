@@ -20,3 +20,8 @@ excerpt: "выбор редактора"
 * [Vim](https://www.youtube.com/playlist?list=PLah0HUih_ZRkiQXDuElo_JW9OfmbEXRpj)
 
 Geany просто как запасной вариант на случай если Mu почему-то не понравится.
+
+
+* [Подготовка к работе с Mu](https://pyneng.github.io/docs/mu-prepare/)
+* [Полезные настройки с Mu](https://pyneng.github.io/docs/mu/)
+* [ПОдготовка другого редактора](https://pyneng.github.io/docs/editor-prepare/)

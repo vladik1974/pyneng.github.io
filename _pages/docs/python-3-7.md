@@ -6,7 +6,7 @@ excerpt: "Python 3.7"
 
 ### Пример установки Python 3.7 на Debian 9
 
-Если установка выполняется на чистой ОС, лучше установить эти пакеты:
+Лучше установить эти пакеты:
 ```
 sudo apt-get install build-essential checkinstall
 sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev

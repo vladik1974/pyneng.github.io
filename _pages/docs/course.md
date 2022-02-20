@@ -59,7 +59,7 @@ comments: false
  <tr>
     <td align="center">6</td>
     <td align="center">20.02.22</td>
-    <td>Типы данных в Python. Создание базовых скриптов (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-12/lecture-6/">Типы данных в Python. Создание базовых скриптов (3ч)</a></td>
     <td align="center">17 (04_data_structures, 05_basic_scripts)</td>
     <td align="center">4.1, 4.2, 4.3, 4.6, 5.1, 5.1a, 5.1b, 5.2</td>
  </tr>

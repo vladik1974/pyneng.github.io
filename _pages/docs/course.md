@@ -67,14 +67,14 @@ comments: false
     <td rowspan="2" align="center">4</td>
     <td align="center">7</td>
     <td align="center">26.02.22</td>
-    <td>Управление ходом программы (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-12/lecture-7/">Управление ходом программы (3ч)</a></td>
     <td align="center">5 (06_control_structures)</td>
     <td align="center">6.1, 6.2, 6.3</td>
  </tr>
  <tr>
     <td align="center">8</td>
     <td align="center">27.02.22</td>
-    <td>Работа с файлами (2ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-12/lecture-8/">Работа с файлами (2ч)</a></td>
     <td align="center">7 (07_files)</td>
     <td align="center">7.1, 7.2, 7.3</td>
  </tr>

@@ -82,14 +82,14 @@ comments: false
     <td rowspan="2" align="center">5</td>
     <td align="center">9</td>
     <td align="center">05.03.22</td>
-    <td>Функции (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-12/lecture-9/">Функции (3ч)</a></td>
     <td align="center">7 (09_functions)</td>
     <td align="center">9.1, 9.1a, 9.2, 9.2a, 9.3</td>
  </tr>
  <tr>
     <td align="center">10</td>
     <td align="center">06.03.22</td>
-    <td>Полезные функции. Примеры использования основ (3ч)</td>
+    <td><a href="https://pyneng.github.io/pyneng-12/lecture-10/">Полезные функции. Примеры использования основ (3ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>

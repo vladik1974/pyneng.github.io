@@ -155,7 +155,7 @@ comments: false
     <td align="center">18.1, 18.1a, 18.2, 18.2a, 18.2b, 18.3</td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">11</td>
+    <td align="center">11</td>
     <td align="center">18</td>
     <td align="center">16.04.22</td>
     <td><a href="https://pyneng.github.io/pyneng-12/lecture-18/">Параллельное подключение к оборудованию (2ч)</a></td>
@@ -163,55 +163,48 @@ comments: false
     <td align="center">19.1, 19.2, 19.3</td>
  </tr>
  <tr>
-    <td align="center">19</td>
-    <td align="center">17.04.22</td>
-    <td><a href="https://pyneng.github.io/pyneng-12/lecture-19/">Параллельное подключение к оборудованию (2ч)</a></td>
-    <td align="center">5 (19_concurrent_connections)</td>
-    <td align="center">19.1, 19.2, 19.3</td>
- </tr>
- <tr>
     <td rowspan="2" align="center">12</td>
-    <td align="center">20</td>
+    <td align="center">19</td>
     <td align="center">23.04.22</td>
-    <td><a href="https://pyneng.github.io/pyneng-12/lecture-20/">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</a></td>
+    <td><a href="https://pyneng.github.io/pyneng-12/lecture-19/">Создание шаблонов конфигураций с помощью Jinja2 (2ч)</a></td>
     <td align="center">6 (20_jinja2)</td>
     <td align="center">20.1, 20.2, 20.3</td>
  </tr>
  <tr>
-    <td align="center">21</td>
+    <td align="center">20</td>
     <td align="center">24.04.22</td>
-    <td><a href="https://pyneng.github.io/pyneng-12/lecture-21/">Обработка вывода команд с помощью TextFSM (3ч)</a></td>
+    <td><a href="https://pyneng.github.io/pyneng-12/lecture-20/">Обработка вывода команд с помощью TextFSM (3ч)</a></td>
     <td align="center">6 (21_textfsm)</td>
     <td align="center">21.1, 21.1a, 21.2, 21.3, 21.4</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">13</td>
-    <td align="center">22</td>
+    <td align="center">21</td>
     <td align="center">07.05.22</td>
-    <td><a href="https://pyneng.github.io/pyneng-12/lecture-22/">ООП. Основы (3ч)</a></td>
+    <td><a href="https://pyneng.github.io/pyneng-12/lecture-21/">ООП. Основы (3ч)</a></td>
     <td align="center">9 (все 22_oop_basics)</td>
     <td align="center">22.1, 22.1a, 22.1b, 22.2, 22.2a</td>
  </tr>
  <tr>
-    <td align="center">23</td>
+    <td align="center">22</td>
     <td align="center">08.05.22</td>
-    <td><a href="https://pyneng.github.io/pyneng-12/lecture-23/">ООП. Специальные методы (2ч)</a></td>
+    <td><a href="https://pyneng.github.io/pyneng-12/lecture-22/">ООП. Специальные методы (2ч)</a></td>
     <td align="center">5 (все 23_oop_spec_methods)</td>
     <td align="center">23.1, 23.1a, 23.2</td>
  </tr> 
  <tr>
     <td align="center">14</td>
-    <td align="center">24</td>
+    <td align="center">23</td>
     <td align="center">14.05.22</td>
-    <td><a href="https://pyneng.github.io/pyneng-12/lecture-24/">ООП. Наследование (3ч)</a></td>
+    <td><a href="https://pyneng.github.io/pyneng-12/lecture-23/">ООП. Наследование (3ч)</a></td>
     <td align="center">7 (все 24_oop_inheritance)</td>
     <td align="center">24.1, 24.2, 24.2a</td>
  </tr> 
  <tr>
     <td align="center">15</td>
-    <td align="center">25</td>
+    <td align="center">24</td>
     <td align="center">21.05.22</td>
-    <td><a href="https://pyneng.github.io/pyneng-12/lecture-25/">Завершающая встреча (2ч)</a></td>
+    <td><a href="https://pyneng.github.io/pyneng-12/lecture-24/">Завершающая встреча (2ч)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
  </tr>  
